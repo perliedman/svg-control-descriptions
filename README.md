@@ -5,7 +5,7 @@ SVG Control Descriptions
 
 In the [`symbols`](symbols/) directory, you will find SVG images of IOF's control descriptions, named according to this standard. You can also find [`lang.json`](symbols/lang.json) which contains the names of these symbols in various languages.
 
-All data in this repository has been extracted from [Purple Pen](https://github.com/petergolde/PurplePen), a free course setting application for orienteering. More specifically, the symbol information has been extracted from [`symbols.xml`](https://github.com/petergolde/PurplePen/blob/master/src/PurplePen/symbols.xml), which contains the same information in the same format.
+All data in this repository has been extracted from [Purple Pen](https://github.com/petergolde/PurplePen), a free course setting application for orienteering. More specifically, the symbol information has been extracted from [`symbols.xml`](https://github.com/petergolde/PurplePen/blob/master/src/PurplePen/symbols.xml), which contains the same information in an internal format.
 
 ## License
 
