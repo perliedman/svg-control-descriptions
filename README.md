@@ -1,7 +1,7 @@
 SVG Control Descriptions
 ========================
 
-[IOF Control Descriptions](https://orienteering.sport/iof/rules/control-descriptions/) for orienteering in SVG formats, with corresponding names in various languages.
+[IOF Control Descriptions](https://orienteering.sport/iof/rules/control-descriptions/) for orienteering in SVG format, with corresponding names in various languages.
 
 In the [`symbols`](symbols/) directory, you will find SVG images of IOF's control descriptions, named according to this standard. You can also find [`lang.json`](symbols/lang.json) which contains the names of these symbols in various languages.
 
@@ -17,7 +17,7 @@ and
 
 > Purple Pen is open source software.
 
-(Quoted from [Purple Pen's homepage](https://purplepen.golde.org/).) I interpret as this data is free to use.
+(Quoted from [Purple Pen's homepage](https://purplepen.golde.org/).) I interpret this as the data is free to use.
 
 ## Running extraction
 
