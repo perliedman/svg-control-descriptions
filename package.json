@@ -1,0 +1,24 @@
+{
+  "name": "svg-control-descriptions",
+  "version": "1.0.0",
+  "description": "IOF Control Descriptions for orienteering in SVG formats",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perliedman/svg-control-descriptions.git"
+  },
+  "keywords": [
+    "orienteering",
+    "svg",
+    "control description"
+  ],
+  "author": "Per Liedman <per@liedman.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perliedman/svg-control-descriptions/issues"
+  },
+  "homepage": "https://github.com/perliedman/svg-control-descriptions#readme",
+  "devDependencies": {
+    "xmldom": "^0.1.27"
+  }
+}
