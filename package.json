@@ -1,6 +1,6 @@
 {
   "name": "svg-control-descriptions",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "IOF Control Descriptions for orienteering in SVG formats",
   "main": "index.js",
   "repository": {
