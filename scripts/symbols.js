@@ -27,6 +27,7 @@ const getSvg = (symbol) => {
 };
 
 const getLang = (symbol) => ({
+  kind: symbol.getAttribute("kind"),
   names: buildDict(symbol, "name", "lang"),
   texts: buildDict(symbol, "text", "lang"),
 });
