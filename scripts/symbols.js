@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const { DOMParser, XMLSerializer, DOMImplementation } = require("xmldom");
+const { DOMParser, XMLSerializer, DOMImplementation } = require("@xmldom/xmldom");
 
 const getSvg = (symbol) => {
   const bounds = getBounds(symbol);
