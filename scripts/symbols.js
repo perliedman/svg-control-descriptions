@@ -4,9 +4,13 @@ const { DOMParser, XMLSerializer, DOMImplementation } = require("xmldom");
 
 const getSvg = (symbol) => {
   const bounds = getBounds(symbol);
-  const width = bounds[2] - bounds[0];
-  const height = bounds[3] - bounds[1];
-  const viewBox = `${bounds[0]} ${bounds[1]} ${width} ${height}`;
+  var width = 200;
+  const height = 200;
+  var viewBox = `-100 -100 200 200`;
+  if (bounds[2] - bounds[0] > 1000) {
+    viewBox =  `-800 -100 1600 200`;
+    width = 1600;
+  }
 
   return {
     type: "svg",
