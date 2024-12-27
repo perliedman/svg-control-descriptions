@@ -13,14 +13,17 @@
       "et": "Start",
       "fi": "Lähtö",
       "fr": "Départ",
+      "hu": "Rajt",
       "it": "Partenza",
       "ja": "スタート",
       "nb-NO": "Start",
       "nn-NO": "Start",
       "pl": "Start",
+      "pt-BR": "Partida",
       "ro": "Start",
       "sv": "Start",
-      "zh-HK": "Start"
+      "zh-HK": "Start",
+      "zh-TW": "地圖起點"
     },
     "texts": {
       "bg": "старт",
@@ -34,14 +37,17 @@
       "et": "start",
       "fi": "lähtö",
       "fr": "départ ",
+      "hu": "rajt",
       "it": "partenza",
       "ja": "スタート",
       "nb-NO": "start",
       "nn-NO": "start",
       "pl": "start",
+      "pt-BR": "Partida",
       "ro": "start",
       "sv": "start",
-      "zh-HK": "起點"
+      "zh-HK": "起點",
+      "zh-TW": "起點"
     }
   },
   "0.1N": {
@@ -58,14 +64,17 @@
       "et": "Põhjapoolne",
       "fi": "Pohjoinen",
       "fr": "Le plus au Nord",
+      "hu": "Északi",
       "it": "Più a nord",
       "ja": "北の",
       "nb-NO": "Nordre",
       "nn-NO": "Nordre",
       "pl": "Northern",
+      "pt-BR": "do Norte",
       "ro": "Nordic",
       "sv": "Norra",
-      "zh-HK": "Northern"
+      "zh-HK": "Northern",
+      "zh-TW": "北方的"
     },
     "texts": {
       "bg": "северният {0}",
@@ -79,14 +88,17 @@
       "et": "Põhjapoolne {0}",
       "fi": "pohjoinen {0}",
       "fr": "{0}, le plus au Nord",
+      "hu": "É {0}",
       "it": "{0} più a nord",
       "ja": "北の{0}",
       "nb-NO": "N {0}",
       "nn-NO": "N {0}",
       "pl": "północny {0}",
+      "pt-BR": "{0} do Norte",
       "ro": "N {0}",
-      "sv": "Norra {0}",
-      "zh-HK": "北方的{0}"
+      "sv": "N {0}",
+      "zh-HK": "北方的{0}",
+      "zh-TW": "北方的 {0}"
     }
   },
   "0.2NE": {
@@ -103,14 +115,17 @@
       "et": "Kirdepoolne",
       "fi": "Koillinen",
       "fr": "Le plus au NE",
+      "hu": "Észak-keleti",
       "it": "Più a nord-est",
       "ja": "北東の",
       "nb-NO": "Nordøstre",
       "nn-NO": "Nordaustre",
       "pl": "North-eastern",
+      "pt-BR": "de Nordeste",
       "ro": "Nord-estic",
       "sv": "Nordöstra",
-      "zh-HK": "North-eastern"
+      "zh-HK": "North-eastern",
+      "zh-TW": "東北方的"
     },
     "texts": {
       "bg": "СИ {0}",
@@ -124,14 +139,17 @@
       "et": "Kirdepoolne {0}",
       "fi": "koillinen {0}",
       "fr": "{0}, le plus au NE",
+      "hu": "ÉK {0}",
       "it": "{0} più a nord-est",
       "ja": "北東の{0}",
       "nb-NO": "NØ {0}",
       "nn-NO": "NA {0}",
       "pl": "północno-wschodni {0}",
+      "pt-BR": "{0} de Nordeste",
       "ro": "NE {0}",
-      "sv": "Nordöstra {0}",
-      "zh-HK": "東北方的{0}"
+      "sv": "NÖ {0}",
+      "zh-HK": "東北方的{0}",
+      "zh-TW": "東北方的 {0}"
     }
   },
   "0.1E": {
@@ -148,14 +166,17 @@
       "et": "Idapoolne",
       "fi": "Itäinen",
       "fr": "Le plus à l'Est",
+      "hu": "Keleti",
       "it": "Più a est",
       "ja": "東の",
       "nb-NO": "Østre",
       "nn-NO": "Austre",
       "pl": "Eastern",
+      "pt-BR": "de Leste",
       "ro": "Estic",
       "sv": "Östra",
-      "zh-HK": "Eastern"
+      "zh-HK": "Eastern",
+      "zh-TW": "東方的"
     },
     "texts": {
       "bg": "източният {0}",
@@ -169,14 +190,17 @@
       "et": "Idapoolne {0}",
       "fi": "itäinen {0}",
       "fr": "{0}, le plus à l'Est",
+      "hu": "K {0}",
       "it": "{0} più a est",
       "ja": "東の{0}",
       "nb-NO": "Ø {0}",
       "nn-NO": "A {0}",
       "pl": "wschodni {0}",
+      "pt-BR": "{0} de Leste",
       "ro": "E {0}",
-      "sv": "Östra {0}",
-      "zh-HK": "東方的{0}"
+      "sv": "Ö {0}",
+      "zh-HK": "東方的{0}",
+      "zh-TW": "東方的 {0}"
     }
   },
   "0.2SE": {
@@ -193,14 +217,17 @@
       "et": "Kagupoolne",
       "fi": "Kaakkoinen",
       "fr": "Le plus au SE",
+      "hu": "Dél-keleti",
       "it": "Più a sud-est",
       "ja": "南東の",
       "nb-NO": "Sørøstre",
       "nn-NO": "Søraustre",
       "pl": "South-eastern",
+      "pt-BR": " de Sudeste",
       "ro": "Sud-estic",
       "sv": "Sydöstra",
-      "zh-HK": "South-eastern"
+      "zh-HK": "South-eastern",
+      "zh-TW": "東南方的"
     },
     "texts": {
       "bg": "ЮИ {0}",
@@ -214,14 +241,17 @@
       "et": "Kagupoolne {0}",
       "fi": "kaakkoinen {0}",
       "fr": "{0}, le plus au SE",
+      "hu": "DK {0}",
       "it": "{0} più a sud-est",
       "ja": "南東の{0}",
       "nb-NO": "SØ {0}",
       "nn-NO": "SA {0}",
       "pl": "południowo-wschodni {0}",
+      "pt-BR": "{0} de Sudeste",
       "ro": "SE {0}",
-      "sv": "Sydöstra {0}",
-      "zh-HK": "東南方的{0}"
+      "sv": "SÖ {0}",
+      "zh-HK": "東南方的{0}",
+      "zh-TW": "東南方的 {0}"
     }
   },
   "0.1S": {
@@ -238,14 +268,17 @@
       "et": "Lõunapoolne",
       "fi": "Eteläinen",
       "fr": "Le plus au Sud",
+      "hu": "Déli",
       "it": "Più a sud",
       "ja": "南の",
       "nb-NO": "Søndre",
       "nn-NO": "Søre",
       "pl": "Southern",
+      "pt-BR": " do Sul",
       "ro": "Sudic",
       "sv": "Södra",
-      "zh-HK": "Southern"
+      "zh-HK": "Southern",
+      "zh-TW": "南方的"
     },
     "texts": {
       "bg": "южният {0}",
@@ -259,14 +292,17 @@
       "et": "Lõunapoolne {0}",
       "fi": "eteläinen {0}",
       "fr": "{0}, le plus au Sud",
+      "hu": "D {0}",
       "it": "{0} più a sud",
       "ja": "南の{0}",
       "nb-NO": "S {0}",
       "nn-NO": "S {0}",
       "pl": "południowy {0}",
+      "pt-BR": "{0} do Sul",
       "ro": "S {0}",
-      "sv": "Södra {0}",
-      "zh-HK": "南方的{0}"
+      "sv": "S {0}",
+      "zh-HK": "南方的{0}",
+      "zh-TW": "南方的 {0}"
     }
   },
   "0.2SW": {
@@ -283,14 +319,17 @@
       "et": "Edelapoolne",
       "fi": "Lounainen",
       "fr": "Le plus au SO",
+      "hu": "Dél-nyugati",
       "it": "Più a sud-ovest",
       "ja": "南西の",
       "nb-NO": "Sørvestre",
       "nn-NO": "Sørvestre",
       "pl": "South-western",
+      "pt-BR": " de Sudoeste",
       "ro": "Sud-vestic",
       "sv": "Sydvästra",
-      "zh-HK": "South-western"
+      "zh-HK": "South-western",
+      "zh-TW": "西南方的"
     },
     "texts": {
       "bg": "ЮЗ {0}",
@@ -304,14 +343,17 @@
       "et": "Edelapoolne {0}",
       "fi": "lounainen {0}",
       "fr": "{0}, le plus au SO",
+      "hu": "DNY {0}",
       "it": "{0} più a sud-ovest",
       "ja": "南西の{0}",
       "nb-NO": "SV {0}",
       "nn-NO": "SV {0}",
       "pl": "południowo-zachodni {0}",
+      "pt-BR": "{0} de Sudoeste",
       "ro": "SW {0}",
-      "sv": "Sydvästra {0}",
-      "zh-HK": "西南方的{0}"
+      "sv": "SV {0}",
+      "zh-HK": "西南方的{0}",
+      "zh-TW": "西南方的 {0}"
     }
   },
   "0.1W": {
@@ -328,14 +370,17 @@
       "et": "Läänepoolne",
       "fi": "Läntinen",
       "fr": "Le plus à l'Ouest",
+      "hu": "Nyugati",
       "it": "Più a ovest",
       "ja": "西の",
       "nb-NO": "Vestre",
       "nn-NO": "Vestre",
       "pl": "Western",
+      "pt-BR": " de Oeste",
       "ro": "Vestic",
       "sv": "Västra",
-      "zh-HK": "Western"
+      "zh-HK": "Western",
+      "zh-TW": "西方的"
     },
     "texts": {
       "bg": "западният {0}",
@@ -349,14 +394,17 @@
       "et": "Läänepoolne {0}",
       "fi": "läntinen {0}",
       "fr": "{0}, le plus à l'Ouest",
+      "hu": "NY {0}",
       "it": "{0} più a ovest",
       "ja": "西の{0}",
       "nb-NO": "V {0}",
       "nn-NO": "V {0}",
       "pl": "zachodni {0}",
+      "pt-BR": "{0} de Oeste",
       "ro": "W {0}",
-      "sv": "Västra {0}",
-      "zh-HK": "西方的{0}"
+      "sv": "V {0}",
+      "zh-HK": "西方的{0}",
+      "zh-TW": "西方的{0}"
     }
   },
   "0.2NW": {
@@ -373,14 +421,17 @@
       "et": "Loodepoolne",
       "fi": "Luoteinen",
       "fr": "Le plus au NO",
+      "hu": "Észak-nyugati",
       "it": "Più a nord-ovest",
       "ja": "北西の",
       "nb-NO": "Nordvestre",
       "nn-NO": "Nordvestre",
       "pl": "North-western",
+      "pt-BR": " de Noroeste",
       "ro": "Nord-vestic",
       "sv": "Nordvästra",
-      "zh-HK": "North-western"
+      "zh-HK": "North-western",
+      "zh-TW": "西北方的"
     },
     "texts": {
       "bg": "СЗ {0}",
@@ -394,14 +445,17 @@
       "et": "Loodepoolne {0}",
       "fi": "luoteinen {0}",
       "fr": "{0}, le plus au NO",
+      "hu": "ÉNY {0}",
       "it": "{0} più a nord-ovest",
       "ja": "北西の{0}",
       "nb-NO": "NV {0}",
       "nn-NO": "NV {0}",
       "pl": "północno-zachoni {0}",
+      "pt-BR": "{0} de Noroeste",
       "ro": "NW {0}",
-      "sv": "Nordvästra {0}",
-      "zh-HK": "西北方的{0}"
+      "sv": "NV {0}",
+      "zh-HK": "西北方的{0}",
+      "zh-TW": "西北方的{0}"
     }
   },
   "0.3": {
@@ -418,14 +472,17 @@
       "et": "Ülemine",
       "fi": "Ylempi",
       "fr": "Supérieur",
+      "hu": "Felső",
       "it": "Superiore",
       "ja": "上の",
       "nb-NO": "Øvre",
       "nn-NO": "Øvre",
       "pl": "Upper",
+      "pt-BR": "De cima",
       "ro": "Superior",
       "sv": "Övre",
-      "zh-HK": "Upper"
+      "zh-HK": "Upper",
+      "zh-TW": "較高處的"
     },
     "texts": {
       "bg": "горният {0}",
@@ -439,14 +496,17 @@
       "et": "ülemine {0}",
       "fi": "ylempi {0}",
       "fr": "{0} supérieur",
+      "hu": "felső {0}",
       "it": "{0} superiore",
       "ja": "上の{0}",
       "nb-NO": "øvre {0}",
       "nn-NO": "øvre {0}",
       "pl": "górny {0}",
+      "pt-BR": "{0} de cima",
       "ro": "superior {0}",
       "sv": "övre {0}",
-      "zh-HK": "上面的{0}"
+      "zh-HK": "上面的{0}",
+      "zh-TW": "較高處的 {0}"
     }
   },
   "0.4": {
@@ -463,14 +523,17 @@
       "et": "Alumine",
       "fi": "Alempi",
       "fr": "Inférieur",
+      "hu": "Alsó",
       "it": "Inferiore",
       "ja": "下の",
       "nb-NO": "Nedre",
       "nn-NO": "Nedre",
       "pl": "Lower",
+      "pt-BR": "De baixo",
       "ro": "Inferior",
       "sv": "Nedre",
-      "zh-HK": "Lower"
+      "zh-HK": "Lower",
+      "zh-TW": "較低處的"
     },
     "texts": {
       "bg": "долният {0}",
@@ -484,14 +547,17 @@
       "et": "alumine {0}",
       "fi": "alempi {0}",
       "fr": "{0} inférieur",
+      "hu": "alsó {0}",
       "it": "{0} inferiore",
       "ja": "下の{0}",
       "nb-NO": "nedre {0}",
       "nn-NO": "nedre {0}",
       "pl": "dolny {0}",
+      "pt-BR": "{0} de baixo",
       "ro": "inferior {0}",
       "sv": "nedre {0}",
-      "zh-HK": "下面的{0}"
+      "zh-HK": "下面的{0}",
+      "zh-TW": "較低處的 {0}"
     }
   },
   "0.5": {
@@ -508,14 +574,17 @@
       "et": "Keskmine",
       "fi": "Keskimmäinen",
       "fr": "Central",
+      "hu": "Középső",
       "it": "Centrale",
       "ja": "まん中の",
       "nb-NO": "Midtre",
       "nn-NO": "Midtre",
       "pl": "Middle",
+      "pt-BR": "Do meio",
       "ro": "Mijloc",
       "sv": "Mellersta",
-      "zh-HK": "Middle"
+      "zh-HK": "Middle",
+      "zh-TW": "中央的"
     },
     "texts": {
       "bg": "средният {0}",
@@ -529,14 +598,17 @@
       "et": "keskmine {0}",
       "fi": "keskimmäinen {0}",
       "fr": "{0} central",
+      "hu": "középső {0}",
       "it": "{0} centrale",
       "ja": "まん中の{0}",
       "nb-NO": "midtre {0}",
       "nn-NO": "midtre {0}",
       "pl": "środkowy {0}",
+      "pt-BR": "{0} do meio ",
       "ro": "mijloc {0}",
-      "sv": "mellertsa {0}",
-      "zh-HK": "中間的{0}"
+      "sv": "mellersta {0}",
+      "zh-HK": "中間的{0}",
+      "zh-TW": "中央的 {0}"
     }
   },
   "1.1": {
@@ -553,14 +625,17 @@
       "et": "Terass",
       "fi": "Tasanne",
       "fr": "Terrasse",
+      "hu": "Pihenő",
       "it": "Terrazzamento",
       "ja": "テラス",
       "nb-NO": "Nese",
       "nn-NO": "Framspring",
       "pl": "Terrace",
+      "pt-BR": "Platô",
       "ro": "Terasa",
       "sv": "Terrass",
-      "zh-HK": "Terrace"
+      "zh-HK": "Terrace",
+      "zh-TW": "平台"
     },
     "texts": {
       "bg": "тераси",
@@ -574,14 +649,17 @@
       "et": "terasside",
       "fi": "tasanteiden",
       "fr": "terrasses",
+      "hu": "pihenő",
       "it": "terrazzamenti",
       "ja": "テラス",
       "nb-NO": "neser",
       "nn-NO": "Framspring",
       "pl": "tarasy",
+      "pt-BR": "Platôs",
       "ro": "terasă",
-      "sv": "terrassor",
-      "zh-HK": "台地"
+      "sv": "terrassen",
+      "zh-HK": "台地",
+      "zh-TW": "平台"
     }
   },
   "1.2": {
@@ -598,14 +676,17 @@
       "et": "Nina",
       "fi": "Nenä",
       "fr": "Éperon",
+      "hu": "Orr",
       "it": "Naso",
       "ja": "尾根",
       "nb-NO": "Nese",
       "nn-NO": "Nese",
       "pl": "Spur",
+      "pt-BR": "Esporão",
       "ro": "Pinten",
       "sv": "Näsa",
-      "zh-HK": "Spur"
+      "zh-HK": "Spur",
+      "zh-TW": "山脊"
     },
     "texts": {
       "bg": "къси била",
@@ -619,14 +700,17 @@
       "et": "ninade",
       "fi": "nenien",
       "fr": "éperons",
+      "hu": "orr",
       "it": "nasi",
       "ja": "尾根",
       "nb-NO": "neser",
       "nn-NO": "neser",
       "pl": "noski",
+      "pt-BR": "Esporões",
       "ro": "pinten",
-      "sv": "näsarna",
-      "zh-HK": "山咀"
+      "sv": "näsan",
+      "zh-HK": "山咀",
+      "zh-TW": "山脊"
     }
   },
   "1.3": {
@@ -643,14 +727,17 @@
       "et": "Orvand",
       "fi": "Notko",
       "fr": "Rentrant",
+      "hu": "Horpadás",
       "it": "Avvallamento",
       "ja": "沢",
       "nb-NO": "Søkk",
       "nn-NO": "Søkk",
       "pl": "Reentrant",
+      "pt-BR": "Talvegue",
       "ro": "Vâlcel",
       "sv": "Sänka",
-      "zh-HK": "Reentrant"
+      "zh-HK": "Reentrant",
+      "zh-TW": "山谷"
     },
     "texts": {
       "bg": "дерета",
@@ -664,14 +751,17 @@
       "et": "orvandite",
       "fi": "notkojen",
       "fr": "rentrants",
+      "hu": "horpadás",
       "it": "avvallamenti",
       "ja": "沢",
       "nb-NO": "søkk",
       "nn-NO": "søkk",
       "pl": "muldy",
+      "pt-BR": "Talvegues",
       "ro": "vâlcel",
-      "sv": "sänkorna",
-      "zh-HK": "山窩"
+      "sv": "sänkan",
+      "zh-HK": "山窩",
+      "zh-TW": "山谷"
     }
   },
   "1.4": {
@@ -688,14 +778,17 @@
       "et": "Järsak",
       "fi": "Irtomaarinne",
       "fr": "Talus raide",
+      "hu": "Földletörés",
       "it": "Scarpata",
       "ja": "土がけ",
       "nb-NO": "Jordskjæring",
       "nn-NO": "Jordskjæring",
       "pl": "Earth bank",
+      "pt-BR": "Barranco",
       "ro": "Ruptură de teren",
       "sv": "Skärning",
-      "zh-HK": "Earth bank"
+      "zh-HK": "Earth bank",
+      "zh-TW": "土坡"
     },
     "texts": {
       "bg": "земни откоси",
@@ -709,14 +802,17 @@
       "et": "järsakute",
       "fi": "irtomaarinteiden",
       "fr": "talus raides",
+      "hu": "földletörés",
       "it": "scarpate",
       "ja": "土がけ",
       "nb-NO": "jordskjæring",
       "nn-NO": "jordskjæring",
       "pl": "skarpy",
+      "pt-BR": "Barrancos",
       "ro": "ruptură de teren",
-      "sv": "skärningar",
-      "zh-HK": "泥坡"
+      "sv": "skärningen",
+      "zh-HK": "泥坡",
+      "zh-TW": "土坡"
     }
   },
   "1.5": {
@@ -733,14 +829,17 @@
       "et": "Karjäär",
       "fi": "Kaivanto",
       "fr": "Carrière",
+      "hu": "Bánya",
       "it": "Cava",
       "ja": "採石場",
       "nb-NO": "Sandtak",
       "nn-NO": "Sandtak",
       "pl": "Quarry",
+      "pt-BR": "Pedreira",
       "ro": "Carieră",
       "sv": "Grustag/stenbrott",
-      "zh-HK": "Quarry"
+      "zh-HK": "Quarry",
+      "zh-TW": "採石地"
     },
     "texts": {
       "bg": "кариери",
@@ -754,14 +853,17 @@
       "et": "karjääride",
       "fi": "kaivantojen",
       "fr": "carrières",
+      "hu": "bánya",
       "it": "cave",
       "ja": "採石場",
       "nb-NO": "sandtak",
       "nn-NO": "sandtak",
       "pl": "wyrobiska",
+      "pt-BR": "Pedreiras",
       "ro": "carieră",
-      "sv": "grustag/stenbrott",
-      "zh-HK": "採石地"
+      "sv": "grustaget/stenbrottet",
+      "zh-HK": "採石地",
+      "zh-TW": "採石地"
     }
   },
   "1.6": {
@@ -778,14 +880,17 @@
       "et": "Pinnasevall",
       "fi": "Maavalli",
       "fr": "Levée de terre",
-      "it": "Muro di terra",
+      "hu": "Töltés",
+      "it": "Terrapieno",
       "ja": "土塁・堤防",
       "nb-NO": "Jordvold",
       "nn-NO": "Jordvold",
       "pl": "Earth wall",
+      "pt-BR": "Talude",
       "ro": "Zid de pământ",
       "sv": "Jordvall",
-      "zh-HK": "Earth wall"
+      "zh-HK": "Earth wall",
+      "zh-TW": "土牆"
     },
     "texts": {
       "bg": "земни диги",
@@ -799,14 +904,17 @@
       "et": "vallide",
       "fi": "maavallien",
       "fr": "levées de terre",
-      "it": "muri di terra",
+      "hu": "töltés",
+      "it": "terrapieni",
       "ja": "土塁",
       "nb-NO": "jordvolder",
       "nn-NO": "jordvolder",
       "pl": "wały ziemne",
+      "pt-BR": "Taludes",
       "ro": "zid de pământ",
-      "sv": "jordvallar",
-      "zh-HK": "土埂"
+      "sv": "jordvallen",
+      "zh-HK": "土埂",
+      "zh-TW": "土牆"
     }
   },
   "1.7": {
@@ -823,14 +931,17 @@
       "et": "Uhteorg",
       "fi": "Uurre",
       "fr": "Ravine",
+      "hu": "Metsződés",
       "it": "Fossa erosiva",
       "ja": "きれつ",
       "nb-NO": "Jordgrøft",
       "nn-NO": "Jordgrøft",
       "pl": "Erosion gully",
+      "pt-BR": "Erosão",
       "ro": "Viroagă",
       "sv": "Fåra",
-      "zh-HK": "Erosion gully"
+      "zh-HK": "Erosion gully",
+      "zh-TW": "沖溝"
     },
     "texts": {
       "bg": "оврази",
@@ -844,14 +955,17 @@
       "et": "uhteorud",
       "fi": "uurteiden",
       "fr": "ravines",
+      "hu": "metsződés",
       "it": "fosse erosive",
       "ja": "きれつ",
       "nb-NO": "jordgrøfter",
       "nn-NO": "jordgrøfter",
       "pl": "rynny",
+      "pt-BR": "Erosões",
       "ro": "viroagă",
-      "sv": "fåror",
-      "zh-HK": "沖溝"
+      "sv": "fåran",
+      "zh-HK": "沖溝",
+      "zh-TW": "沖溝"
     }
   },
   "1.8": {
@@ -868,14 +982,17 @@
       "et": "Väike uhteorg",
       "fi": "Kuiva pieni uoma",
       "fr": "Fossé sec",
+      "hu": "Szárazárok",
       "it": "Canaletta",
       "ja": "小さなきれつ",
       "nb-NO": "Liten jordgrøft",
       "nn-NO": "Små jordgrøft",
       "pl": "Small erosion gully",
+      "pt-BR": "Vala seca",
       "ro": "Viroagă mica",
       "sv": "Liten fåra",
-      "zh-HK": "Small erosion gully"
+      "zh-HK": "Small erosion gully",
+      "zh-TW": "小沖溝"
     },
     "texts": {
       "bg": "канавки",
@@ -889,14 +1006,17 @@
       "et": "väikesed uhteorud",
       "fi": "kuivien pienien uomien",
       "fr": "fossés secs",
+      "hu": "szárazárok",
       "it": "canalette",
       "ja": "小さなきれつ",
       "nb-NO": "små jordgrøfter",
       "nn-NO": "små jordgrøfter",
       "pl": "suche rowy",
+      "pt-BR": "Valas secas",
       "ro": "viroagă mică",
-      "sv": "små fåror",
-      "zh-HK": "小乾溝"
+      "sv": "lilla fåran",
+      "zh-HK": "小乾溝",
+      "zh-TW": "小沖溝"
     }
   },
   "1.9": {
@@ -913,14 +1033,17 @@
       "et": "Küngas",
       "fi": "Kukkula",
       "fr": "Colline",
+      "hu": "Domb",
       "it": "Collina",
       "ja": "こぶ",
       "nb-NO": "Kolle",
       "nn-NO": "Kolle",
       "pl": "Hill",
+      "pt-BR": "Colina",
       "ro": "Mamelon",
       "sv": "Höjd",
-      "zh-HK": "Hill"
+      "zh-HK": "Hill",
+      "zh-TW": "小山"
     },
     "texts": {
       "bg": "върхове",
@@ -934,14 +1057,17 @@
       "et": "künkad",
       "fi": "kukkuloiden",
       "fr": "collines",
+      "hu": "domb",
       "it": "colline",
       "ja": "こぶ",
       "nb-NO": "koller",
       "nn-NO": "koller",
       "pl": "górki",
+      "pt-BR": "Colinas",
       "ro": "mamelon",
       "sv": "höjderna",
-      "zh-HK": "山丘"
+      "zh-HK": "山丘",
+      "zh-TW": "小山"
     }
   },
   "1.10": {
@@ -958,14 +1084,17 @@
       "et": "Tipp",
       "fi": "Kumpare",
       "fr": "Butte",
+      "hu": "Kis kúp",
       "it": "Cocuzzolo",
       "ja": "小さなこぶ",
       "nb-NO": "Høydepunkt",
       "nn-NO": "Høgdepunkt",
       "pl": "Knoll",
+      "pt-BR": "Montículo",
       "ro": "Movilă",
       "sv": "Punkthöjd",
-      "zh-HK": "Knoll"
+      "zh-HK": "Knoll",
+      "zh-TW": "小丘"
     },
     "texts": {
       "bg": "могилки",
@@ -979,14 +1108,17 @@
       "et": "tipud",
       "fi": "kumpareiden",
       "fr": "buttes",
+      "hu": "kis kúp",
       "it": "cocuzzoli",
       "ja": "小さなこぶ",
       "nb-NO": "høydepunkter",
       "nn-NO": "høgdepunkter",
       "pl": "kopczyki",
+      "pt-BR": "Montículos",
       "ro": "movilă",
       "sv": "punkthöjderna",
-      "zh-HK": "小丘"
+      "zh-HK": "小丘",
+      "zh-TW": "小丘"
     }
   },
   "1.11": {
@@ -1003,14 +1135,17 @@
       "et": "Sadul",
       "fi": "Satula",
       "fr": "Col, passage",
+      "hu": "Nyereg",
       "it": "Sella",
       "ja": "鞍部",
       "nb-NO": "Sadel",
       "nn-NO": "Sal",
       "pl": "Saddle",
+      "pt-BR": "Colo",
       "ro": "Șa",
       "sv": "Sadel",
-      "zh-HK": "Saddle"
+      "zh-HK": "Saddle",
+      "zh-TW": "鞍部"
     },
     "texts": {
       "bg": "седла",
@@ -1024,14 +1159,17 @@
       "et": "sadulad",
       "fi": "satuloiden",
       "fr": "cols ou passages",
+      "hu": "nyereg",
       "it": "selle",
       "ja": "鞍部",
       "nb-NO": "sadler",
       "nn-NO": "saler",
       "pl": "siodła",
+      "pt-BR": "Colos",
       "ro": "șa",
-      "sv": "sadlena",
-      "zh-HK": "鞍部"
+      "sv": "sadeln",
+      "zh-HK": "鞍部",
+      "zh-TW": "鞍部"
     }
   },
   "1.12": {
@@ -1048,14 +1186,17 @@
       "et": "Lohk",
       "fi": "Suppa",
       "fr": "Dépression",
+      "hu": "Mélyedés",
       "it": "Depressione",
       "ja": "凹地",
       "nb-NO": "Grop",
       "nn-NO": "Grop",
       "pl": "Depression",
+      "pt-BR": "Depressão",
       "ro": "Găvan",
       "sv": "Grop",
-      "zh-HK": "Depression"
+      "zh-HK": "Depression",
+      "zh-TW": "窪地"
     },
     "texts": {
       "bg": "понори",
@@ -1069,14 +1210,17 @@
       "et": "lohud",
       "fi": "suppien",
       "fr": "dépressions",
+      "hu": "mélyedés",
       "it": "depressioni",
       "ja": "凹地",
       "nb-NO": "grop",
       "nn-NO": "grop",
       "pl": "niecki",
+      "pt-BR": "Depressões",
       "ro": "găvan",
       "sv": "groparna",
-      "zh-HK": "陷地"
+      "zh-HK": "陷地",
+      "zh-TW": "窪地"
     }
   },
   "1.13": {
@@ -1093,14 +1237,17 @@
       "et": "Väike lohk",
       "fi": "Pieni suppa",
       "fr": "Petite dépression",
+      "hu": "Kis mélyedés",
       "it": "Piccola depressione",
       "ja": "小凹地",
       "nb-NO": "Liten naturlig grop",
       "nn-NO": "Lita naturleg grop",
       "pl": "Small depression",
+      "pt-BR": "Pequena depressão",
       "ro": "Groapă mică",
       "sv": "Liten naturlig grop",
-      "zh-HK": "Small depression"
+      "zh-HK": "Small depression",
+      "zh-TW": "小窪地"
     },
     "texts": {
       "bg": "малки ями",
@@ -1114,14 +1261,17 @@
       "et": "väikeste lohkude",
       "fi": "pienien suppien",
       "fr": "petites dépressions",
+      "hu": "kis mélyedés",
       "it": "piccole depressioni",
       "ja": "小凹地",
       "nb-NO": "små naturlige groper",
       "nn-NO": "små naturlege groper",
       "pl": "małe niecki",
+      "pt-BR": "Pequenas depressões",
       "ro": "groapă mică",
-      "sv": "små naturliga gropar",
-      "zh-HK": "小陷地"
+      "sv": "lilla naturliga gropen",
+      "zh-HK": "小陷地",
+      "zh-TW": "小窪地"
     }
   },
   "1.14": {
@@ -1138,14 +1288,17 @@
       "et": "Auk",
       "fi": "Kuoppa",
       "fr": "Trou",
+      "hu": "Gödör",
       "it": "Buca",
       "ja": "穴",
       "nb-NO": "Liten gravd grop",
       "nn-NO": "Lita gravd grop",
       "pl": "Pit",
+      "pt-BR": "Buraco",
       "ro": "Groapă mare",
       "sv": "Liten grävd grop",
-      "zh-HK": "Pit"
+      "zh-HK": "Pit",
+      "zh-TW": "地坑；坑洞"
     },
     "texts": {
       "bg": "дупки",
@@ -1159,14 +1312,17 @@
       "et": "aukude",
       "fi": "kuoppien",
       "fr": "trous",
+      "hu": "gödör",
       "it": "buche",
       "ja": "穴",
       "nb-NO": "små gravde groper",
       "nn-NO": "små gravde groper",
       "pl": "doły",
+      "pt-BR": "Buracos",
       "ro": "groapă mare",
-      "sv": "små grävda gropar",
-      "zh-HK": "地洞"
+      "sv": "lilla grävda gropen",
+      "zh-HK": "地洞",
+      "zh-TW": "坑洞"
     }
   },
   "1.15": {
@@ -1183,14 +1339,17 @@
       "et": "Tõngermaa",
       "fi": "Pienimuotoinen alue",
       "fr": "Terrain accidenté",
+      "hu": "Szabdalt terület",
       "it": "Terreno sconnesso",
       "ja": "凹凸地",
       "nb-NO": "Ujevn bunn",
       "nn-NO": "Ujamn bunn",
       "pl": "Broken ground",
+      "pt-BR": "Terreno acidentado",
       "ro": "Teren frământat",
       "sv": "Småkuperad terräng",
-      "zh-HK": "Broken ground"
+      "zh-HK": "Broken ground",
+      "zh-TW": "崎嶇地面"
     },
     "texts": {
       "bg": "неравни терени/лисичи дупки",
@@ -1204,14 +1363,17 @@
       "et": "tõngermaad",
       "fi": "pienimuotoisten alueiden",
       "fr": "terrains accidentés",
+      "hu": "szabdalt terület",
       "it": "terreni sconnessi",
       "ja": "凹凸地",
       "nb-NO": "ujevne bunner",
       "nn-NO": "Ujamne bunner",
       "pl": "zryte, nierówne tereny",
+      "pt-BR": "Terreno acidentado",
       "ro": "teren frământat",
       "sv": "småkuperad terräng",
-      "zh-HK": "坎地"
+      "zh-HK": "坎地",
+      "zh-TW": "崎嶇地面"
     }
   },
   "1.16": {
@@ -1228,14 +1390,17 @@
       "et": "Sipelgapesa",
       "fi": "Muurahaispesä (tai termiittikeko)",
       "fr": "Fourmilière",
+      "hu": "Hangyaboly",
       "it": "Formicaio",
       "ja": "アリ塚",
       "nb-NO": "Maurtue",
       "nn-NO": "Maurtue",
       "pl": "Ant hill (termite mound)",
+      "pt-BR": "Cupinzeiro",
       "ro": "Mușuroi",
       "sv": "Myrstack",
-      "zh-HK": "Ant hill (termite mound)"
+      "zh-HK": "Ant hill (termite mound)",
+      "zh-TW": "蟻丘"
     },
     "texts": {
       "bg": "мравуняци",
@@ -1249,14 +1414,17 @@
       "et": "sipelgapesade",
       "fi": "muurahaispesien",
       "fr": "fourmilières",
+      "hu": "hangyaboly",
       "it": "formicai",
       "ja": "アリ塚",
       "nb-NO": "maurtuer",
       "nn-NO": "maurtuer",
       "pl": "mrowiska",
+      "pt-BR": "Cupinzeiros",
       "ro": "mușuroi",
-      "sv": "myrstackar",
-      "zh-HK": "蟻丘"
+      "sv": "myrstacken",
+      "zh-HK": "蟻丘",
+      "zh-TW": "蟻丘"
     }
   },
   "2.1": {
@@ -1273,14 +1441,17 @@
       "et": "Kaljud",
       "fi": "Jyrkänne",
       "fr": "Falaise",
-      "it": "Parete di roccia",
+      "hu": "Sziklafal",
+      "it": "Parete rocciosa",
       "ja": "岩がけ・岩壁",
       "nb-NO": "Skrent",
       "nn-NO": "Skrent",
       "pl": "Cliff",
+      "pt-BR": "Penhasco",
       "ro": "Margine stâncoasă",
       "sv": "Brant",
-      "zh-HK": "Cliff"
+      "zh-HK": "Cliff",
+      "zh-TW": "陡壁、峭壁"
     },
     "texts": {
       "bg": "скали",
@@ -1294,14 +1465,17 @@
       "et": "kaljude",
       "fi": "jyrkänteiden",
       "fr": "falaises",
-      "it": "pareti di roccia",
+      "hu": "sziklafal",
+      "it": "pareti rocciose",
       "ja": "岩がけ",
       "nb-NO": "skrenter",
       "nn-NO": "skrenter",
       "pl": "ścianki skalne",
+      "pt-BR": "Penhascos",
       "ro": "margine stâncoasă",
-      "sv": "brantarna",
-      "zh-HK": "崖壁"
+      "sv": "branten",
+      "zh-HK": "崖壁",
+      "zh-TW": "陡壁"
     }
   },
   "2.2": {
@@ -1318,14 +1492,17 @@
       "et": "Suur kivi",
       "fi": "Kivipilari",
       "fr": "Aiguille rocheuse",
+      "hu": "Rock pillar",
       "it": "Spuntone di roccia",
       "ja": "柱状の岩",
       "nb-NO": "Steinmonument",
       "nn-NO": "Steinmonument",
       "pl": "Rock pillar",
+      "pt-BR": "Rocha Alta",
       "ro": "Stâlp piatră",
       "sv": "Klippa",
-      "zh-HK": "Rock pillar"
+      "zh-HK": "Rock pillar",
+      "zh-TW": "石柱"
     },
     "texts": {
       "bg": "канари",
@@ -1339,14 +1516,17 @@
       "et": "suurete kivide",
       "fi": "kivipilarien",
       "fr": "aiguilles rocheuses",
+      "hu": "sziklatorony",
       "it": "spuntoni di roccia",
       "ja": "柱状の岩",
       "nb-NO": "steinmonumenter",
       "nn-NO": "steinmonumenter",
       "pl": "ostańce",
+      "pt-BR": "Rochas altas",
       "ro": "stâlp piatră",
       "sv": "klipporna",
-      "zh-HK": "石柱"
+      "zh-HK": "石柱",
+      "zh-TW": "石柱"
     }
   },
   "2.3": {
@@ -1363,14 +1543,17 @@
       "et": "Koobas",
       "fi": "Luola",
       "fr": "Caverne",
+      "hu": "Barlang",
       "it": "Caverna",
       "ja": "横穴",
       "nb-NO": "Hule",
       "nn-NO": "Hule",
       "pl": "Cave",
+      "pt-BR": "Caverna",
       "ro": "Peșteră",
       "sv": "Grotta",
-      "zh-HK": "Cave"
+      "zh-HK": "Cave",
+      "zh-TW": "山洞"
     },
     "texts": {
       "bg": "пещери",
@@ -1384,14 +1567,17 @@
       "et": "koopad",
       "fi": "luolien",
       "fr": "cavernes",
+      "hu": "barlang",
       "it": "caverne",
       "ja": "横穴",
       "nb-NO": "huler",
       "nn-NO": "huler",
       "pl": "jaskinie",
+      "pt-BR": "Cavernas",
       "ro": "peșteră",
       "sv": "grottorna",
-      "zh-HK": "山洞"
+      "zh-HK": "山洞",
+      "zh-TW": "山洞"
     }
   },
   "2.4": {
@@ -1408,14 +1594,17 @@
       "et": "Kivi",
       "fi": "Kivi",
       "fr": "Rocher, bloc",
+      "hu": "Sziklatömb",
       "it": "Masso",
       "ja": "岩",
       "nb-NO": "Stein",
       "nn-NO": "Stein",
       "pl": "Boulder",
+      "pt-BR": "Pedra",
       "ro": "Bolovan",
       "sv": "Sten",
-      "zh-HK": "Boulder"
+      "zh-HK": "Boulder",
+      "zh-TW": "石塊"
     },
     "texts": {
       "bg": "камъни",
@@ -1429,14 +1618,17 @@
       "et": "kivid",
       "fi": "kivien",
       "fr": "rochers ou blocs",
+      "hu": "sziklatömb",
       "it": "massi",
       "ja": "岩",
       "nb-NO": "steiner",
       "nn-NO": "steiner",
       "pl": "głazy",
+      "pt-BR": "Pedras",
       "ro": "bolovan",
       "sv": "stenarna",
-      "zh-HK": "大石"
+      "zh-HK": "大石",
+      "zh-TW": "石塊"
     }
   },
   "2.5": {
@@ -1453,14 +1645,17 @@
       "et": "Kivine väli",
       "fi": "Louhikko",
       "fr": "Zone rocheuse",
-      "it": "Zona sassosa",
+      "hu": "Szikla mező",
+      "it": "Zona di massi",
       "ja": "岩石地",
       "nb-NO": "Steinrøys",
       "nn-NO": "Steinrøys",
       "pl": "Boulder field",
+      "pt-BR": "Área de pedras",
       "ro": "Teren bolovănos",
       "sv": "Blockterräng",
-      "zh-HK": "Boulder field"
+      "zh-HK": "Boulder field",
+      "zh-TW": "石群"
     },
     "texts": {
       "bg": "каменни полета",
@@ -1474,14 +1669,17 @@
       "et": "kivised alad",
       "fi": "louhikkojen",
       "fr": "zones rocheuses",
-      "it": "zone sassose",
+      "hu": "szikla mező",
+      "it": "zone di massi",
       "ja": "岩石地",
       "nb-NO": "steinrøyser",
       "nn-NO": "steinrøyser",
       "pl": "pola skalne",
+      "pt-BR": "Área de pedras",
       "ro": "teren bolovănos",
       "sv": "blockterrängen",
-      "zh-HK": "群石地"
+      "zh-HK": "群石地",
+      "zh-TW": "石群"
     }
   },
   "2.6": {
@@ -1498,14 +1696,17 @@
       "et": "Kivihunnik",
       "fi": "Kiviryhmä",
       "fr": "Tas de pierre",
+      "hu": "Szikla csoport",
       "it": "Gruppo di massi",
       "ja": "岩石群",
       "nb-NO": "Steinblokk",
       "nn-NO": "Steinblokk",
       "pl": "Boulder cluster",
+      "pt-BR": "Monte de pedras",
       "ro": "Adunătură de bolovani",
       "sv": "Stensamling",
-      "zh-HK": "Boulder cluster"
+      "zh-HK": "Boulder cluster",
+      "zh-TW": "石堆"
     },
     "texts": {
       "bg": "групи камъни",
@@ -1519,14 +1720,17 @@
       "et": "kivihunnikute",
       "fi": "kiviryhmien",
       "fr": "tas de pierre",
+      "hu": "szikla csoport",
       "it": "gruppi di massi",
       "ja": "岩石群",
       "nb-NO": "steinblokker",
       "nn-NO": "steinblokker",
       "pl": "grupy skał",
+      "pt-BR": "Montes de pedras",
       "ro": "adunătură de bolovani",
       "sv": "stensamlingarna",
-      "zh-HK": "大石堆"
+      "zh-HK": "大石堆",
+      "zh-TW": "石堆"
     }
   },
   "2.7": {
@@ -1543,14 +1747,17 @@
       "et": "Kivine ala",
       "fi": "Kivikko",
       "fr": "Pierrier",
+      "hu": "Kőmező",
       "it": "Terreno sassoso",
       "ja": "礫(れき)地",
       "nb-NO": "Steinete bunn",
       "nn-NO": "Steinete botn",
       "pl": "Stony ground",
+      "pt-BR": "Terreno pedregoso",
       "ro": "teren pietros",
       "sv": "Stenig mark",
-      "zh-HK": "Stony ground"
+      "zh-HK": "Stony ground",
+      "zh-TW": "碎石地"
     },
     "texts": {
       "bg": "каменисти области",
@@ -1564,14 +1771,17 @@
       "et": "kivised pinnased",
       "fi": "kivikkojen",
       "fr": "pierriers",
+      "hu": "kőmező",
       "it": "terreni sassosi",
       "ja": "礫地",
       "nb-NO": "steinete bunner",
       "nn-NO": "steinete botner",
       "pl": "kamieniste tereny",
+      "pt-BR": "Terrenos pedregosos",
       "ro": "teren pietros",
       "sv": "stenig mark",
-      "zh-HK": "碎石地"
+      "zh-HK": "碎石地",
+      "zh-TW": "碎石地"
     }
   },
   "2.8": {
@@ -1588,14 +1798,17 @@
       "et": "Avakalju",
       "fi": "Avokallio",
       "fr": "Affleurement rocheux",
+      "hu": "Csupasz szikla felszín",
       "it": "Roccia affiorante",
       "ja": "露岩",
       "nb-NO": "Barfjell",
       "nn-NO": "Barfjell",
       "pl": "Bare rock",
+      "pt-BR": "Afloramento rochoso",
       "ro": "Stâncă",
       "sv": "Berg i dagen",
-      "zh-HK": "Bare rock"
+      "zh-HK": "Bare rock",
+      "zh-TW": "裸岩地"
     },
     "texts": {
       "bg": "открити скали",
@@ -1609,14 +1822,17 @@
       "et": "avakaljud",
       "fi": "avokallioiden",
       "fr": "affleurements rocheux",
+      "hu": "csupasz szika felszín",
       "it": "rocce affioranti",
       "ja": "露岩",
       "nb-NO": "barfjell",
       "nn-NO": "barfjell",
       "pl": "płaszczyzny skalne",
+      "pt-BR": "Afloramentos rochosos",
       "ro": "stâncă",
       "sv": "berg i dagen",
-      "zh-HK": "岩石地"
+      "zh-HK": "岩石地",
+      "zh-TW": "裸岩地"
     }
   },
   "2.9": {
@@ -1633,14 +1849,17 @@
       "et": "Kitsas läbipääs",
       "fi": "Sola",
       "fr": "Passage étroit (entre falaise)",
+      "hu": "Keskeny átjáró",
       "it": "Passaggio stretto",
       "ja": "がけの間の通過部分",
       "nb-NO": "Smal passasje",
       "nn-NO": "Smal passage",
       "pl": "Narrow passage",
+      "pt-BR": "Passagem estreita",
       "ro": "Pasaj îngust",
       "sv": "Trång passage",
-      "zh-HK": "Narrow passage"
+      "zh-HK": "Narrow passage",
+      "zh-TW": "狹窄通道"
     },
     "texts": {
       "bg": "проходи",
@@ -1654,25 +1873,34 @@
       "et": "kitsad läbipääsud",
       "fi": "solien",
       "fr": "passages étroits",
+      "hu": "keskeny átjáró",
       "it": "passaggi stretti",
       "ja": "がけの間の通過部分",
       "nb-NO": "smale passasjer",
       "nn-NO": "smale passasjer",
       "pl": "wąskie przejścia",
+      "pt-BR": "Passagens estreitas",
       "ro": "pasaj îngust",
-      "sv": "trångar passager",
-      "zh-HK": "崖間狹路"
+      "sv": "trånga passagen",
+      "zh-HK": "崖間狹路",
+      "zh-TW": "狹窄通道"
     }
   },
   "2.10": {
     "kind": "D",
     "names": {
+      "de": "Steiniger Graben",
       "en": "Trench",
-      "it": "Trincea"
+      "it": "Trincea",
+      "pt-BR": "Trincheira",
+      "zh-TW": "Trench"
     },
     "texts": {
+      "de": "Steiniger Graben",
       "en": "trenches",
-      "it": "trincee"
+      "it": "trincee",
+      "pt-BR": "Trincheiras",
+      "zh-TW": "trench"
     }
   },
   "3.1": {
@@ -1689,14 +1917,17 @@
       "et": "Järv",
       "fi": "Vesialue",
       "fr": "Étang ou lac",
+      "hu": "Tó",
       "it": "Lago",
       "ja": "湖",
       "nb-NO": "Vann",
       "nn-NO": "Vatn",
       "pl": "Lake",
+      "pt-BR": "Lago",
       "ro": "Lac",
       "sv": "Sjö",
-      "zh-HK": "Lake"
+      "zh-HK": "Lake",
+      "zh-TW": "湖泊"
     },
     "texts": {
       "bg": "езера",
@@ -1710,14 +1941,17 @@
       "et": "järved",
       "fi": "vesialueiden",
       "fr": "étangs ou lacs",
+      "hu": "tó",
       "it": "laghi",
       "ja": "湖",
       "nb-NO": "vann",
       "nn-NO": "vatn",
       "pl": "jeziora",
+      "pt-BR": "Lagos",
       "ro": "lac",
       "sv": "sjöarna",
-      "zh-HK": "湖"
+      "zh-HK": "湖",
+      "zh-TW": "湖泊"
     }
   },
   "3.2": {
@@ -1734,14 +1968,17 @@
       "et": "Tiik",
       "fi": "Lammikko",
       "fr": "Mare",
+      "hu": "Kis tó",
       "it": "Stagno",
       "ja": "池・沼",
       "nb-NO": "Pytt",
       "nn-NO": "Pytt",
       "pl": "Pond",
+      "pt-BR": "Pequeno Lago",
       "ro": "Baltă",
       "sv": "Göl",
-      "zh-HK": "Pond"
+      "zh-HK": "Pond",
+      "zh-TW": "池塘"
     },
     "texts": {
       "bg": "езерца",
@@ -1755,14 +1992,17 @@
       "et": "tiigid",
       "fi": "lammikoiden",
       "fr": "mares",
+      "hu": "kis tó",
       "it": "stagni",
       "ja": "池",
       "nb-NO": "pytter",
       "nn-NO": "pytter",
       "pl": "stawy",
+      "pt-BR": "Pequenos Lagos",
       "ro": "baltă",
       "sv": "gölarna",
-      "zh-HK": "池塘"
+      "zh-HK": "池塘",
+      "zh-TW": "池塘"
     }
   },
   "3.3": {
@@ -1779,14 +2019,17 @@
       "et": "Vee auk",
       "fi": "Vesikuoppa",
       "fr": "Trou d'eau",
+      "hu": "Vizes gödör",
       "it": "Buca d'acqua",
       "ja": "小さな池",
       "nb-NO": "Vannfylt grop",
       "nn-NO": "Vatnfylt grop",
       "pl": "Water hole",
+      "pt-BR": "Buraco com água",
       "ro": "Groapă cu apă",
       "sv": "Vattenhål",
-      "zh-HK": "Water hole"
+      "zh-HK": "Water hole",
+      "zh-TW": "水坑"
     },
     "texts": {
       "bg": "водни дупки",
@@ -1800,14 +2043,17 @@
       "et": "vee augud",
       "fi": "vesikuoppien",
       "fr": "trous d'eau",
+      "hu": "vizes gödör",
       "it": "buche d'acqua",
       "ja": "小さな池",
       "nb-NO": "vannfylte groper",
       "nn-NO": "vatnfylte groper",
       "pl": "doły z wodą",
+      "pt-BR": "Buracos com água",
       "ro": "groapă cu apă",
-      "sv": "vattenhålen",
-      "zh-HK": "水洞"
+      "sv": "vattenhålet",
+      "zh-HK": "水洞",
+      "zh-TW": "水坑"
     }
   },
   "3.4": {
@@ -1824,14 +2070,17 @@
       "et": "Jõgi, kraav, kanal",
       "fi": "Joki, puro, oja",
       "fr": "Cours d'eau",
+      "hu": "Vízfolyás",
       "it": "Ruscello",
       "ja": "河川・小川・水路",
       "nb-NO": "Bekk",
       "nn-NO": "Bekk",
       "pl": "River, stream, water course",
+      "pt-BR": "Rio",
       "ro": "Râu, fir, curs de apă",
-      "sv": "Älv, Å, Vattendrag",
-      "zh-HK": "River, stream, water course"
+      "sv": "Vattendrag, å/bäck",
+      "zh-HK": "River, stream, water course",
+      "zh-TW": "河川、溪流、水道"
     },
     "texts": {
       "bg": "реки, потоци",
@@ -1845,14 +2094,17 @@
       "et": "jõed",
       "fi": "ojien",
       "fr": "cours d'eau",
+      "hu": "vízfolyás",
       "it": "ruscelli",
       "ja": "小川",
       "nb-NO": "bekker",
       "nn-NO": "bekker",
       "pl": "strumienie",
+      "pt-BR": "Rios",
       "ro": "fir",
-      "sv": "vattendrag",
-      "zh-HK": "河溪"
+      "sv": "vattendraget",
+      "zh-HK": "河溪",
+      "zh-TW": "水道"
     }
   },
   "3.5": {
@@ -1869,14 +2121,17 @@
       "et": "Väike kanal, kraav",
       "fi": "Epäselvä oja",
       "fr": "Fossé ou rigole",
+      "hu": "Vizes árok",
       "it": "Rigagnolo",
       "ja": "細い水路",
       "nb-NO": "Grøft",
       "nn-NO": "Grøft",
       "pl": "Minor water channel, ditch",
+      "pt-BR": "Canal",
       "ro": "Canal mic de apă, șanț",
       "sv": "Mindre vattendrag, dike",
-      "zh-HK": "Minor water channel, ditch"
+      "zh-HK": "Minor water channel, ditch",
+      "zh-TW": "小水道；溝渠"
     },
     "texts": {
       "bg": "малки водни канали",
@@ -1890,14 +2145,17 @@
       "et": "kraavid",
       "fi": "epäselvien ojien",
       "fr": "fossés ou rigoles",
+      "hu": "vizes árok",
       "it": "rigagnoli",
       "ja": "細い水路",
       "nb-NO": "grøfter",
       "nn-NO": "grøfter",
       "pl": "rowy",
+      "pt-BR": "Canais",
       "ro": "șanț",
-      "sv": "diken",
-      "zh-HK": "小溝"
+      "sv": "diket",
+      "zh-HK": "小溝",
+      "zh-TW": "小水道"
     }
   },
   "3.6": {
@@ -1914,14 +2172,17 @@
       "et": "Soo riba",
       "fi": "Suojuotti",
       "fr": "Marais étroit",
-      "it": "Striscia di palude",
+      "hu": "Keskeny mocsár",
+      "it": "Striscia paludosa",
       "ja": "細い湿地",
       "nb-NO": "Råsig",
       "nn-NO": "Råsig",
       "pl": "Narrow marsh",
+      "pt-BR": "Charco estreito",
       "ro": "Mlaștina ingustă",
-      "sv": "Smal sankmark",
-      "zh-HK": "Narrow marsh"
+      "sv": "Surdrag",
+      "zh-HK": "Narrow marsh",
+      "zh-TW": "狹窄沼澤"
     },
     "texts": {
       "bg": "заблатени ивици",
@@ -1935,14 +2196,17 @@
       "et": "sooribad",
       "fi": "suojuottien",
       "fr": "marais étroits",
-      "it": "strisce di palude",
+      "hu": "keskeny mocsár",
+      "it": "strisce paludose",
       "ja": "細い湿地",
       "nb-NO": "råsig",
       "nn-NO": "råsig",
       "pl": "wąskie bagna",
+      "pt-BR": "Charcos estreitos",
       "ro": "mlaștina ingustă",
-      "sv": "smala sankmarker",
-      "zh-HK": "狹窄沼澤"
+      "sv": "surdraget",
+      "zh-HK": "狹窄沼澤",
+      "zh-TW": "狹窄沼澤"
     }
   },
   "3.7": {
@@ -1959,14 +2223,17 @@
       "et": "Soo",
       "fi": "Suo",
       "fr": "Marais",
+      "hu": "Mocsár",
       "it": "Palude",
       "ja": "湿地",
       "nb-NO": "Myr",
       "nn-NO": "Myr",
       "pl": "Marsh",
+      "pt-BR": "Charco, pântano",
       "ro": "Mlaștină",
       "sv": "Sankmark",
-      "zh-HK": "Marsh"
+      "zh-HK": "Marsh",
+      "zh-TW": "沼澤"
     },
     "texts": {
       "bg": "блата",
@@ -1980,14 +2247,17 @@
       "et": "sood",
       "fi": "soiden",
       "fr": "marais",
+      "hu": "mocsár",
       "it": "paludi",
       "ja": "湿地",
       "nb-NO": "myrer",
       "nn-NO": "myrer",
       "pl": "bagna",
+      "pt-BR": "Charcos",
       "ro": "mlaștină",
-      "sv": "sankmarker",
-      "zh-HK": "沼澤"
+      "sv": "sankmarken",
+      "zh-HK": "沼澤",
+      "zh-TW": "沼澤"
     }
   },
   "3.8": {
@@ -2004,14 +2274,17 @@
       "et": "Firm ground in marsh",
       "fi": "Kovan maan alue suolla",
       "fr": "Terrain ferme dans marais",
+      "hu": "Szilárd talaj a mocsárban",
       "it": "Terreno compatto circondato da palude",
       "ja": "湿地の中の乾燥地",
       "nb-NO": "Fast grunn i myr",
       "nn-NO": "Fast grunn i myr",
       "pl": "Firm ground in marsh",
+      "pt-BR": "Terra firme no charco",
       "ro": "Teren stabil în mlaștină",
       "sv": "Fastmark i sankmark",
-      "zh-HK": "Firm ground in marsh"
+      "zh-HK": "Firm ground in marsh",
+      "zh-TW": "沼澤中乾地"
     },
     "texts": {
       "bg": "твърди почви в блато",
@@ -2025,14 +2298,17 @@
       "et": "mineraalmaad",
       "fi": "suon kovan maan alueiden",
       "fr": "terrains fermes",
+      "hu": "szilárd talaj a mocsárban",
       "it": "terreni compatti circondati da palude",
       "ja": "湿地の中の乾燥地",
       "nb-NO": "fast grunn i myr",
       "nn-NO": "fast grunn i myr",
       "pl": "stałe grunty na bagnie",
+      "pt-BR": "Terras firmes no charco",
       "ro": "teren stabil în mlaștină",
       "sv": "fastmark",
-      "zh-HK": "沼澤中的乾地"
+      "zh-HK": "沼澤中的乾地",
+      "zh-TW": "沼澤中乾地"
     }
   },
   "3.9": {
@@ -2049,14 +2325,17 @@
       "et": "Kaev, Läte",
       "fi": "Kaivo",
       "fr": "Puits",
+      "hu": "Kút",
       "it": "Fontana",
       "ja": "井戸",
       "nb-NO": "Brønner",
       "nn-NO": "Brønn",
       "pl": "Well",
+      "pt-BR": "Poço",
       "ro": "Fântână",
       "sv": "Brunn",
-      "zh-HK": "Well"
+      "zh-HK": "Well",
+      "zh-TW": "水井"
     },
     "texts": {
       "bg": "кладенци",
@@ -2070,14 +2349,17 @@
       "et": "kaevud",
       "fi": "kaivojen",
       "fr": "puits",
+      "hu": "kút",
       "it": "fontane",
       "ja": "井戸",
       "nb-NO": "brønner",
       "nn-NO": "brønner",
       "pl": "studnie",
+      "pt-BR": "Poços",
       "ro": "fântână",
       "sv": "brunnarna",
-      "zh-HK": "水井"
+      "zh-HK": "水井",
+      "zh-TW": "水井"
     }
   },
   "3.10": {
@@ -2094,14 +2376,17 @@
       "et": "Oja",
       "fi": "Lähde",
       "fr": "Source",
+      "hu": "Forrás",
       "it": "Sorgente",
       "ja": "湧水点",
       "nb-NO": "Kilde",
       "nn-NO": "Kjelde",
       "pl": "Spring",
+      "pt-BR": "Nascente",
       "ro": "Izvor",
       "sv": "Källa",
-      "zh-HK": "Spring"
+      "zh-HK": "Spring",
+      "zh-TW": "泉源"
     },
     "texts": {
       "bg": "извори",
@@ -2115,14 +2400,17 @@
       "et": "allikad",
       "fi": "lähteiden",
       "fr": "sources",
+      "hu": "forrás",
       "it": "sorgenti",
       "ja": "湧水点",
       "nb-NO": "kilder",
       "nn-NO": "kjelder",
       "pl": "źródła",
+      "pt-BR": "Nascentes",
       "ro": "izvor",
       "sv": "källorna",
-      "zh-HK": "水泉"
+      "zh-HK": "水泉",
+      "zh-TW": "泉源"
     }
   },
   "3.11": {
@@ -2139,14 +2427,17 @@
       "et": "Veeanum, bassein",
       "fi": "Vesisäiliö",
       "fr": "Réservoir d'eau, citerne",
-      "it": "Cisterna d'acqua",
+      "hu": "Víztartály, vályú",
+      "it": "Cisterna",
       "ja": "貯水槽",
       "nb-NO": "Vanntank",
       "nn-NO": "Vatntank",
       "pl": "Water tank, trough",
+      "pt-BR": "Tanque com água",
       "ro": "Rezervor de apă",
       "sv": "Vattentank",
-      "zh-HK": "Water tank, trough"
+      "zh-HK": "Water tank, trough",
+      "zh-TW": "水箱"
     },
     "texts": {
       "bg": "каптажи, водни резервоари",
@@ -2160,14 +2451,17 @@
       "et": "veemahutid",
       "fi": "vesisäiliöiden",
       "fr": "réservoirs d'eau ou citernes",
-      "it": "cisterne d'acqua",
+      "hu": "víztartály, vályú",
+      "it": "cisterne",
       "ja": "貯水槽",
       "nb-NO": "vanntanker",
       "nn-NO": "vatntanker",
       "pl": "zbiorniki z wodą",
+      "pt-BR": "Tanques com água",
       "ro": "rezervor de apă",
       "sv": "vattentank",
-      "zh-HK": "水箱"
+      "zh-HK": "水箱",
+      "zh-TW": "水箱"
     }
   },
   "4.1": {
@@ -2184,14 +2478,17 @@
       "et": "Avatud ala",
       "fi": "Avoin alue",
       "fr": "Champ",
+      "hu": "Nyílt terület",
       "it": "Terreno aperto",
       "ja": "開けた土地",
       "nb-NO": "Åpent område",
       "nn-NO": "Ope område",
       "pl": "Open land",
+      "pt-BR": "Área aberta",
       "ro": "Teren deschis",
       "sv": "Öppen mark",
-      "zh-HK": "Open land"
+      "zh-HK": "Open land",
+      "zh-TW": "空曠地"
     },
     "texts": {
       "bg": "открити площи",
@@ -2205,14 +2502,17 @@
       "et": "avatud alad",
       "fi": "avointen alueiden",
       "fr": "champs",
+      "hu": "nyílt terület",
       "it": "terreni aperti",
       "ja": "開けた土地",
       "nb-NO": "åpne områder",
       "nn-NO": "opne områder",
       "pl": "tereny otwarte",
+      "pt-BR": "Áreas abertas",
       "ro": "teren deschis",
       "sv": "öppen mark",
-      "zh-HK": "空曠地"
+      "zh-HK": "空曠地",
+      "zh-TW": "空曠地"
     }
   },
   "4.2": {
@@ -2229,14 +2529,17 @@
       "et": "Pool-avatud alad",
       "fi": "Puoliavoin alue",
       "fr": "Zone partiellement boisée",
+      "hu": "Nyílt terület elszórtan fákkal",
       "it": "Terreno semiaperto",
       "ja": "半ば開けた土地",
       "nb-NO": "Halvåpent område",
       "nn-NO": "Halvope område",
       "pl": "Semi-open land",
+      "pt-BR": "Área semi-aberta",
       "ro": "Teren semideschis",
       "sv": "Halvöppen mark",
-      "zh-HK": "Semi-open land"
+      "zh-HK": "Semi-open land",
+      "zh-TW": "有零散樹木的空曠地"
     },
     "texts": {
       "bg": "полуоткрити площи",
@@ -2250,14 +2553,17 @@
       "et": "poollagedad alad",
       "fi": "puoliavointen alueiden",
       "fr": "zones partiellement boisées",
+      "hu": "nyílt terület elszórtan fákkal",
       "it": "terreni semiaperti",
       "ja": "半ば開けた土地",
       "nb-NO": "halvåpne områder",
       "nn-NO": "halvopne områder",
       "pl": "tereny półotwarte",
+      "pt-BR": "Áreas semi-abertas",
       "ro": "teren semideschis",
       "sv": "halvöppen mark",
-      "zh-HK": "半空曠地"
+      "zh-HK": "半空曠地",
+      "zh-TW": "有零散樹木的空曠地"
     }
   },
   "4.3": {
@@ -2274,14 +2580,17 @@
       "et": "Metsa nurgad",
       "fi": "Metsän kulma",
       "fr": "Corne de forêt",
+      "hu": "Erdő sarok",
       "it": "Angolo di bosco",
       "ja": "林の角",
       "nb-NO": "Vegetasjonskant",
       "nn-NO": "Vegitasjonskant",
       "pl": "Forest corner",
+      "pt-BR": "Canto de vegetação",
       "ro": "Colț pădure",
       "sv": "Skogshörn",
-      "zh-HK": "Forest corner"
+      "zh-HK": "Forest corner",
+      "zh-TW": "樹林之角"
     },
     "texts": {
       "bg": "ъгли на гора",
@@ -2295,14 +2604,17 @@
       "et": "metsa nurgad",
       "fi": "metsän kulmien",
       "fr": "cornes de forêt",
+      "hu": "erdő sarok",
       "it": "angoli di bosco",
       "ja": "林の角",
       "nb-NO": "vegetasjonskanter",
       "nn-NO": "vegitasjonskanter",
       "pl": "rogi lasu",
+      "pt-BR": "Cantos de vegetação",
       "ro": "colț pădure",
       "sv": "skogshörn",
-      "zh-HK": "樹林角"
+      "zh-HK": "樹林角",
+      "zh-TW": "樹林之角"
     }
   },
   "4.4": {
@@ -2319,14 +2631,17 @@
       "et": "Lagendik",
       "fi": "Aukko",
       "fr": "Clairière",
+      "hu": "Tisztás",
       "it": "Radura",
       "ja": "クリアリング",
       "nb-NO": "Åpning",
       "nn-NO": "Opning",
       "pl": "Clearing",
+      "pt-BR": "Clareira",
       "ro": "Defrișare",
       "sv": "Glänta",
-      "zh-HK": "Clearing"
+      "zh-HK": "Clearing",
+      "zh-TW": "林中空地"
     },
     "texts": {
       "bg": "просветления",
@@ -2340,14 +2655,17 @@
       "et": "lagendikud",
       "fi": "aukkojen",
       "fr": "clairières",
+      "hu": "tisztás",
       "it": "radure",
       "ja": "クリアリング",
       "nb-NO": "åpninger",
       "nn-NO": "opninger",
       "pl": "polany",
+      "pt-BR": "Clareiras",
       "ro": "defrișare",
-      "sv": "gläntarna",
-      "zh-HK": "林中空曠地"
+      "sv": "gläntan",
+      "zh-HK": "林中空曠地",
+      "zh-TW": "林中空地"
     }
   },
   "4.5": {
@@ -2364,14 +2682,17 @@
       "et": "Tihnik",
       "fi": "Tiheikkö",
       "fr": "Fourré",
+      "hu": "Bozót",
       "it": "Vegetazione fitta",
       "ja": "藪(やぶ)・植えみ",
       "nb-NO": "Tett skog",
       "nn-NO": "Tett skog",
       "pl": "Thicket",
+      "pt-BR": "Moita",
       "ro": "Desiș",
       "sv": "Tät skog",
-      "zh-HK": "Thicket"
+      "zh-HK": "Thicket",
+      "zh-TW": "濃密植被"
     },
     "texts": {
       "bg": "гъсталаци",
@@ -2385,14 +2706,17 @@
       "et": "tihnikud",
       "fi": "tiheikköjen",
       "fr": "fourrés",
+      "hu": "bozót",
       "it": "vegetazioni fitte",
       "ja": "藪",
       "nb-NO": "tette skoger",
       "nn-NO": "tette skoger",
       "pl": "gęstwiny",
+      "pt-BR": "Moitas",
       "ro": "desiș",
       "sv": "tät skog",
-      "zh-HK": "密樹叢"
+      "zh-HK": "密樹叢",
+      "zh-TW": "濃密植被"
     }
   },
   "4.6": {
@@ -2409,14 +2733,17 @@
       "et": "Hekk, tihe puude rivi",
       "fi": "Tiheikkökaistale",
       "fr": "Haie",
+      "hu": "Bozótcsík",
       "it": "Siepe",
       "ja": "線状の藪(やぶ)・線状の植込み",
       "nb-NO": "Hekk",
       "nn-NO": "Hekk",
       "pl": "Hedge, Linear thicket",
+      "pt-BR": "Linha de vegetação",
       "ro": "Acoperire, desiș linear",
       "sv": "Häck",
-      "zh-HK": "Hedge, Linear thicket"
+      "zh-HK": "Hedge, Linear thicket",
+      "zh-TW": "線性濃密植被"
     },
     "texts": {
       "bg": "линейни растителни пояси",
@@ -2430,14 +2757,17 @@
       "et": "hekid",
       "fi": "tiheikkökaistaleiden",
       "fr": "haies",
+      "hu": "bozótcsík",
       "it": "siepi",
       "ja": "線状の藪",
       "nb-NO": "hekker",
       "nn-NO": "hekker",
       "pl": "żywopłoty",
+      "pt-BR": "Linhas de vegetação",
       "ro": "acoperire",
       "sv": "häckarna",
-      "zh-HK": "密樹籬"
+      "zh-HK": "密樹籬",
+      "zh-TW": "線性濃密植被"
     }
   },
   "4.7": {
@@ -2454,14 +2784,17 @@
       "et": "Kõlviku/taimestiku piir",
       "fi": "Selvä kuvioraja",
       "fr": "Limite de végétation",
+      "hu": "Jelleghatár",
       "it": "Limite di vegetazione",
       "ja": "植生界",
       "nb-NO": "Vegetasjonsgrense",
       "nn-NO": "Vegetasjonsgrense",
       "pl": "Vegetation boundary",
+      "pt-BR": "Limite de vegetação",
       "ro": "Limită de vegetație",
       "sv": "Beståndsgräns",
-      "zh-HK": "Vegetation boundary"
+      "zh-HK": "Vegetation boundary",
+      "zh-TW": "植被分界"
     },
     "texts": {
       "bg": "растителни граници",
@@ -2475,14 +2808,17 @@
       "et": "kõlviku piirid",
       "fi": "selvien kuviorajojen",
       "fr": "limites de végétation",
+      "hu": "jelleghatár",
       "it": "limiti di vegetazione",
       "ja": "植生界",
       "nb-NO": "vegetasjonsgrenser",
       "nn-NO": "vegetasjonsgrenser",
       "pl": "wyraźne granice kultur",
+      "pt-BR": "Limites de vegetação",
       "ro": "limită de vegetație",
       "sv": "beståndsgräns",
-      "zh-HK": "植被分界"
+      "zh-HK": "植被分界",
+      "zh-TW": "植被分界"
     }
   },
   "4.8": {
@@ -2499,14 +2835,17 @@
       "et": "Puudegrupp",
       "fi": "Puuryhmä",
       "fr": "Bosquet",
-      "it": "Gruppo di alberi",
+      "hu": "Facsoport",
+      "it": "Boschetto",
       "ja": "小さな林",
       "nb-NO": "Treklynge",
       "nn-NO": "Treklynge",
       "pl": "Copse",
+      "pt-BR": "Pequeno bosque",
       "ro": "Crâng",
       "sv": "Dunge",
-      "zh-HK": "Copse"
+      "zh-HK": "Copse",
+      "zh-TW": "小片樹林"
     },
     "texts": {
       "bg": "групи дървета",
@@ -2520,14 +2859,17 @@
       "et": "puudegrupid",
       "fi": "puuryhmien",
       "fr": "bosquets",
-      "it": "gruppi di alberi",
+      "hu": "facsoport",
+      "it": "boschetti",
       "ja": "小さな林",
       "nb-NO": "treklynger",
       "nn-NO": "treklynger",
       "pl": "zagajniki",
+      "pt-BR": "Pequenos bosques",
       "ro": "crâng",
-      "sv": "dunger",
-      "zh-HK": "樹叢"
+      "sv": "dungen",
+      "zh-HK": "樹叢",
+      "zh-TW": "小片樹林"
     }
   },
   "4.9": {
@@ -2544,14 +2886,17 @@
       "et": "Üksik puu",
       "fi": "Huomattava puu",
       "fr": "Arbre remarquable",
+      "hu": "Jellegfa",
       "it": "Albero isolato",
       "ja": "独立樹",
       "nb-NO": "Spesielt tre",
       "nn-NO": "Spesielt tre",
       "pl": "Distinctive tree",
+      "pt-BR": "Árvore distinta",
       "ro": "Copac distinctiv",
-      "sv": "Särpräglad träd",
-      "zh-HK": "Distinctive tree"
+      "sv": "Särpräglat träd",
+      "zh-HK": "Distinctive tree",
+      "zh-TW": "明顯的樹"
     },
     "texts": {
       "bg": "характерни дървета",
@@ -2565,14 +2910,17 @@
       "et": "üksikute puude",
       "fi": "huomattavien puiden",
       "fr": "arbres remarquables",
+      "hu": "jellegfa",
       "it": "alberi isolati",
       "ja": "独立樹",
       "nb-NO": "spesielle trær",
       "nn-NO": "spesielle trer",
       "pl": "samotne drzewa",
+      "pt-BR": "Árvores distintas",
       "ro": "copac distinctiv",
-      "sv": "särpräglade träd",
-      "zh-HK": "獨樹"
+      "sv": "särpräglade trädet",
+      "zh-HK": "獨樹",
+      "zh-TW": "明顯的樹"
     }
   },
   "4.10": {
@@ -2589,14 +2937,17 @@
       "et": "Känd, murdunud puu",
       "fi": "Kanto, juurakko",
       "fr": "Souche",
+      "hu": "Gyökér, fatönk",
       "it": "Radice capovolta",
       "ja": "切り株・木の根",
       "nb-NO": "Tree stump, Root stock",
       "nn-NO": "Rotvelt",
       "pl": "Tree stump, Root stock",
+      "pt-BR": "Toco ou raiz",
       "ro": "Buturugă",
-      "sv": "Rotvälta, stubbe",
-      "zh-HK": "Tree stump, Root stock"
+      "sv": "Rotvälta/stubbe",
+      "zh-HK": "Tree stump, Root stock",
+      "zh-TW": "樹樁；樹根"
     },
     "texts": {
       "bg": "коренища, дънери",
@@ -2610,14 +2961,17 @@
       "et": "känd",
       "fi": "kantojen tai juurakoiden",
       "fr": "souches",
+      "hu": "gyökér, fatönk",
       "it": "radici capovolte",
       "ja": "切り株",
       "nb-NO": "rotvelt",
       "nn-NO": "rotvelt",
       "pl": "wykroty",
+      "pt-BR": "Tocos",
       "ro": "buturugă",
-      "sv": "rotvältor",
-      "zh-HK": "樹根"
+      "sv": "rotvältan/stubben",
+      "zh-HK": "樹根",
+      "zh-TW": "樹樁"
     }
   },
   "5.1": {
@@ -2634,14 +2988,17 @@
       "et": "Tee",
       "fi": "Tie",
       "fr": "Route",
+      "hu": "Út",
       "it": "Strada",
       "ja": "道路",
       "nb-NO": "Vei",
       "nn-NO": "Veg",
       "pl": "Road",
+      "pt-BR": "Estrada",
       "ro": "Drum",
       "sv": "Väg",
-      "zh-HK": "Road"
+      "zh-HK": "Road",
+      "zh-TW": "大路"
     },
     "texts": {
       "bg": "шосета",
@@ -2655,14 +3012,17 @@
       "et": "teed",
       "fi": "teiden",
       "fr": "routes",
+      "hu": "út",
       "it": "strade",
       "ja": "道路",
       "nb-NO": "veier",
       "nn-NO": "vegar",
       "pl": "drogi",
+      "pt-BR": "Estradas",
       "ro": "drum",
-      "sv": "vägar",
-      "zh-HK": "馬路"
+      "sv": "vägen",
+      "zh-HK": "馬路",
+      "zh-TW": "大路"
     }
   },
   "5.2": {
@@ -2679,14 +3039,17 @@
       "et": "Rada, teerada",
       "fi": "Polku",
       "fr": "Chemin, sentier",
+      "hu": "Ösvény",
       "it": "Sentiero",
       "ja": "道・小道・小径",
       "nb-NO": "Sti",
       "nn-NO": "Sti",
       "pl": "Track, Path",
+      "pt-BR": "Trilha",
       "ro": "Potecă",
       "sv": "Stig",
-      "zh-HK": "Track, Path"
+      "zh-HK": "Track, Path",
+      "zh-TW": "小徑"
     },
     "texts": {
       "bg": "пътища/пътеки",
@@ -2700,14 +3063,17 @@
       "et": "rajad",
       "fi": "polkujen",
       "fr": "chemins ou sentiers",
+      "hu": "ösvény",
       "it": "sentieri",
       "ja": "小道",
       "nb-NO": "stier",
       "nn-NO": "stiar",
       "pl": "ścieżki",
+      "pt-BR": "Trilhas",
       "ro": "potecă",
-      "sv": "stigar",
-      "zh-HK": "小徑"
+      "sv": "stigen",
+      "zh-HK": "小徑",
+      "zh-TW": "小徑"
     }
   },
   "5.3": {
@@ -2724,14 +3090,17 @@
       "et": "Siht",
       "fi": "Linja",
       "fr": "Layon étroit",
+      "hu": "Nyiladék",
       "it": "Taglio di bosco",
       "ja": "切り開き",
       "nb-NO": "Glenne",
       "nn-NO": "Glenne",
       "pl": "Ride",
+      "pt-BR": "Picada",
       "ro": "Defrișare",
       "sv": "Rågång",
-      "zh-HK": "Ride"
+      "zh-HK": "Ride",
+      "zh-TW": "林中間隙"
     },
     "texts": {
       "bg": "просеки",
@@ -2745,14 +3114,17 @@
       "et": "sihid",
       "fi": "linjojen",
       "fr": "layons étroits",
+      "hu": "nyiladék",
       "it": "tagli di bosco",
       "ja": "切り開き",
       "nb-NO": "glenner",
       "nn-NO": "glenner",
       "pl": "przecinki",
+      "pt-BR": "Picadas",
       "ro": "defrișare",
-      "sv": "rågångar",
-      "zh-HK": "林中間隙"
+      "sv": "rågången",
+      "zh-HK": "林中間隙",
+      "zh-TW": "林中間隙"
     }
   },
   "5.4": {
@@ -2769,14 +3141,17 @@
       "et": "Sild",
       "fi": "Silta",
       "fr": "Pont, passerelle",
+      "hu": "Híd",
       "it": "Ponte",
       "ja": "橋",
       "nb-NO": "Bro",
       "nn-NO": "Bru",
       "pl": "Bridge",
+      "pt-BR": "Ponte",
       "ro": "Pod",
       "sv": "Bro",
-      "zh-HK": "Bridge"
+      "zh-HK": "Bridge",
+      "zh-TW": "橋"
     },
     "texts": {
       "bg": "мостове",
@@ -2790,14 +3165,17 @@
       "et": "sillad",
       "fi": "siltojen",
       "fr": "ponts",
+      "hu": "híd",
       "it": "ponti",
       "ja": "橋",
       "nb-NO": "broer",
       "nn-NO": "bruer",
       "pl": "mosty",
+      "pt-BR": "Pontes",
       "ro": "pod",
-      "sv": "broar",
-      "zh-HK": "橋樑"
+      "sv": "bron",
+      "zh-HK": "橋樑",
+      "zh-TW": "橋"
     }
   },
   "5.5": {
@@ -2814,14 +3192,17 @@
       "et": "Elektri liin",
       "fi": "Sähkölinja",
       "fr": "Ligne à Haute Tension",
+      "hu": "Távvezeték",
       "it": "Linea elettrica",
       "ja": "送電線",
       "nb-NO": "Kraftlinje",
       "nn-NO": "Kraftlinje",
       "pl": "Power line",
+      "pt-BR": "Rede Elétrica",
       "ro": "Linie de curent",
       "sv": "Kraftledning",
-      "zh-HK": "Power line"
+      "zh-HK": "Power line",
+      "zh-TW": "電纜線"
     },
     "texts": {
       "bg": "далекопроводи",
@@ -2835,14 +3216,17 @@
       "et": "elektriliinid",
       "fi": "sähkölinjojen",
       "fr": "lignes à haute tension",
+      "hu": "távvezeték",
       "it": "linee elettriche",
       "ja": "送電線",
       "nb-NO": "kraftlinjer",
       "nn-NO": "kraftlinjer",
       "pl": "linie energetyczne",
+      "pt-BR": "Redes Elétricas",
       "ro": "linie de curent",
-      "sv": "kraftledningar",
-      "zh-HK": "電線"
+      "sv": "kraftledningen",
+      "zh-HK": "電線",
+      "zh-TW": "電纜線"
     }
   },
   "5.6": {
@@ -2859,14 +3243,17 @@
       "et": "Kõrgepinge mast",
       "fi": "Sähkölinjan pylväs",
       "fr": "Pylône de ligne HT",
-      "it": "Pilone di linea elettrica",
+      "hu": "Távvezeték oszlop",
+      "it": "Pilone",
       "ja": "送電線の支柱・鉄塔",
       "nb-NO": "Mast",
       "nn-NO": "Mast",
       "pl": "Power line pylon",
+      "pt-BR": "Poste",
       "ro": "Stâlp de curent",
       "sv": "Kraftledningsstolpe",
-      "zh-HK": "Power line pylon"
+      "zh-HK": "Power line pylon",
+      "zh-TW": "電纜線支架"
     },
     "texts": {
       "bg": "стълбове на далекопровод",
@@ -2880,14 +3267,17 @@
       "et": "kõrgepinge mastid",
       "fi": "sähkölinjan pylväiden",
       "fr": "pylônes de ligne HT",
-      "it": "piloni di linea elettrica",
+      "hu": "távvezeték oszlop",
+      "it": "piloni",
       "ja": "鉄塔",
       "nb-NO": "master",
       "nn-NO": "master",
       "pl": "słupy linii energetycznej",
+      "pt-BR": "Postes",
       "ro": "stâlp de curent",
-      "sv": "kraftledningsstolpar",
-      "zh-HK": "電線桿"
+      "sv": "kraftledningsstolpen",
+      "zh-HK": "電線桿",
+      "zh-TW": "電纜線支架"
     }
   },
   "5.7": {
@@ -2904,14 +3294,17 @@
       "et": "Tunnel",
       "fi": "Tunneli",
       "fr": "Tunnel",
+      "hu": "Alagút",
       "it": "Galleria",
       "ja": "トンネル",
       "nb-NO": "Tunnel",
       "nn-NO": "Tunnel",
       "pl": "Tunnel",
+      "pt-BR": "Túnel",
       "ro": "Tunel",
       "sv": "Tunnel",
-      "zh-HK": "Tunnel"
+      "zh-HK": "Tunnel",
+      "zh-TW": "隧道"
     },
     "texts": {
       "bg": "тунели",
@@ -2925,14 +3318,17 @@
       "et": "tunnelid",
       "fi": "tunnelien",
       "fr": "tunnels",
+      "hu": "alagút",
       "it": "gallerie",
       "ja": "トンネル",
       "nb-NO": "tunneler",
       "nn-NO": "tunneler",
       "pl": "tunele",
+      "pt-BR": "Túneis",
       "ro": "tunel",
-      "sv": "tunnlar",
-      "zh-HK": "隧道"
+      "sv": "tunneln",
+      "zh-HK": "隧道",
+      "zh-TW": "隧道"
     }
   },
   "5.8": {
@@ -2949,14 +3345,17 @@
       "et": "Kivimüür/aed",
       "fi": "Kiviaita",
       "fr": "Mur",
+      "hu": "Kőfal",
       "it": "Muro",
       "ja": "石塁",
       "nb-NO": "Steingjerde",
       "nn-NO": "Steingjerde",
       "pl": "Stone wall",
+      "pt-BR": "Muro",
       "ro": "Zid piatră",
       "sv": "Stenmur",
-      "zh-HK": "Stone wall"
+      "zh-HK": "Stone wall",
+      "zh-TW": "石牆"
     },
     "texts": {
       "bg": "стени/зидове",
@@ -2970,14 +3369,17 @@
       "et": "kivimüürid",
       "fi": "kiviaitojen",
       "fr": "murs",
+      "hu": "kőfal",
       "it": "muri",
       "ja": "石塁",
       "nb-NO": "steingjerder",
       "nn-NO": "steingjerde",
       "pl": "mury kamienne",
+      "pt-BR": "Muros",
       "ro": "zid piatră",
-      "sv": "stenmurar",
-      "zh-HK": "石牆"
+      "sv": "stenmuren",
+      "zh-HK": "石牆",
+      "zh-TW": "石牆"
     }
   },
   "5.9": {
@@ -2994,14 +3396,17 @@
       "et": "Aed",
       "fi": "Aita",
       "fr": "Clôture",
+      "hu": "Kerítés",
       "it": "Recinzione",
       "ja": "柵",
       "nb-NO": "Gjerde",
       "nn-NO": "Gjerde",
       "pl": "Fence",
+      "pt-BR": "Cerca",
       "ro": "Gard",
       "sv": "Stängsel",
-      "zh-HK": "Fence"
+      "zh-HK": "Fence",
+      "zh-TW": "圍欄"
     },
     "texts": {
       "bg": "огради",
@@ -3015,14 +3420,17 @@
       "et": "aiad",
       "fi": "aitojen",
       "fr": "clôtures",
+      "hu": "kerítés",
       "it": "recinzioni",
       "ja": "柵",
       "nb-NO": "gjerder",
       "nn-NO": "gjerder",
       "pl": "płoty",
+      "pt-BR": "Cercas",
       "ro": "gard",
-      "sv": "stängslar",
-      "zh-HK": "圍欄"
+      "sv": "stängslet",
+      "zh-HK": "圍欄",
+      "zh-TW": "圍欄"
     }
   },
   "5.10": {
@@ -3039,14 +3447,17 @@
       "et": "Läbipääsu koht",
       "fi": "Portti, ylityspaikka",
       "fr": "Passage",
+      "hu": "Átkelőhely",
       "it": "Passaggio",
       "ja": "横断地点",
       "nb-NO": "Krysningspunkt",
       "nn-NO": "Krysningspunkt",
       "pl": "Crossing point",
+      "pt-BR": "Ponto de passagem",
       "ro": "Punct de trecere",
       "sv": "Genomgång",
-      "zh-HK": "Crossing point"
+      "zh-HK": "Crossing point",
+      "zh-TW": "穿越點"
     },
     "texts": {
       "bg": "места за преминаване",
@@ -3060,14 +3471,17 @@
       "et": "läbipääsu kohad",
       "fi": "porttien/ylityspaikkojen",
       "fr": "passages",
+      "hu": "átkelőhely",
       "it": "passaggi",
       "ja": "横断地点",
       "nb-NO": "krysningspunkter",
       "nn-NO": "krysningspunkter",
       "pl": "przejścia",
+      "pt-BR": "Pontos de passagem",
       "ro": "punct de trecere",
-      "sv": "genomgångar",
-      "zh-HK": "橫越點"
+      "sv": "genomgången",
+      "zh-HK": "橫越點",
+      "zh-TW": "穿越點"
     }
   },
   "5.11": {
@@ -3084,14 +3498,17 @@
       "et": "Ehitis",
       "fi": "Rakennus",
       "fr": "Construction",
+      "hu": "Épület",
       "it": "Edificio",
       "ja": "建物",
       "nb-NO": "Bygning",
       "nn-NO": "Bygning",
       "pl": "Building",
+      "pt-BR": "Edificação",
       "ro": "Clădire",
       "sv": "Byggnad",
-      "zh-HK": "Building"
+      "zh-HK": "Building",
+      "zh-TW": "建築物"
     },
     "texts": {
       "bg": "постройки",
@@ -3105,14 +3522,17 @@
       "et": "buildings",
       "fi": "rakennusten",
       "fr": "constructions",
+      "hu": "épület",
       "it": "edifici",
       "ja": "建物",
       "nb-NO": "bygninger",
       "nn-NO": "bygninger",
       "pl": "budynki",
+      "pt-BR": "Edificações",
       "ro": "clădire",
       "sv": "byggnaderna",
-      "zh-HK": "建築物"
+      "zh-HK": "建築物",
+      "zh-TW": "建築物"
     }
   },
   "5.12": {
@@ -3129,14 +3549,17 @@
       "et": "Kattega plats",
       "fi": "Kenttä",
       "fr": "Zone pavée",
+      "hu": "Parkolóhely",
       "it": "Area pavimentata",
       "ja": "舗装区域",
       "nb-NO": "Asfaltert plass",
       "nn-NO": "Asfaltert plass",
       "pl": "Paved area",
+      "pt-BR": "Área Pavimentada",
       "ro": "Zonă pavată",
-      "sv": "Asfalt/grusyta",
-      "zh-HK": "Paved area"
+      "sv": "Asfalt- eller grusyta",
+      "zh-HK": "Paved area",
+      "zh-TW": "人工鋪砌地面"
     },
     "texts": {
       "bg": "павирани площи",
@@ -3150,14 +3573,17 @@
       "et": "kattega platsid",
       "fi": "kenttien",
       "fr": "zones pavées",
+      "hu": "parkolóhely",
       "it": "aree pavimentate",
       "ja": "舗装区域",
       "nb-NO": "asfalterte plasser",
       "nn-NO": "asfalterte plasser",
       "pl": "obszary utwardzone",
+      "pt-BR": "Áreas Pavimentadas",
       "ro": "zonă pavată",
-      "sv": "asfalt/grusytor",
-      "zh-HK": "水泥地"
+      "sv": "asfalt/grusytan",
+      "zh-HK": "水泥地",
+      "zh-TW": "人工鋪砌地面"
     }
   },
   "5.13": {
@@ -3174,14 +3600,17 @@
       "et": "Vare, lagunenud hoone",
       "fi": "Raunio",
       "fr": "Ruine",
+      "hu": "Rom",
       "it": "Rudere",
       "ja": "建物跡",
       "nb-NO": "Ruin",
       "nn-NO": "Ruin",
       "pl": "Ruin",
+      "pt-BR": "Ruína",
       "ro": "Ruine",
       "sv": "Ruin",
-      "zh-HK": "Ruin"
+      "zh-HK": "Ruin",
+      "zh-TW": "廢屋"
     },
     "texts": {
       "bg": "развалини",
@@ -3195,14 +3624,17 @@
       "et": "varemed",
       "fi": "raunioiden",
       "fr": "ruines",
+      "hu": "rom",
       "it": "ruderi",
       "ja": "建物跡",
       "nb-NO": "ruiner",
       "nn-NO": "ruiner",
       "pl": "ruiny",
+      "pt-BR": "Ruínas",
       "ro": "ruine",
       "sv": "ruinerna",
-      "zh-HK": "破毀建築物"
+      "zh-HK": "破毀建築物",
+      "zh-TW": "廢屋"
     }
   },
   "5.14": {
@@ -3219,14 +3651,17 @@
       "et": "Torujuhe",
       "fi": "Putkilinja",
       "fr": "Pipeline",
+      "hu": "Csővezeték",
       "it": "Tubazione",
       "ja": "パイプライン",
       "nb-NO": "Rørledning",
       "nn-NO": "Rørledning",
       "pl": "Pipeline",
+      "pt-BR": "Tubulação",
       "ro": "Conductă",
       "sv": "Rörledning",
-      "zh-HK": "Pipeline"
+      "zh-HK": "Pipeline",
+      "zh-TW": "管道; 雪車滑道或冰橇賽道"
     },
     "texts": {
       "bg": "тръбопроводи",
@@ -3240,14 +3675,17 @@
       "et": "torujuhtmed",
       "fi": "putkilinjojen",
       "fr": "pipelines",
+      "hu": "csővezeték",
       "it": "tubazioni",
       "ja": "パイプライン",
       "nb-NO": "rørledninger",
       "nn-NO": "rørledninger",
       "pl": "rurociągi",
+      "pt-BR": "Tubulações",
       "ro": "conductă",
-      "sv": "rörledningar",
-      "zh-HK": "管道"
+      "sv": "rörledningen",
+      "zh-HK": "管道",
+      "zh-TW": "管道"
     }
   },
   "5.15": {
@@ -3264,14 +3702,17 @@
       "et": "Torn",
       "fi": "Torni",
       "fr": "Tour",
+      "hu": "Torony",
       "it": "Torre",
       "ja": "塔",
       "nb-NO": "Tårn",
       "nn-NO": "Tårn",
       "pl": "Tower",
+      "pt-BR": "Torre",
       "ro": "Turn",
       "sv": "Torn",
-      "zh-HK": "Tower"
+      "zh-HK": "Tower",
+      "zh-TW": "塔架或鐵塔"
     },
     "texts": {
       "bg": "кули",
@@ -3285,14 +3726,17 @@
       "et": "tornid",
       "fi": "tornien",
       "fr": "tours",
+      "hu": "torony",
       "it": "torri",
       "ja": "塔",
       "nb-NO": "tårn",
       "nn-NO": "tårn",
       "pl": "wieże",
+      "pt-BR": "Torres",
       "ro": "turn",
       "sv": "tornen",
-      "zh-HK": "塔架"
+      "zh-HK": "塔架",
+      "zh-TW": "塔架"
     }
   },
   "5.16": {
@@ -3309,14 +3753,17 @@
       "et": "Jahi-isteplatvorm/torn",
       "fi": "Metsästyslava",
       "fr": "Poste d'observation",
+      "hu": "Magasles",
       "it": "Piattaforma d'osservazione",
       "ja": "射撃台",
       "nb-NO": "Jakttårn",
       "nn-NO": "Jakttårn",
       "pl": "Shooting platform",
+      "pt-BR": "Plataforma",
       "ro": "Platformă de vânătoare",
       "sv": "Jakttorn",
-      "zh-HK": "Shooting platform"
+      "zh-HK": "Shooting platform",
+      "zh-TW": "射擊台"
     },
     "texts": {
       "bg": "вишки",
@@ -3330,14 +3777,17 @@
       "et": "jahiplatvormid",
       "fi": "metsästyslavojen",
       "fr": "postes d'observation",
+      "hu": "magasles",
       "it": "piattaforme d'osservazione",
       "ja": "射撃台",
       "nb-NO": "jakttårn",
       "nn-NO": "jakttårn",
       "pl": "ambony",
+      "pt-BR": "Plataformas",
       "ro": "platformă de vânătoare",
       "sv": "jakttornen",
-      "zh-HK": "射擊台"
+      "zh-HK": "射擊台",
+      "zh-TW": "射擊台"
     }
   },
   "5.17": {
@@ -3354,14 +3804,17 @@
       "et": "Kupits, piiritähis",
       "fi": "Rajapyykki",
       "fr": "Borne",
+      "hu": "Határjel",
       "it": "Cippo",
       "ja": "境界石・ケルン",
       "nb-NO": "Varde",
       "nn-NO": "Varde",
       "pl": "Boundary stone, Cairn",
+      "pt-BR": "Marco",
       "ro": "Bornă",
       "sv": "Röse",
-      "zh-HK": "Boundary stone, Cairn"
+      "zh-HK": "Boundary stone, Cairn",
+      "zh-TW": "界石；石標誌"
     },
     "texts": {
       "bg": "гранични камъни",
@@ -3375,14 +3828,17 @@
       "et": "kupitsad",
       "fi": "rajapyykkien",
       "fr": "bornes",
+      "hu": "határjel",
       "it": "cippi",
       "ja": "ケルン",
       "nb-NO": "varder",
       "nn-NO": "varder",
       "pl": "słupy graniczne, kopczyki",
+      "pt-BR": "Marcos",
       "ro": "bornă",
-      "sv": "rösen",
-      "zh-HK": "石標誌"
+      "sv": "röset",
+      "zh-HK": "石標誌",
+      "zh-TW": "石標誌"
     }
   },
   "5.18": {
@@ -3399,14 +3855,17 @@
       "et": "Söödasõim",
       "fi": "Ruokintateline",
       "fr": "Mangeoire",
+      "hu": "Vadetető",
       "it": "Mangiatoia",
       "ja": "給餌台",
       "nb-NO": "Fôringssted",
       "nn-NO": "Fôringsstad",
       "pl": "Fodder rack",
+      "pt-BR": "Manjedoura",
       "ro": "Iesle/Hrănitoare",
       "sv": "Foderhäck",
-      "zh-HK": "Fodder rack"
+      "zh-HK": "Fodder rack",
+      "zh-TW": "飼料箱"
     },
     "texts": {
       "bg": "хранилки",
@@ -3420,14 +3879,17 @@
       "et": "söödasõimed",
       "fi": "ruokintatelineiden",
       "fr": "mangeoires",
+      "hu": "vadetető",
       "it": "mangiatoie",
       "ja": "給餌台",
       "nb-NO": "fôringssteder",
       "nn-NO": "Fôringsstader",
       "pl": "paśniki",
+      "pt-BR": "Manjedouras",
       "ro": "iesle/hrănitoare",
       "sv": "foderhäckarna",
-      "zh-HK": "飼料架"
+      "zh-HK": "飼料架",
+      "zh-TW": "飼料箱"
     }
   },
   "5.19": {
@@ -3444,14 +3906,17 @@
       "et": "Lõkkease",
       "fi": "Miilun pohja, tekotasanne",
       "fr": "Charbonnière",
-      "it": "Carbonaia",
+      "hu": "Szénégető hely",
+      "it": "Piazzola",
       "ja": "炭焼き窯跡・炭焼き場",
       "nb-NO": "Kullmile",
       "nn-NO": "Kullmile",
       "pl": "Charcoal burning ground",
+      "pt-BR": "Forno de carvão",
       "ro": "Pământ cu cărbune ars",
       "sv": "Kolbotten",
-      "zh-HK": "Charcoal burning ground"
+      "zh-HK": "Charcoal burning ground",
+      "zh-TW": "炭灰地；斜坡平台"
     },
     "texts": {
       "bg": "останки от огнище",
@@ -3465,14 +3930,17 @@
       "et": "lõkkeasemed",
       "fi": "miilun pohjien / tekotasanteiden",
       "fr": "charbonnières",
-      "it": "carbonaie",
+      "hu": "szénégető hely",
+      "it": "piazzole",
       "ja": "炭焼き窯跡",
       "nb-NO": "kullmiler",
       "nn-NO": "kullmiler",
       "pl": "wypłaszczenia/mielerze",
+      "pt-BR": "Fornos de carvão",
       "ro": "pământ cu cărbune ars",
-      "sv": "kolbottnar",
-      "zh-HK": "炭灰地"
+      "sv": "kolbottnen",
+      "zh-HK": "炭灰地",
+      "zh-TW": "炭灰地"
     }
   },
   "5.20": {
@@ -3489,14 +3957,17 @@
       "et": "Ausammas",
       "fi": "Monumentti, patsas",
       "fr": "Monument ou statue",
+      "hu": "Emlékmű, szobor",
       "it": "Monumento",
       "ja": "記念物・彫像",
       "nb-NO": "Statue",
       "nn-NO": "Statue",
       "pl": "Monument or statue",
+      "pt-BR": "Monumento",
       "ro": "Monument sau statuie",
       "sv": "Monument/staty",
-      "zh-HK": "Monument or statue"
+      "zh-HK": "Monument or statue",
+      "zh-TW": "紀念碑或雕像"
     },
     "texts": {
       "bg": "паметници",
@@ -3510,14 +3981,17 @@
       "et": "ausambad",
       "fi": "monumenttien/patsaiden",
       "fr": "monuments ou statues",
+      "hu": "emlékmű, szobor",
       "it": "monumenti",
       "ja": "記念物",
       "nb-NO": "statuer",
       "nn-NO": "statuer",
       "pl": "pomniki",
+      "pt-BR": "Monumentos",
       "ro": "statuie",
-      "sv": "statyar",
-      "zh-HK": "紀念碑或塑像"
+      "sv": "monumentet/statyn",
+      "zh-HK": "紀念碑或塑像",
+      "zh-TW": "紀念碑"
     }
   },
   "5.23": {
@@ -3534,14 +4008,17 @@
       "et": "Sisse/läbipääs",
       "fi": "Käytävä läpi talon",
       "fr": "Passage couvert",
-      "it": "Passaggio coperto",
+      "hu": "Átjáró",
+      "it": "Portico",
       "ja": "建物の通過できる部分",
       "nb-NO": "Overbygg",
       "nn-NO": "Overbygg",
       "pl": "Building pass-through",
+      "pt-BR": "Cobertura com passagem",
       "ro": "Trecere",
       "sv": "Passage under byggnad",
-      "zh-HK": "Building pass-through"
+      "zh-HK": "Building pass-through",
+      "zh-TW": "可穿越建築物的通道"
     },
     "texts": {
       "bg": "вътрешни тунели",
@@ -3555,14 +4032,17 @@
       "et": "läbipääsud",
       "fi": "talon läpi menevien käytävien",
       "fr": "passages couverts",
-      "it": "passaggi coperti",
+      "hu": "átjáró",
+      "it": "portici",
       "ja": "建物の通過できる部分",
       "nb-NO": "overbygg",
       "nn-NO": "overbygg",
       "pl": "przejścia w budynku",
+      "pt-BR": "Coberturas com passagem",
       "ro": "trecere",
-      "sv": "passager under byggnad",
-      "zh-HK": "可通越建築物"
+      "sv": "byggnadspassagen",
+      "zh-HK": "可通越建築物",
+      "zh-TW": "遮蓋"
     }
   },
   "5.24": {
@@ -3579,14 +4059,17 @@
       "et": "Trepp",
       "fi": "Portaat",
       "fr": "Escalier",
+      "hu": "Lépcső",
       "it": "Scalinata",
       "ja": "階段",
       "nb-NO": "Trapp",
       "nn-NO": "Trapp",
       "pl": "Stairway",
+      "pt-BR": "Escadaria",
       "ro": "Scări",
-      "sv": "Trappor",
-      "zh-HK": "Stairway"
+      "sv": "Trappa",
+      "zh-HK": "Stairway",
+      "zh-TW": "階梯"
     },
     "texts": {
       "bg": "стълбища",
@@ -3600,25 +4083,45 @@
       "et": "trepid",
       "fi": "portaiden",
       "fr": "escaliers",
+      "hu": "lépcső",
       "it": "scalinate",
       "ja": "階段",
       "nb-NO": "trapper",
       "nn-NO": "trapper",
       "pl": "schody",
+      "pt-BR": "Escadarias",
       "ro": "scări",
-      "sv": "trappor",
-      "zh-HK": "樓梯"
+      "sv": "trappan",
+      "zh-HK": "樓梯",
+      "zh-TW": "階梯"
     }
   },
   "5.25": {
     "kind": "D",
     "names": {
+      "de": "Blumenbeet / Verbotenes Gebiet",
       "en": "Flower bed / Out of bounds area",
-      "it": "Aiuola"
+      "it": "Aiuola",
+      "pt-BR": "Área proibida de jardim",
+      "zh-TW": "Flower bed / Out of bounds area"
     },
     "texts": {
+      "de": "Blumenbeet / Verbotenes Gebiet",
       "en": "flower beds",
-      "it": "aiuole"
+      "it": "aiuole",
+      "pt-BR": "Área proibida de jardim",
+      "zh-TW": "flower bed"
+    }
+  },
+  "5.26": {
+    "kind": "D",
+    "names": {
+      "en": "Railway"
+    },
+    "texts": {
+      "en": "railroad tracks",
+      "en-GB": "railway tracks",
+      "en-AU": "railway tracks"
     }
   },
   "6.1": {
@@ -3635,14 +4138,17 @@
       "et": "Pisiobjekt",
       "fi": "Erikoiskohde",
       "fr": "Objet particulier devant être défini au préalable",
+      "hu": "Különleges terptárgy",
       "it": "Oggetto particolare",
       "ja": "特殊な特徴物",
       "nb-NO": "Spesiell detalj",
       "nn-NO": "Spesiell detalj",
       "pl": "Special item",
+      "pt-BR": "Objeto especial",
       "ro": "Reper special",
       "sv": "Speciellt föremål",
-      "zh-HK": "Special item"
+      "zh-HK": "Special item",
+      "zh-TW": "明顯的特徵；特定的項目"
     },
     "texts": {
       "bg": "специфични обекти",
@@ -3656,14 +4162,17 @@
       "et": "pisiobjektid",
       "fi": "erikoiskohteiden",
       "fr": "objets particuliers",
+      "hu": "különleges terptárgy",
       "it": "oggetti particolari",
       "ja": "特殊な特徴物",
       "nb-NO": "spesielle detaljer",
       "nn-NO": "spesielle detaljer",
       "pl": "obiekty specjalne",
+      "pt-BR": "Objetos especiais",
       "ro": "reper special",
-      "sv": "speciella föremål",
-      "zh-HK": "特別項目"
+      "sv": "specialföremålet",
+      "zh-HK": "特別項目",
+      "zh-TW": "特定的項目"
     }
   },
   "6.2": {
@@ -3680,14 +4189,17 @@
       "et": "Pisiobjekt",
       "fi": "Erikoiskohde",
       "fr": "Objet particulier devant être défini au préalable",
+      "hu": "Különleges terptárgy",
       "it": "Oggetto particolare",
       "ja": "特殊な特徴物",
       "nb-NO": "Spesiell detalj",
       "nn-NO": "Spesiell detalj",
       "pl": "Special item",
+      "pt-BR": "Objeto especial circular",
       "ro": "Reper special",
       "sv": "Speciellt föremål",
-      "zh-HK": "Special item"
+      "zh-HK": "Special item",
+      "zh-TW": "明顯的特徵；特定的項目"
     },
     "texts": {
       "bg": "специфични обекти",
@@ -3701,14 +4213,17 @@
       "et": "pisiobjektid",
       "fi": "erikoiskohteiden",
       "fr": "objets particuliers",
+      "hu": "különleges terptárgy",
       "it": "oggetti particolari",
       "ja": "特殊な特徴物",
       "nb-NO": "spesielle detaljer",
       "nn-NO": "spesiell detaljer",
       "pl": "obiekty specjalne",
+      "pt-BR": "Objetos especiais",
       "ro": "reper special",
-      "sv": "speciella föremål",
-      "zh-HK": "特別項目"
+      "sv": "specialföremålet",
+      "zh-HK": "特別項目",
+      "zh-TW": "特定的項目"
     }
   },
   "8.1": {
@@ -3725,14 +4240,17 @@
       "et": "Madal",
       "fi": "Matala",
       "fr": "Plat",
+      "hu": "Alacsony",
       "it": "Basso",
       "ja": "低い",
       "nb-NO": "Lav",
       "nn-NO": "Låg",
       "pl": "Low",
+      "pt-BR": "Baixo",
       "ro": "Jos",
       "sv": "Låg",
-      "zh-HK": "Low"
+      "zh-HK": "Low",
+      "zh-TW": "低矮的"
     },
     "texts": {
       "bg": "ниски {0}",
@@ -3746,14 +4264,17 @@
       "et": "madal {0}",
       "fi": "{0}, matala",
       "fr": "{0} aplatis",
+      "hu": "alacsony {0}",
       "it": "{0} bassa",
       "ja": "低い{0}",
       "nb-NO": "lav {0}",
       "nn-NO": "låg {0}",
       "pl": "płaskie {0}",
+      "pt-BR": "{0} baixo",
       "ro": "jos {0}",
       "sv": "{0}, låg",
-      "zh-HK": "低矮的{0}"
+      "zh-HK": "低矮的{0}",
+      "zh-TW": "低矮的 {0}"
     }
   },
   "8.2": {
@@ -3770,14 +4291,17 @@
       "et": "Lame",
       "fi": "Laakea",
       "fr": "Évasé",
+      "hu": "Lapos",
       "it": "Poco profondo",
       "ja": "浅い",
       "nb-NO": "Grunn",
       "nn-NO": "Grunn",
       "pl": "Shallow",
+      "pt-BR": "Raso",
       "ro": "Puțin adânc",
       "sv": "Flack",
-      "zh-HK": "Shallow"
+      "zh-HK": "Shallow",
+      "zh-TW": "淺的"
     },
     "texts": {
       "bg": "плитки, разляти {0}",
@@ -3791,14 +4315,17 @@
       "et": "lame {0}",
       "fi": "{0}, laakea",
       "fr": "{0} évasés",
+      "hu": "lapos {0}",
       "it": "{0} poco profonda",
       "ja": "浅い{0}",
       "nb-NO": "grunn {0}",
       "nn-NO": "grunn {0}",
       "pl": "płytkie {0}",
+      "pt-BR": "{0} raso",
       "ro": "puțin adânc {0}",
       "sv": "{0}, flack",
-      "zh-HK": "淺{0}"
+      "zh-HK": "淺{0}",
+      "zh-TW": "淺的 {0}"
     }
   },
   "8.3": {
@@ -3815,14 +4342,17 @@
       "et": "Sügav",
       "fi": "Syvä",
       "fr": "Profond",
+      "hu": "Mély",
       "it": "Profondo",
       "ja": "深い",
       "nb-NO": "Dyp",
       "nn-NO": "Djup",
       "pl": "Deep",
+      "pt-BR": "Fundo",
       "ro": "Adânc",
       "sv": "Djup",
-      "zh-HK": "Deep"
+      "zh-HK": "Deep",
+      "zh-TW": "深的"
     },
     "texts": {
       "bg": "дълбоки {0}",
@@ -3836,14 +4366,17 @@
       "et": "sügav {0}",
       "fi": "{0}, syvä",
       "fr": "{0} profonds",
+      "hu": "mély {0}",
       "it": "{0} profonda",
       "ja": "深い{0}",
       "nb-NO": "dyp {0}",
       "nn-NO": "djup {0}",
       "pl": "głębokie {0}",
+      "pt-BR": "{0} fundo",
       "ro": "adânc {0}",
       "sv": "{0}, djup",
-      "zh-HK": "深{0}"
+      "zh-HK": "深{0}",
+      "zh-TW": "深的 {0}"
     }
   },
   "8.4": {
@@ -3860,14 +4393,17 @@
       "et": "Tihe ala",
       "fi": "Umpeenkasvanut",
       "fr": "Couvert de végétation",
+      "hu": "Benőtt",
       "it": "Coperto di vegetazione",
       "ja": "植物の茂っている",
       "nb-NO": "Overgrodd",
       "nn-NO": "Overgrodd",
       "pl": "Overgrown",
+      "pt-BR": "Coberto de vegetação",
       "ro": "Super crescut",
       "sv": "Bevuxen",
-      "zh-HK": "Overgrown"
+      "zh-HK": "Overgrown",
+      "zh-TW": "雜草叢生的"
     },
     "texts": {
       "bg": "обрасли {0}",
@@ -3881,14 +4417,17 @@
       "et": "tihe {0}",
       "fi": "{0}, umpeenkasvanut",
       "fr": "{0} couverts de végétation",
+      "hu": "benőtt {0}",
       "it": "{0} coperta di vegetazione",
       "ja": "植物の茂っている{0}",
       "nb-NO": "overgrodd {0}",
       "nn-NO": "overgrodd {0}",
       "pl": "zarośnięte {0}",
+      "pt-BR": "{0} coberto de vegetação",
       "ro": "super crescut {0}",
       "sv": "{0}, bevuxen",
-      "zh-HK": "密{0}"
+      "zh-HK": "密{0}",
+      "zh-TW": "雜草叢生的 {0}"
     }
   },
   "8.5": {
@@ -3905,14 +4444,17 @@
       "et": "Avatud",
       "fi": "Avoin",
       "fr": "Dégagé",
+      "hu": "Nyílt",
       "it": "Aperto",
       "ja": "開けた",
       "nb-NO": "Åpen",
       "nn-NO": "Ope",
       "pl": "Open",
+      "pt-BR": "Aberto",
       "ro": "Deschis",
       "sv": "Öppen",
-      "zh-HK": "Open"
+      "zh-HK": "Open",
+      "zh-TW": "空曠的"
     },
     "texts": {
       "bg": "открити {0}",
@@ -3926,14 +4468,17 @@
       "et": "avatud {0}",
       "fi": "{0}, avoin",
       "fr": "{0} dégagés",
+      "hu": "nyílt {0}",
       "it": "{0} aperta",
       "ja": "開けた{0}",
       "nb-NO": "åpen {0}",
       "nn-NO": "ope {0}",
       "pl": "otwarte {0}",
+      "pt-BR": "{0} aberto",
       "ro": "deschis {0}",
       "sv": "{0}, öppen",
-      "zh-HK": "開闊的{0}"
+      "zh-HK": "開闊的{0}",
+      "zh-TW": "空曠的 {0}"
     }
   },
   "8.6": {
@@ -3950,14 +4495,17 @@
       "et": "Kivine, kaljune",
       "fi": "Louhikkoinen, kivinen",
       "fr": "Rocailleux",
+      "hu": "Sziklás, köves",
       "it": "Roccioso",
       "ja": "岩の・岩状の",
       "nb-NO": "Steinete",
       "nn-NO": "Steinete",
       "pl": "Rocky, stony",
+      "pt-BR": "Rochoso",
       "ro": "Stâncos",
       "sv": "Stenig",
-      "zh-HK": "Rocky, stony"
+      "zh-HK": "Rocky, stony",
+      "zh-TW": "岩石的、多石的"
     },
     "texts": {
       "bg": "каменисти {0}",
@@ -3971,14 +4519,17 @@
       "et": "kivine {0}",
       "fi": "{0}, louhikkoinen, kivinen",
       "fr": "{0} rocailleux",
+      "hu": "sziklás, kövesy {0}",
       "it": "{0} rocciosa",
       "ja": "岩の{0}",
       "nb-NO": "steinete {0}",
       "nn-NO": "steinete {0}",
       "pl": "skaliste {0}",
+      "pt-BR": "rochoso {0}",
       "ro": "stâncos {0}",
       "sv": "{0}, stenig",
-      "zh-HK": "多石的{0}"
+      "zh-HK": "多石的{0}",
+      "zh-TW": "岩石的 {0}"
     }
   },
   "8.7": {
@@ -3995,14 +4546,17 @@
       "et": "Soine",
       "fi": "Soinen",
       "fr": "Marécageux",
+      "hu": "Marshy",
       "it": "Paludoso",
       "ja": "湿地状の",
       "nb-NO": "Myrete",
       "nn-NO": "Myrete",
       "pl": "Marshy",
+      "pt-BR": "Pantanoso",
       "ro": "Mlăștinos",
       "sv": "Sank",
-      "zh-HK": "Marshy"
+      "zh-HK": "Marshy",
+      "zh-TW": "沼澤化的"
     },
     "texts": {
       "bg": "заблатени {0}",
@@ -4016,14 +4570,17 @@
       "et": "soine {0}",
       "fi": "{0}, soinen",
       "fr": "{0} marécageux",
+      "hu": "mocsaras {0}",
       "it": "{0} paludosa",
       "ja": "湿地状の{0}",
       "nb-NO": "myrete {0}",
       "nn-NO": "myrete {0}",
       "pl": "bagniste {0}",
+      "pt-BR": "{0} pantanoso",
       "ro": "mlăștinos {0}",
       "sv": "{0}, sank",
-      "zh-HK": "濕軟的{0}"
+      "zh-HK": "濕軟的{0}",
+      "zh-TW": "沼澤化的 {0}"
     }
   },
   "8.8": {
@@ -4040,14 +4597,17 @@
       "et": "Liivane",
       "fi": "Hietikkoinen",
       "fr": "Sablonneux",
+      "hu": "Homokos",
       "it": "Sabbioso",
       "ja": "砂地状の",
       "nb-NO": "Sandete",
       "nn-NO": "Sandig",
       "pl": "Sandy",
+      "pt-BR": "Arenoso",
       "ro": "Nisipos",
       "sv": "Sandig",
-      "zh-HK": "Sandy"
+      "zh-HK": "Sandy",
+      "zh-TW": "多沙的"
     },
     "texts": {
       "bg": "песъчливи {0}",
@@ -4061,14 +4621,17 @@
       "et": "liivane {0}",
       "fi": "{0}, hietikkoinen",
       "fr": "{0} sablonneux",
+      "hu": "homokos {0}",
       "it": "{0} sabbiosa",
       "ja": "砂地状の{0}",
       "nb-NO": "sandete {0}",
       "nn-NO": "sandig {0}",
       "pl": "piaszczyste {0}",
+      "pt-BR": "arenoso {0}",
       "ro": "nisipos {0}",
       "sv": "{0}, sandig",
-      "zh-HK": "多沙的{0}"
+      "zh-HK": "多沙的{0}",
+      "zh-TW": "多沙的 {0}"
     }
   },
   "8.9": {
@@ -4085,14 +4648,17 @@
       "et": "Okaspuu",
       "fi": "Havupuu, havupensas",
       "fr": "Conifère",
+      "hu": "Tűlevelű",
       "it": "Di specie aghifoglia",
       "ja": "針葉樹の",
       "nb-NO": "Barholdig",
       "nn-NO": "Bartre",
       "pl": "Needle-leaved",
+      "pt-BR": "Pinheiro",
       "ro": "Ace de brad",
       "sv": "Barrträd",
-      "zh-HK": "Needle-leaved"
+      "zh-HK": "Needle-leaved",
+      "zh-TW": "針葉的"
     },
     "texts": {
       "bg": "иглолистни {0}",
@@ -4106,14 +4672,17 @@
       "et": "okaspuu {0}",
       "fi": "{0}, havupuu/havupensas",
       "fr": "{0}, conifères",
+      "hu": "tűlevelű {0}",
       "it": "{0} di specie aghifoglia",
       "ja": "針葉樹の{0}",
       "nb-NO": "bartre {0}",
       "nn-NO": "bartre {0}",
       "pl": "iglaste {0}",
+      "pt-BR": "{0}, pinheiro",
       "ro": "ace-brad {0}",
-      "sv": "{0}, barrträd ",
-      "zh-HK": "針葉{0}"
+      "sv": "{0}, barrträd",
+      "zh-HK": "針葉{0}",
+      "zh-TW": "針葉的 {0}"
     }
   },
   "8.10": {
@@ -4130,14 +4699,17 @@
       "et": "Lehtpuu",
       "fi": "Lehtipuu, lehtipensas",
       "fr": "Feuillu",
+      "hu": "Lombos",
       "it": "Di specie latifoglia",
       "ja": "広葉樹の",
       "nb-NO": "Løvtre",
       "nn-NO": "Lauvtre",
       "pl": "Broad-leaved",
+      "pt-BR": "Copa larga",
       "ro": "Frunze-late",
       "sv": "Lövträd",
-      "zh-HK": "Broad-leaved"
+      "zh-HK": "Broad-leaved",
+      "zh-TW": "闊葉的"
     },
     "texts": {
       "bg": "широколистни {0}",
@@ -4151,14 +4723,17 @@
       "et": "lehtpuu {0}",
       "fi": "{0}, lehtipuu/lehtipensas",
       "fr": "{0}, feuillus",
+      "hu": "lombos {0}",
       "it": "{0} di specie latifoglia",
       "ja": "広葉樹の{0}",
       "nb-NO": "løvtre {0}",
       "nn-NO": "lauvtre {0}",
       "pl": "liściaste {0}",
+      "pt-BR": "{0}, copa larga",
       "ro": "frunze late {0}",
-      "sv": "{0}, lövträd ",
-      "zh-HK": "落葉{0}"
+      "sv": "{0}, lövträd",
+      "zh-HK": "落葉{0}",
+      "zh-TW": "闊葉的 {0}"
     }
   },
   "8.11": {
@@ -4175,14 +4750,17 @@
       "et": "Lagunenud",
       "fi": "Sortunut",
       "fr": "Ruiné ou tombé",
+      "hu": "Romos",
       "it": "Fatiscente",
       "ja": "倒れた・壊れた",
       "nb-NO": "Ødelagt",
       "nn-NO": "Ødelagt",
       "pl": "Ruined",
+      "pt-BR": "Caído",
       "ro": "Dărăpănat",
       "sv": "Raserad",
-      "zh-HK": "Ruined"
+      "zh-HK": "Ruined",
+      "zh-TW": "倒塌毀壞的"
     },
     "texts": {
       "bg": "разрушени {0}",
@@ -4196,14 +4774,17 @@
       "et": "lagunenud {0}",
       "fi": "{0}, sortunut",
       "fr": "{0} ruinés ou tombés",
+      "hu": "romos {0}",
       "it": "{0} fatiscente",
       "ja": "壊れた{0}",
       "nb-NO": "ødelagt {0}",
       "nn-NO": "ødelagt {0}",
       "pl": "zniszczone {0}",
+      "pt-BR": "{0} caído",
       "ro": "dărăpănat {0}",
-      "sv": "{0}, raserad ",
-      "zh-HK": "倒塌的{0}"
+      "sv": "{0}, raserad",
+      "zh-HK": "倒塌的{0}",
+      "zh-TW": "倒塌毀壞的 {0}"
     }
   },
   "10.1": {
@@ -4220,14 +4801,17 @@
       "et": "Ristumine",
       "fi": "Risteys",
       "fr": "Croisement",
+      "hu": "Kereszteződés",
       "it": "Incrocio",
       "ja": "交点",
       "nb-NO": "Kryss",
       "nn-NO": "Kryss",
       "pl": "Crossing",
+      "pt-BR": "Cruzamento",
       "ro": "Intersecţie",
       "sv": "Korsning",
-      "zh-HK": "Crossing"
+      "zh-HK": "Crossing",
+      "zh-TW": "交會處"
     },
     "texts": {
       "bg": "пресичания на {0} и {1}",
@@ -4241,14 +4825,17 @@
       "et": "{0} ja {1} ristumised",
       "fi": "{0} ja  {1} risteys",
       "fr": "croisement entre {0} et {1}",
-      "it": "incrocio di {0} e {1}",
+      "hu": "{0} és {1} kereszteződése",
+      "it": "incroci di {0} e {1}",
       "ja": "{0}と{1}の交点",
       "nb-NO": "{0} og {1} kryss",
       "nn-NO": "{0} og {1} kryss",
       "pl": "skrzyżowania {0} oraz {1}",
+      "pt-BR": "cruzamento de {0} e {1}",
       "ro": "intersecţia dintre {0} și {1}",
-      "sv": "{0} korsar {1}",
-      "zh-HK": "{0}及{1}的交叉處"
+      "sv": "korsningen mellan {0} och {1}",
+      "zh-HK": "{0}及{1}的交叉處",
+      "zh-TW": "{0} 與 {1} 的交會處"
     }
   },
   "10.2": {
@@ -4265,14 +4852,17 @@
       "et": "Hargnemine",
       "fi": "Haara",
       "fr": "Jonction",
-      "it": "Bivio",
+      "hu": "Elágazás",
+      "it": "Raccordo",
       "ja": "分岐",
       "nb-NO": "Dele",
       "nn-NO": "Forgreining",
       "pl": "Junction",
+      "pt-BR": "Junção",
       "ro": "Bifurcație",
       "sv": "Förgrening",
-      "zh-HK": "Junction"
+      "zh-HK": "Junction",
+      "zh-TW": "連接處"
     },
     "texts": {
       "bg": "събирания/сливания на {0} и {1}",
@@ -4286,14 +4876,17 @@
       "et": "{0} ja {1} hargnemised",
       "fi": "{0} ja {1} haara",
       "fr": "jonction entre {0} et {1}",
-      "it": "bivio di {0} e {1}",
+      "hu": "{0} és {1} elágazása",
+      "it": "raccordi di {0} e {1}",
       "ja": "{0}と{1}の分岐",
       "nb-NO": "{0} og {1} deler",
       "nn-NO": "{0} og {1} forgreininger",
       "pl": "rozwidlenia {0} oraz {1}",
+      "pt-BR": "junção de {0} e {1}",
       "ro": "bifurcație dintre {0} și {1}",
-      "sv": "{0}/{1} förgreningar",
-      "zh-HK": "{0}及{1}的連接處"
+      "sv": "förgrening av {0} och {1}",
+      "zh-HK": "{0}及{1}的連接處",
+      "zh-TW": "{0} 與 {1} 的連接處"
     }
   },
   "11.7": {
@@ -4310,14 +4903,17 @@
       "et": "Käänak",
       "fi": "Mutka",
       "fr": "Coude",
+      "hu": "Kanyar",
       "it": "Curva",
       "ja": "曲がり",
       "nb-NO": "Kne",
       "nn-NO": "Kne",
       "pl": "Bend",
+      "pt-BR": "Curva",
       "ro": "Cotitură",
-      "sv": "Krök",
-      "zh-HK": "Bend"
+      "sv": "Kröken",
+      "zh-HK": "Bend",
+      "zh-TW": "轉彎處"
     },
     "texts": {
       "bg": "завой на {0}",
@@ -4331,14 +4927,17 @@
       "et": "{0} käänakul",
       "fi": "{0} mutka",
       "fr": "{0}, au coude",
+      "hu": "{0} kanyar",
       "it": "curva di {0}",
       "ja": "{0}の曲がり",
       "nb-NO": "kne {0}",
       "nn-NO": "kne {0}",
       "pl": "zakręt {0}",
+      "pt-BR": "Curva de {0}",
       "ro": "cotitură de {0}",
       "sv": "{0}, kröken",
-      "zh-HK": "{0}彎位"
+      "zh-HK": "{0}彎位",
+      "zh-TW": "{0} 的轉彎處"
     }
   },
   "11.1N": {
@@ -4355,14 +4954,17 @@
       "et": "Põhjaküljel",
       "fi": "Pohjoissivu",
       "fr": "Côté Nord",
+      "hu": "Északi oldal",
       "it": "Lato nord",
       "ja": "北側",
       "nb-NO": "Nord for",
       "nn-NO": "Nord for",
       "pl": "North side",
+      "pt-BR": "lado Norte",
       "ro": "Partea nordică",
       "sv": "Norra sidan",
-      "zh-HK": "North side"
+      "zh-HK": "North side",
+      "zh-TW": "北面外"
     },
     "texts": {
       "bg": "северната страна на {0}",
@@ -4376,14 +4978,17 @@
       "et": "{0} põhjaküljel ",
       "fi": "{0}, pohjoissivu",
       "fr": "{0}, côté Nord",
+      "hu": "{0} É-i oldala",
       "it": "{0}, lato nord",
       "ja": "{0}の北側",
       "nb-NO": "N side {0}",
       "nn-NO": "N side av {0}",
       "pl": "północna strona {0}",
+      "pt-BR": "{0}, Lado Norte",
       "ro": "{0} partea nordică",
-      "sv": "{0}, Norra sidan ",
-      "zh-HK": "{0}北面"
+      "sv": "{0}, N sidan",
+      "zh-HK": "{0}北面",
+      "zh-TW": "{0}的北面外"
     }
   },
   "11.1NE": {
@@ -4400,14 +5005,17 @@
       "et": "Kirdeküljel",
       "fi": "Koillissivu",
       "fr": "Côté NE",
+      "hu": "Észak-keleti oldal",
       "it": "Lato nord-est",
       "ja": "北東側",
       "nb-NO": "Nordøst for",
       "nn-NO": "Nodaust for",
       "pl": "North-east side",
+      "pt-BR": "Lado Nordeste",
       "ro": "Partea nord estică",
       "sv": "Nordöstra sidan",
-      "zh-HK": "North-east side"
+      "zh-HK": "North-east side",
+      "zh-TW": "東北面外"
     },
     "texts": {
       "bg": "СИ страна на {0}",
@@ -4421,14 +5029,17 @@
       "et": "{0} kirdeküljel",
       "fi": "{0}, koillissivu",
       "fr": "{0}, côté NE",
+      "hu": "{0} ÉK-i oldala",
       "it": "{0}, lato nord-est",
       "ja": "{0}の北東側",
       "nb-NO": "NE side {0}",
       "nn-NO": "NA side av {0}",
       "pl": "północno-wschodnia strona {0}",
+      "pt-BR": "{0}, Lado Nordeste",
       "ro": "{0} partea nord estică",
-      "sv": "{0}, Nordöstra sidan ",
-      "zh-HK": "{0}東北面"
+      "sv": "{0}, NÖ sidan",
+      "zh-HK": "{0}東北面",
+      "zh-TW": "{0}的東北面外"
     }
   },
   "11.1E": {
@@ -4445,14 +5056,17 @@
       "et": "Idaküljel",
       "fi": "Itäsivu",
       "fr": "Côté Est",
+      "hu": "Keleti oldal",
       "it": "Lato est",
       "ja": "東側",
       "nb-NO": "Øst for",
       "nn-NO": "AUst for",
       "pl": "East side",
+      "pt-BR": "Lado Leste",
       "ro": "Partea estică",
       "sv": "Östra sidan",
-      "zh-HK": "East side"
+      "zh-HK": "East side",
+      "zh-TW": "東面外"
     },
     "texts": {
       "bg": "източната страна на {0}",
@@ -4466,14 +5080,17 @@
       "et": "{0} idaküljel",
       "fi": "{0}, itäsivu",
       "fr": "{0}, côté Est",
+      "hu": "{0} K-i oldala",
       "it": "{0}, lato est",
       "ja": "{0}の東側",
       "nb-NO": "Ø side {0}",
       "nn-NO": "A side av {0}",
       "pl": "wschodnia strona {0}",
+      "pt-BR": "{0}; Lado Leste",
       "ro": "{0} partea estică",
-      "sv": "{0}, Östra sidan",
-      "zh-HK": "{0}東面"
+      "sv": "{0}, Ö sidan",
+      "zh-HK": "{0}東面",
+      "zh-TW": "{0}的東面外"
     }
   },
   "11.1SE": {
@@ -4490,14 +5107,17 @@
       "et": "Kaguküljel",
       "fi": "Kaakkoissivu",
       "fr": "Côté SE",
+      "hu": "Dél-keleti oldal",
       "it": "Lato sud-est",
       "ja": "南東側",
       "nb-NO": "Sørøst for",
       "nn-NO": "Søraust for",
       "pl": "South-east side",
+      "pt-BR": "Lado Sudeste",
       "ro": "Partea sud estică",
       "sv": "Sydöstra sidan",
-      "zh-HK": "South-east side"
+      "zh-HK": "South-east side",
+      "zh-TW": "東南面外"
     },
     "texts": {
       "bg": "ЮИ страна на {0}",
@@ -4511,14 +5131,17 @@
       "et": "{0} kaguküljel",
       "fi": "{0}, kaakkoissivu",
       "fr": "{0}, côté SE",
+      "hu": "{0} DK-i oldala",
       "it": "{0}, lato sud-est",
       "ja": "{0}の南東側",
       "nb-NO": "SØ side {0}",
       "nn-NO": "SA side av {0}",
       "pl": "południowo-wchodnia strona {0}",
+      "pt-BR": "{0}; Lado Sudeste",
       "ro": "{0} partea sud estică",
-      "sv": "{0}, Sydöstra sidan",
-      "zh-HK": "{0}東南面"
+      "sv": "{0}, SÖ sidan",
+      "zh-HK": "{0}東南面",
+      "zh-TW": "{0}的東南面外"
     }
   },
   "11.1S": {
@@ -4535,14 +5158,17 @@
       "et": "Lõunaküljel",
       "fi": "Eteläsivu",
       "fr": "Côté Sud",
+      "hu": "Déli oldal",
       "it": "Lato sud",
       "ja": "南側",
       "nb-NO": "Sør for",
       "nn-NO": "Sør for",
       "pl": "South side",
+      "pt-BR": "Lado Sul",
       "ro": "Partea sudică",
       "sv": "Södra sidan",
-      "zh-HK": "South side"
+      "zh-HK": "South side",
+      "zh-TW": "南面外"
     },
     "texts": {
       "bg": "южната страна на {0}",
@@ -4556,14 +5182,17 @@
       "et": "{0} lõunaküljel",
       "fi": "{0}, eteläsivu",
       "fr": "{0}, côté Sud",
+      "hu": "{0} D-i oldala",
       "it": "{0}, lato sud",
       "ja": "{0}の南側",
       "nb-NO": "S side {0}",
       "nn-NO": "S side av {0}",
       "pl": "południowa strona {0}",
+      "pt-BR": "{0}; Lado Sul",
       "ro": "{0} partea sudică",
-      "sv": "{0}, Södra sidan",
-      "zh-HK": "{0}南面"
+      "sv": "{0}, S sidan",
+      "zh-HK": "{0}南面",
+      "zh-TW": "{0}的南面外"
     }
   },
   "11.1SW": {
@@ -4580,14 +5209,17 @@
       "et": "Edelaküljel",
       "fi": "Lounaissivu",
       "fr": "Côté SO",
+      "hu": "Dél-nyudati oldal",
       "it": "Lato sud-ovest",
       "ja": "南西側",
       "nb-NO": "Sørvest for",
       "nn-NO": "Sørvest for",
       "pl": "South-west side",
+      "pt-BR": "Lado Sudoeste",
       "ro": "Partea sud-vestică",
       "sv": "Sydvästra sidan",
-      "zh-HK": "South-west side"
+      "zh-HK": "South-west side",
+      "zh-TW": "西南面外"
     },
     "texts": {
       "bg": "ЮЗ страна на {0}",
@@ -4601,14 +5233,17 @@
       "et": "{0} edelaküljel",
       "fi": "{0}, lounaissivu",
       "fr": "{0}, côté SO",
+      "hu": "{0} DNY-i oldala",
       "it": "{0}, lato sud-ovest",
       "ja": "{0}の南西側",
       "nb-NO": "SV side {0}",
       "nn-NO": "SV side av {0}",
       "pl": "południowo-zachodnia strona {0}",
+      "pt-BR": "{0}; Lado Sudoeste",
       "ro": "{0} partea sud vestică",
-      "sv": "{0}, Sydvästra sidan",
-      "zh-HK": "{0}西南面"
+      "sv": "{0}, SV sidan",
+      "zh-HK": "{0}西南面",
+      "zh-TW": "{0}的西南面外"
     }
   },
   "11.1W": {
@@ -4625,14 +5260,17 @@
       "et": "Lääneküljel",
       "fi": "Länsisivu",
       "fr": "Côté Ouest",
+      "hu": "Nyugati oldal",
       "it": "Lato ovest",
       "ja": "西側",
       "nb-NO": "Vest for",
       "nn-NO": "Vest for",
       "pl": "West side",
+      "pt-BR": "Lado Oeste",
       "ro": "Partea vestică",
       "sv": "Västra sidan",
-      "zh-HK": "West side"
+      "zh-HK": "West side",
+      "zh-TW": "西面外"
     },
     "texts": {
       "bg": "западната страна на {0}",
@@ -4646,14 +5284,17 @@
       "et": "{0} lääneküljel",
       "fi": "{0}, länsisivu",
       "fr": "{0}, côté Ouest",
+      "hu": "{0} NY-i oldala",
       "it": "{0}, lato ovest",
       "ja": "{0}の西側",
       "nb-NO": "V side {0}",
       "nn-NO": "V side av {0}",
       "pl": "zachodnia strona {0}",
+      "pt-BR": "{0}; Lado Oeste",
       "ro": "{0} partea vestică",
-      "sv": "{0}, Västra sidan",
-      "zh-HK": "{0}西面"
+      "sv": "{0}, V sidan",
+      "zh-HK": "{0}西面",
+      "zh-TW": "{0}的西面外"
     }
   },
   "11.1NW": {
@@ -4670,14 +5311,17 @@
       "et": "Loodeküljel",
       "fi": "Luoteissivu",
       "fr": "Côté NO",
+      "hu": "Észak-nyugati oldal",
       "it": "Lato nord-ovest",
       "ja": "北西側",
       "nb-NO": "Nordvest for",
       "nn-NO": "Nordvest for",
       "pl": "North-west side",
+      "pt-BR": "Lado Noroeste",
       "ro": "Partea nord-vestică",
       "sv": "Nordvästra sidan",
-      "zh-HK": "North-west side"
+      "zh-HK": "North-west side",
+      "zh-TW": "西北面外"
     },
     "texts": {
       "bg": "СЗ страна на {0}",
@@ -4691,14 +5335,16 @@
       "et": "{0} loodeküljel",
       "fi": "{0}, luoteissivu",
       "fr": "{0}, côté NO",
+      "hu": "{0} ÉNY-i oldala",
       "it": "{0}, lato nord-ovest",
       "ja": "{0}の北西側",
       "nb-NO": "NV side {0}",
       "nn-NO": "NV side av {0}",
       "pl": "północno-zachodnia strona {0}",
       "ro": "{0} partea nord-vestică",
-      "sv": "{0}, Nordvästra sidan",
-      "zh-HK": "{0}西北面"
+      "sv": "{0}, NV sidan",
+      "zh-HK": "{0}西北面",
+      "zh-TW": "{0}的西北面外"
     }
   },
   "11.2N": {
@@ -4715,14 +5361,17 @@
       "et": "Põhjaservas",
       "fi": "Pohjoisreuna",
       "fr": "Bord Nord",
+      "hu": "Északi széle",
       "it": "Margine nord",
       "ja": "北のふち",
       "nb-NO": "Nordre ende",
       "nn-NO": "Nordkanten",
       "pl": "North edge",
+      "pt-BR": "Borda Norte",
       "ro": "Marginea nordică",
       "sv": "Norra kanten",
-      "zh-HK": "North edge"
+      "zh-HK": "North edge",
+      "zh-TW": "北邊緣"
     },
     "texts": {
       "bg": "северният край на {0}",
@@ -4736,14 +5385,17 @@
       "et": "{0} põhjaservas",
       "fi": "{0}, pohjoisreuna",
       "fr": "{0}, bord Nord",
+      "hu": "{0} É-i széle",
       "it": "{0}, margine nord",
       "ja": "{0}の北のふち",
       "nb-NO": "N ende {0}",
       "nn-NO": "N ende av {0}",
       "pl": "północny skraj {0}",
+      "pt-BR": "{0} na borda Norte",
       "ro": "{0} marginea nordică",
-      "sv": "{0}, Norra kanten",
-      "zh-HK": "{0}北邊緣"
+      "sv": "{0}, N kanten",
+      "zh-HK": "{0}北邊緣",
+      "zh-TW": "{0}的北邊緣"
     }
   },
   "11.2NE": {
@@ -4760,14 +5412,17 @@
       "et": "Kirdeservas",
       "fi": "Koillisreuna",
       "fr": "Bord NE",
+      "hu": "Észak-keleti széle",
       "it": "Margine nord-est",
       "ja": "北東のふち",
       "nb-NO": "Nordøstre ende",
       "nn-NO": "Nordaustkanten",
       "pl": "North-east edge",
+      "pt-BR": "Borda Nordeste",
       "ro": "Marginea nord-estică",
       "sv": "Nordöstra kanten",
-      "zh-HK": "North-east edge"
+      "zh-HK": "North-east edge",
+      "zh-TW": "東北邊緣"
     },
     "texts": {
       "bg": "СИ край на {0}",
@@ -4781,14 +5436,17 @@
       "et": "{0} kirdeservas",
       "fi": "{0}, koillisreuna",
       "fr": "{0}, bord NE",
+      "hu": "{0} ÉK-i széle",
       "it": "{0}, margine nord-est",
       "ja": "{0}の北東のふち",
       "nb-NO": "NE ende {0}",
       "nn-NO": "NA ende av {0}",
       "pl": "północno-wschodni skraj {0}",
+      "pt-BR": "{0} na borda NE",
       "ro": "{0} marginea nord-estică",
-      "sv": "{0}, Nordöstra kanten",
-      "zh-HK": "{0}東北邊緣"
+      "sv": "{0}, NÖ kanten",
+      "zh-HK": "{0}東北邊緣",
+      "zh-TW": "{0}的東北邊緣"
     }
   },
   "11.2E": {
@@ -4805,14 +5463,17 @@
       "et": "Idaservas",
       "fi": "Itäreuna",
       "fr": "Bord Est",
+      "hu": "Keleti széle",
       "it": "Margine est",
       "ja": "東のふち",
       "nb-NO": "Østre ende",
       "nn-NO": "Austkanten",
       "pl": "East edge",
+      "pt-BR": "Borda Leste",
       "ro": "Marginea estică",
       "sv": "Östra kanten",
-      "zh-HK": "East edge"
+      "zh-HK": "East edge",
+      "zh-TW": "東邊緣"
     },
     "texts": {
       "bg": "източният край на {0}",
@@ -4826,14 +5487,17 @@
       "et": "{0} idaservas",
       "fi": "{0}, itäreuna",
       "fr": "{0}, bord Est",
+      "hu": "{0} K-i széle",
       "it": "{0}, margine est",
       "ja": "{0}の東のふち",
       "nb-NO": "Ø ende {0}",
       "nn-NO": "A ende av {0}",
       "pl": "wschodni skraj {0}",
+      "pt-BR": "{0} na borda Leste",
       "ro": "{0} marginea estică",
-      "sv": "{0}, Östra kanten",
-      "zh-HK": "{0}東邊緣"
+      "sv": "{0}, Ö kanten",
+      "zh-HK": "{0}東邊緣",
+      "zh-TW": "{0}的東邊緣"
     }
   },
   "11.2SE": {
@@ -4850,14 +5514,17 @@
       "et": "Kaguservas",
       "fi": "Kaakkoisreuna",
       "fr": "Bord SE",
+      "hu": "Dél-keleti széle",
       "it": "Margine sud-est",
       "ja": "南東のふち",
       "nb-NO": "Sørøstre ende",
       "nn-NO": "Søraustkanten",
       "pl": "South-east edge",
+      "pt-BR": "Borda Sudeste",
       "ro": "Marginea sud-estică",
       "sv": "Sydöstra kanten",
-      "zh-HK": "South-east edge"
+      "zh-HK": "South-east edge",
+      "zh-TW": "東南邊緣"
     },
     "texts": {
       "bg": "ЮИ край на {0}",
@@ -4871,14 +5538,17 @@
       "et": "{0} kaguservas",
       "fi": "{0}, kaakkoisreuna",
       "fr": "{0}, bord SE",
+      "hu": "{0} DK-i széle",
       "it": "{0}, margine sud-est",
       "ja": "{0}の南東のふち",
       "nb-NO": "SØ ende {0}",
       "nn-NO": "SA ende av {0}",
       "pl": "południowo-wschodni skraj {0}",
+      "pt-BR": "{0} na borda SE",
       "ro": "{0} marginea sud-estică",
-      "sv": "{0}, Sydöstra kanten",
-      "zh-HK": "{0}東南邊緣"
+      "sv": "{0}, SÖ kanten",
+      "zh-HK": "{0}東南邊緣",
+      "zh-TW": "{0}的東南邊緣"
     }
   },
   "11.2S": {
@@ -4895,14 +5565,17 @@
       "et": "Lõunaservas",
       "fi": "Eteläreuna",
       "fr": "Bord Sud",
+      "hu": "Déli széle",
       "it": "Margine sud",
       "ja": "南のふち",
       "nb-NO": "Søndre ende",
       "nn-NO": "Sørkanten",
       "pl": "South edge",
+      "pt-BR": "Borda Sul",
       "ro": "marginea sudică",
       "sv": "Södra kanten",
-      "zh-HK": "South edge"
+      "zh-HK": "South edge",
+      "zh-TW": "南邊緣"
     },
     "texts": {
       "bg": "южният край на {0}",
@@ -4916,14 +5589,17 @@
       "et": "{0} lõunaservas",
       "fi": "{0}, eteläreuna",
       "fr": "{0}, bord Sud",
+      "hu": "{0} D-i széle",
       "it": "{0}, margine sud",
       "ja": "{0}の南のふち",
       "nb-NO": "S ende {0}",
       "nn-NO": "S ende av {0}",
       "pl": "południowy skraj {0}",
+      "pt-BR": "{0} na borda Sul",
       "ro": "{0} marginea sudică",
-      "sv": "{0}, Södra kanten",
-      "zh-HK": "{0}南邊緣"
+      "sv": "{0}, S kanten",
+      "zh-HK": "{0}南邊緣",
+      "zh-TW": "{0}的南邊緣"
     }
   },
   "11.2SW": {
@@ -4940,14 +5616,17 @@
       "et": "Edelaservas",
       "fi": "Lounaisreuna",
       "fr": "Bord SO",
+      "hu": "Dél-nyugati széle",
       "it": "Margine sud-ovest",
       "ja": "南西のふち",
       "nb-NO": "Sørvestre ende",
       "nn-NO": "Sørvestkanten",
       "pl": "South-west edge",
+      "pt-BR": "Borda Sudoeste",
       "ro": "marginea sud-vestică",
       "sv": "Sydvästra kanten",
-      "zh-HK": "South-west edge"
+      "zh-HK": "South-west edge",
+      "zh-TW": "西南邊緣"
     },
     "texts": {
       "bg": "ЮЗ край на {0}",
@@ -4961,14 +5640,17 @@
       "et": "{0} edelaservas",
       "fi": "{0}, lounaisreuna",
       "fr": "{0}, bord SO",
+      "hu": "{0} DNY-i széle",
       "it": "{0}, margine sud-ovest",
       "ja": "{0}の南西のふち",
       "nb-NO": "SV ende {0}",
       "nn-NO": "SV ende av {0}",
       "pl": "południowo-zachodni skraj {0}",
+      "pt-BR": "{0} na borda SO",
       "ro": "{0} marginea sud-vestică",
-      "sv": "{0}, Sydvästra kanten",
-      "zh-HK": "{0}西南邊緣"
+      "sv": "{0}, SV kanten",
+      "zh-HK": "{0}西南邊緣",
+      "zh-TW": "{0}的西南邊緣"
     }
   },
   "11.2W": {
@@ -4985,14 +5667,17 @@
       "et": "Lääneservas",
       "fi": "Länsireuna",
       "fr": "Bord Ouest",
+      "hu": "Nyugati széle",
       "it": "Margine ovest",
       "ja": "西のふち",
       "nb-NO": "Vestre ende",
       "nn-NO": "Vestkanten",
       "pl": "West edge",
+      "pt-BR": "Borda Oeste",
       "ro": "marginea vestică",
       "sv": "Västra kanten",
-      "zh-HK": "West edge"
+      "zh-HK": "West edge",
+      "zh-TW": "西邊緣"
     },
     "texts": {
       "bg": "западният край на {0}",
@@ -5006,14 +5691,17 @@
       "et": "{0} lääneservas",
       "fi": "{0}, länsireuna",
       "fr": "{0}, bord Ouest",
+      "hu": "{0} NY-i széle",
       "it": "{0}, margine ovest",
       "ja": "{0}の西のふち",
       "nb-NO": "V ende {0}",
       "nn-NO": "V ende av {0}",
       "pl": "zachodni skraj {0}",
+      "pt-BR": "{0} na borda Oeste",
       "ro": "{0} marginea vestică",
-      "sv": "{0}, Västra kanten ",
-      "zh-HK": "{0}西邊緣"
+      "sv": "{0}, V kanten",
+      "zh-HK": "{0}西邊緣",
+      "zh-TW": "{0}的西邊緣"
     }
   },
   "11.2NW": {
@@ -5030,14 +5718,17 @@
       "et": "Loodeservas",
       "fi": "Luoteisreuna",
       "fr": "Bord NO",
+      "hu": "Észak-nyugati széle",
       "it": "Margine nord-ovest",
       "ja": "北西のふち",
       "nb-NO": "Nordvestre ende",
       "nn-NO": "Nordvestkanten",
       "pl": "North-west edge",
+      "pt-BR": "Borda Noroeste",
       "ro": "Marginea nord-vestică",
       "sv": "Nordvästra kanten",
-      "zh-HK": "North-west edge"
+      "zh-HK": "North-west edge",
+      "zh-TW": "西北邊緣"
     },
     "texts": {
       "bg": "СЗ край на {0}",
@@ -5051,14 +5742,17 @@
       "et": "{0} loodeservas",
       "fi": "{0}, luoteisreuna",
       "fr": "{0}, Bord NO",
+      "hu": "{0} ÉNY-i széle",
       "it": "{0}, margine nord-ovest",
       "ja": "{0}の北西のふち",
       "nb-NO": "NV ende {0}",
       "nn-NO": "NV ende av {0}",
       "pl": "północno-zachodni skraj {0}",
+      "pt-BR": "{0} na borda NO",
       "ro": "{0} marginea nord-vestică",
-      "sv": "{0}, Nordvästra kanten",
-      "zh-HK": "{0}西北邊緣"
+      "sv": "{0}, NV kanten",
+      "zh-HK": "{0}西北邊緣",
+      "zh-TW": "{0}的西北邊緣"
     }
   },
   "11.3N": {
@@ -5075,14 +5769,17 @@
       "et": "Põhjaosas",
       "fi": "Pohjoisosa",
       "fr": "Partie Nord",
+      "hu": "Északi részén",
       "it": "Parte nord",
       "ja": "北の部分",
       "nb-NO": "Nordre del",
       "nn-NO": "Nordre del",
       "pl": "North part",
+      "pt-BR": "Parte Norte",
       "ro": "Partea nordică interior",
       "sv": "Norra delen",
-      "zh-HK": "North part"
+      "zh-HK": "North part",
+      "zh-TW": "北部內"
     },
     "texts": {
       "bg": "северната част на {0}",
@@ -5096,14 +5793,17 @@
       "et": "{0} põhjaosas",
       "fi": "{0}, pohjoisosa",
       "fr": "{0}, partie Nord",
+      "hu": "{0} É-i részén",
       "it": "{0}, parte nord",
       "ja": "{0}の北の部分",
       "nb-NO": "N del {0}",
       "nn-NO": "N del av {0}",
       "pl": "północna część {0}",
+      "pt-BR": "{0} na parte Norte",
       "ro": "{0} partea nordică interior",
-      "sv": "{0}, Norra delen ",
-      "zh-HK": "{0}北部"
+      "sv": "{0}, N delen",
+      "zh-HK": "{0}北部",
+      "zh-TW": " {0}的北部內"
     }
   },
   "11.3NE": {
@@ -5120,14 +5820,17 @@
       "et": "Kirdeosas",
       "fi": "Koillisosa",
       "fr": "Partie NE",
+      "hu": "Észak-keleti részén",
       "it": "Parte nord-est",
       "ja": "北東の部分",
       "nb-NO": "Nordøstre del",
       "nn-NO": "Nordaustre del",
       "pl": "North-east part",
+      "pt-BR": "Parte Nordeste",
       "ro": "Partea nord-estică interior",
       "sv": "Nordöstra delen",
-      "zh-HK": "North-east part"
+      "zh-HK": "North-east part",
+      "zh-TW": "東北部內"
     },
     "texts": {
       "bg": "СИ част на {0}",
@@ -5141,14 +5844,17 @@
       "et": "{0} kirdeosas",
       "fi": "{0}, koillisosa",
       "fr": "{0}, partie NE",
+      "hu": "{0} ÉK-i részén",
       "it": "{0}, parte nord-est",
       "ja": "{0}の北東の部分",
       "nb-NO": "NØ del {0}",
       "nn-NO": "NA del av {0}",
       "pl": "północno-wschodnia część {0}",
+      "pt-BR": "{0} na parte NE",
       "ro": "{0} partea nord-estică interior",
-      "sv": "{0}, Nordöstra delen",
-      "zh-HK": "{0}東北部"
+      "sv": "{0}, NÖ delen",
+      "zh-HK": "{0}東北部",
+      "zh-TW": " {0}的東北部內"
     }
   },
   "11.3E": {
@@ -5165,14 +5871,17 @@
       "et": "Idaosas",
       "fi": "Itäosa",
       "fr": "Partie Est",
+      "hu": "Keleti részén",
       "it": "Parte est",
       "ja": "東の部分",
       "nb-NO": "Østre del",
       "nn-NO": "Austre del",
       "pl": "East part",
+      "pt-BR": "Parte Leste",
       "ro": "Partea estică interior",
       "sv": "Östra delen",
-      "zh-HK": "East part"
+      "zh-HK": "East part",
+      "zh-TW": "東部內"
     },
     "texts": {
       "bg": "източната част на {0}",
@@ -5186,14 +5895,17 @@
       "et": "{0} idaosas",
       "fi": "{0}, itäosa",
       "fr": "{0}, partie Est",
+      "hu": "{0} K-i részén",
       "it": "{0}, parte est",
       "ja": "{0}の東の部分",
       "nb-NO": "Ø del {0}",
       "nn-NO": "A del av {0}",
       "pl": "wschodnia część {0}",
+      "pt-BR": "{0} na parte Leste",
       "ro": "{0} partea estică interior",
-      "sv": "{0}, Östra delen ",
-      "zh-HK": "{0}東部"
+      "sv": "{0}, Ö delen",
+      "zh-HK": "{0}東部",
+      "zh-TW": " {0}的東部內"
     }
   },
   "11.3SE": {
@@ -5210,14 +5922,17 @@
       "et": "Kaguosas",
       "fi": "Kaakkoisosa",
       "fr": "Partie SE",
+      "hu": "Dél-keleti részén",
       "it": "Parte sud-est",
       "ja": "南東の部分",
       "nb-NO": "Sørøstre del",
       "nn-NO": "Søraustre del",
       "pl": "South-east part",
+      "pt-BR": "Parte Sudeste",
       "ro": "Partea sud-estică interior",
       "sv": "Sydöstra delen",
-      "zh-HK": "South-east part"
+      "zh-HK": "South-east part",
+      "zh-TW": "東南部內"
     },
     "texts": {
       "bg": "ЮИ част на {0}",
@@ -5231,14 +5946,17 @@
       "et": "{0} kaguosas",
       "fi": "{0}, kaakkoisosa",
       "fr": "{0}, partie SE",
+      "hu": "{0} DK-i részén",
       "it": "{0}, parte sud-est",
       "ja": "{0}の南東の部分",
       "nb-NO": "SØ del {0}",
       "nn-NO": "SA del av {0}",
       "pl": "południowo-wschodnia część {0}",
+      "pt-BR": "{0} na parte SE",
       "ro": "{0} partea sud-estică interior",
-      "sv": "{0}, Sydöstra delen",
-      "zh-HK": "{0}東南部"
+      "sv": "{0}, SÖ delen",
+      "zh-HK": "{0}東南部",
+      "zh-TW": " {0}的東南部內"
     }
   },
   "11.3S": {
@@ -5255,14 +5973,17 @@
       "et": "Lõunaosas",
       "fi": "Eteläosa",
       "fr": "Partie Sud",
+      "hu": "Déli részén",
       "it": "Parte sud",
       "ja": "南の部分",
       "nb-NO": "Søndre del",
       "nn-NO": "Søre del",
       "pl": "South part",
+      "pt-BR": "Parte Sul",
       "ro": "Partea sudică interior",
       "sv": "Södra delen",
-      "zh-HK": "South part"
+      "zh-HK": "South part",
+      "zh-TW": "南部內"
     },
     "texts": {
       "bg": "южната част на {0}",
@@ -5276,14 +5997,17 @@
       "et": "{0} lõunaosas",
       "fi": "{0}, eteläosa",
       "fr": "{0}, partie Sud",
+      "hu": "{0} D-i részén",
       "it": "{0}, parte sud",
       "ja": "{0}の南の部分",
       "nb-NO": "S del {0}",
       "nn-NO": "S del av {0}",
       "pl": "południowa część {0}",
+      "pt-BR": "{0} na parte Sul",
       "ro": "{0} partea sudică interior",
-      "sv": "{0}, Södra delen",
-      "zh-HK": "{0}南部"
+      "sv": "{0}, S delen",
+      "zh-HK": "{0}南部",
+      "zh-TW": " {0}的南部內"
     }
   },
   "11.3SW": {
@@ -5300,14 +6024,17 @@
       "et": "Edelaosas",
       "fi": "Lounaisosa",
       "fr": "Partie SO",
+      "hu": "Dél-nyugati részén",
       "it": "Parte sud-ovest",
       "ja": "南西の部分",
       "nb-NO": "Sørvestre del",
       "nn-NO": "Sørvestre del",
       "pl": "South-west part",
+      "pt-BR": "Parte Sudoeste",
       "ro": "Partea sud-vestică interior",
       "sv": "Sydvästra delen",
-      "zh-HK": "South-west part"
+      "zh-HK": "South-west part",
+      "zh-TW": "西南部內"
     },
     "texts": {
       "bg": "ЮЗ част на {0}",
@@ -5321,14 +6048,17 @@
       "et": "{0} edelaosas",
       "fi": "{0}, lounaisosa",
       "fr": "{0}, partie SO",
+      "hu": "{0} DNY-i részén",
       "it": "{0}, parte sud-ovest",
       "ja": "{0}の南西の部分",
       "nb-NO": "SV del {0}",
       "nn-NO": "SV del av {0}",
       "pl": "południowo-zachodnia część {0}",
+      "pt-BR": "{0} na parte SO",
       "ro": "{0} partea sud-vestică interior",
-      "sv": "{0}, Sydvästra delen",
-      "zh-HK": "{0}西南部"
+      "sv": "{0}, SV delen",
+      "zh-HK": "{0}西南部",
+      "zh-TW": " {0}的西南部內"
     }
   },
   "11.3W": {
@@ -5345,14 +6075,17 @@
       "et": "Lääneosas",
       "fi": "Länsiosa",
       "fr": "Partie Ouest",
+      "hu": "Nyugati részén",
       "it": "Parte ovest",
       "ja": "西の部分",
       "nb-NO": "Vestre del",
       "nn-NO": "Vestre del",
       "pl": "West part",
+      "pt-BR": "Parte Oeste",
       "ro": "Partea vestică interior",
       "sv": "Västra delen",
-      "zh-HK": "West part"
+      "zh-HK": "West part",
+      "zh-TW": "西部內"
     },
     "texts": {
       "bg": "западната част на {0}",
@@ -5366,14 +6099,17 @@
       "et": "{0} lääneosas",
       "fi": "{0}, länsiosa",
       "fr": "{0}, partie Ouest",
+      "hu": "{0} NY-i részén",
       "it": "{0}, parte ovest",
       "ja": "{0}の西の部分",
       "nb-NO": "V del {0}",
       "nn-NO": "V del av {0}",
       "pl": "zachodnia część {0}",
+      "pt-BR": "{0} na parte Oeste",
       "ro": "{0} partea vestică interior",
-      "sv": "{0}, Västra delen",
-      "zh-HK": "{0}西部"
+      "sv": "{0}, V delen",
+      "zh-HK": "{0}西部",
+      "zh-TW": " {0}的西部內"
     }
   },
   "11.3NW": {
@@ -5390,14 +6126,17 @@
       "et": "Loodeosas",
       "fi": "Luoteisosa",
       "fr": "Partie NO",
+      "hu": "Észak-nyugati részén",
       "it": "Parte nord-ovest",
       "ja": "北西の部分",
       "nb-NO": "Nordvestre del",
       "nn-NO": "Nordvestre del",
       "pl": "North-west part",
+      "pt-BR": "Parte Noroeste",
       "ro": "Partea nord-vestică interior",
       "sv": "Nordvästra delen",
-      "zh-HK": "North-west part"
+      "zh-HK": "North-west part",
+      "zh-TW": "西北部內"
     },
     "texts": {
       "bg": "СЗ част на {0}",
@@ -5411,14 +6150,17 @@
       "et": "{0} loodeosas",
       "fi": "{0}, luoteisosa",
       "fr": "{0}, partie NO",
+      "hu": "{0} ÉNY-i részén",
       "it": "{0}, parte nord-ovest",
       "ja": "{0}の北西の部分",
       "nb-NO": "NV del {0}",
       "nn-NO": "NV del av {0}",
       "pl": "północno-zachodnia część {0}",
+      "pt-BR": "{0} na parte NO",
       "ro": "{0} partea nord-vestică interior",
-      "sv": "{0}, Nordvästra delen",
-      "zh-HK": "{0}西北部"
+      "sv": "{0}, NV delen",
+      "zh-HK": "{0}西北部",
+      "zh-TW": " {0}的西北部內"
     }
   },
   "11.4N": {
@@ -5435,14 +6177,17 @@
       "et": "Põhjapoolne sisenurk",
       "fi": "Pohjoiskulma (sisäpuolella)",
       "fr": "Angle Nord (intérieur)",
+      "hu": "Északi sarkán belül",
       "it": "Angolo nord interno",
       "ja": "北の角(内側)",
       "nb-NO": "Nordre hjørne (innside)",
       "nn-NO": "Nordre hjørne (innside)",
       "pl": "North corner (inside)",
+      "pt-BR": "Canto Norte (interno)",
       "ro": "Colț nord interior",
       "sv": "Norra hörnet (insidan)",
-      "zh-HK": "North corner (inside)"
+      "zh-HK": "North corner (inside)",
+      "zh-TW": "北角內"
     },
     "texts": {
       "bg": "северният ъгъл (отвътре) на {0}",
@@ -5456,14 +6201,17 @@
       "et": "{0} põhjapoolne sisenurk",
       "fi": "{0}, pohjoiskulma (sisäpuolella)",
       "fr": "{0}, angle Nord (intérieur)",
+      "hu": "{0} É-i sarkán belül",
       "it": "{0}, angolo nord interno",
       "ja": "{0}の北の角(内側)",
       "nb-NO": "N hjørne innside {0}",
       "nn-NO": "N hjørne innside {0}",
       "pl": "północny róg wewnątrz {0}",
+      "pt-BR": "{0}, canto (interno) Norte",
       "ro": "{0} colț nord interior",
-      "sv": "{0}, Norra hörnet (insidan)",
-      "zh-HK": "{0}北內角"
+      "sv": "{0}, N hörnet (insidan)",
+      "zh-HK": "{0}北內角",
+      "zh-TW": "{0}的北角內"
     }
   },
   "11.4NE": {
@@ -5480,14 +6228,17 @@
       "et": "Kirdepoolne sisenurk",
       "fi": "Koilliskulma (sisäpuolella)",
       "fr": "Angle NE (intérieur)",
+      "hu": "Észak-keleti sarkán belül",
       "it": "Angolo nord-est interno",
       "ja": "北東の角(内側)",
       "nb-NO": "Nordøstre hjørne (innside)",
       "nn-NO": "Nordaustre hjørne (innside)",
       "pl": "North-east corner (inside)",
+      "pt-BR": "Canto (interno) Nordeste",
       "ro": "colț nord-est interior",
       "sv": "Nordöstra hörnet (insidan)",
-      "zh-HK": "North-east corner (inside)"
+      "zh-HK": "North-east corner (inside)",
+      "zh-TW": "東北角內"
     },
     "texts": {
       "bg": "СИ ъгъл (отвътре) на {0}",
@@ -5501,14 +6252,17 @@
       "et": "{0} kirdepoolne sisenurk",
       "fi": "{0}, koilliskulma (sisäpuolella)",
       "fr": "{0}, angle NE (intérieur)",
+      "hu": "{0} ÉK-i sarkán belül",
       "it": "{0}, angolo nord-est interno",
       "ja": "{0}の北東の角(内側)",
       "nb-NO": "NØ hjørne innside {0}",
       "nn-NO": "NA hjørne innside {0}",
       "pl": "północno-wchodni róg wewnątrz {0}",
+      "pt-BR": "{0}, canto (interno) Nordeste ",
       "ro": "{0} colț nord-est interior",
-      "sv": "{0}, Nordöstra hörnet (insidan)",
-      "zh-HK": "{0}東北內角"
+      "sv": "{0}, NÖ hörnet (insidan)",
+      "zh-HK": "{0}東北內角",
+      "zh-TW": "{0}的東北角內"
     }
   },
   "11.4E": {
@@ -5525,14 +6279,17 @@
       "et": "Idapoolne sisenurk",
       "fi": "Itäkulma (sisäpuolella)",
       "fr": "Angle Est (intérieur)",
+      "hu": "Keleti sarkán belül",
       "it": "Angolo est interno",
       "ja": "東の角(内側)",
       "nb-NO": "Østre hjørne (innside)",
       "nn-NO": "Austre hjørne (innside)",
       "pl": "East corner (inside)",
+      "pt-BR": "Canto (interno) Leste",
       "ro": "Colț est interior",
       "sv": "Östra hörnet (insidan)",
-      "zh-HK": "East corner (inside)"
+      "zh-HK": "East corner (inside)",
+      "zh-TW": "東角內"
     },
     "texts": {
       "bg": "източният ъгъл (отвътре) на {0}",
@@ -5546,14 +6303,17 @@
       "et": "{0} idapoolne sisenurk",
       "fi": "{0}, itäkulma (sisäpuolella)",
       "fr": "{0}, angle Est (intérieur)",
+      "hu": "{0} K-i sarkán belül",
       "it": "{0}, angolo est interno",
       "ja": "{0}の東の角(内側)",
       "nb-NO": "Ø hjørne innside {0}",
       "nn-NO": "A hjørne innside {0}",
       "pl": "wschodni róg wewnątrz {0}",
+      "pt-BR": "{0}, canto (interno) Leste",
       "ro": "{0} colț est interior",
-      "sv": "{0}, Östra hörnet (insidan)",
-      "zh-HK": "{0}東內角"
+      "sv": "{0}, Ö hörnet (insidan)",
+      "zh-HK": "{0}東內角",
+      "zh-TW": "{0}的東角內"
     }
   },
   "11.4SE": {
@@ -5570,14 +6330,17 @@
       "et": "Kagupoolne sisenurk",
       "fi": "Kaakkoiskulma (sisäpuolella)",
       "fr": "Angle SE (intérieur)",
+      "hu": "Dél-keleti sarkán belül",
       "it": "Angolo sud-est interno",
       "ja": "南東の角(内側)",
       "nb-NO": "Sørøstre hjørne (innside)",
       "nn-NO": "SØraustre hjørne (innside)",
       "pl": "South-east corner (inside)",
+      "pt-BR": "Canto (interno) Sudeste",
       "ro": "Colț sud-est interior",
       "sv": "Sydöstra hörnet (insidan)",
-      "zh-HK": "South-east corner (inside)"
+      "zh-HK": "South-east corner (inside)",
+      "zh-TW": "東南角內"
     },
     "texts": {
       "bg": "ЮИ ъгъл (отвътре) на {0}",
@@ -5591,14 +6354,17 @@
       "et": "{0} kagupoolne sisenurk",
       "fi": "{0}, kaakkoiskulma (sisäpuolella)",
       "fr": "{0}, angle SE (intérieur)",
+      "hu": "{0} DK-i sarkán belül",
       "it": "{0}, angolo sud-est interno",
       "ja": "{0}の南東の角(内側)",
       "nb-NO": "SØ hjørne innside {0}",
       "nn-NO": "SØ hjørne innside {0}",
       "pl": "południowo-wschodni róg wewnątrz {0}",
+      "pt-BR": "{0}, canto (interno) SE",
       "ro": "{0} colț sud-est interior",
-      "sv": "{0}, Sydöstra hörnet (insidan)",
-      "zh-HK": "{0}東南內角"
+      "sv": "{0}, SÖ hörnet (insidan)",
+      "zh-HK": "{0}東南內角",
+      "zh-TW": "{0}的東南角內"
     }
   },
   "11.4S": {
@@ -5615,14 +6381,17 @@
       "et": "Lõunapoolne sisenurk",
       "fi": "Eteläkulma (sisäpuolella)",
       "fr": "Angle Sud (intérieur)",
+      "hu": "Déli sarkán belül",
       "it": "Angolo sud interno",
       "ja": "南の角(内側)",
       "nb-NO": "Søndre hjørne (innside)",
       "nn-NO": "Søndre hjørne (innside)",
       "pl": "South corner (inside)",
+      "pt-BR": "Canto (interno) Sul",
       "ro": "Colț sud interior",
       "sv": "Södra hörnet (insidan)",
-      "zh-HK": "South corner (inside)"
+      "zh-HK": "South corner (inside)",
+      "zh-TW": "南角內"
     },
     "texts": {
       "bg": "южният ъгъл (отвътре) на {0}",
@@ -5636,14 +6405,17 @@
       "et": "{0} lõunapoolne sisenurk",
       "fi": "{0}, eteläkulma (sisäpuolella)",
       "fr": "{0}, angle Sud (intérieur)",
+      "hu": "{0} D-i sarkán belül",
       "it": "{0}, angolo sud interno",
       "ja": "{0}の南の角(内側)",
       "nb-NO": "S hjørne innside {0}",
       "nn-NO": "S hjørne innside {0}",
       "pl": "południowy róg wewnątrz {0}",
+      "pt-BR": "{0}, canto (interno) Sul",
       "ro": "{0} colț sud interior",
-      "sv": "{0}, Södra hörnet (insidan)",
-      "zh-HK": "{0}南內角"
+      "sv": "{0}, S hörnet (insidan)",
+      "zh-HK": "{0}南內角",
+      "zh-TW": "{0}的南角內"
     }
   },
   "11.4SW": {
@@ -5660,14 +6432,17 @@
       "et": "Edalapoolne sisenurk",
       "fi": "Lounaiskulma (sisäpuolella)",
       "fr": "Angle SO (intérieur)",
+      "hu": "Dél-nyugati sarkán belül",
       "it": "Angolo sud-ovest interno",
       "ja": "南西の角(内側)",
       "nb-NO": "Sørvestre hjørne (innside)",
       "nn-NO": "Sørvestre hjørne (innside)",
       "pl": "South-west corner (inside)",
+      "pt-BR": "Canto (interno) Sudoeste",
       "ro": "Colț sud-vest interior",
       "sv": "Sydvästra hörnet (insidan)",
-      "zh-HK": "South-west corner (inside)"
+      "zh-HK": "South-west corner (inside)",
+      "zh-TW": "西南角內"
     },
     "texts": {
       "bg": "ЮЗ ъгъл (отвътре) на {0}",
@@ -5681,14 +6456,17 @@
       "et": "{0} edelapoolne sisenurk",
       "fi": "{0}, lounaiskulma (sisäpuolella)",
       "fr": "{0}, angle SO (intérieur)",
+      "hu": "{0} DNY-i sarkán belül",
       "it": "{0}, angolo sud-ovest interno",
       "ja": "{0}の南西の角(内側)",
       "nb-NO": "SV hjørne innside {0}",
       "nn-NO": "SV hjørne innside {0}",
       "pl": "południowo-zachodni róg wewnątrz {0}",
+      "pt-BR": "{0}, canto (interno) SO",
       "ro": "{0} colț sud-vest interior",
-      "sv": "{0}, Sydvästra hörnet (insidan)",
-      "zh-HK": "{0}西南內角"
+      "sv": "{0}, SV hörnet (insidan)",
+      "zh-HK": "{0}西南內角",
+      "zh-TW": "{0}的西南角內"
     }
   },
   "11.4W": {
@@ -5705,14 +6483,17 @@
       "et": "Läänepoolne sisenurk",
       "fi": "Länsikulma (sisäpuolella)",
       "fr": "Angle Ouest (intérieur)",
+      "hu": "Nyugati sarkán belül",
       "it": "Angolo ovest interno",
       "ja": "西の角(内側)",
       "nb-NO": "Vestre hjørne (innside)",
       "nn-NO": "Vestre hjørne (innside)",
       "pl": "West corner (inside)",
+      "pt-BR": "Canto (interno) Oeste",
       "ro": "Colț vest interior",
       "sv": "Västra hörnet (insidan)",
-      "zh-HK": "West corner (inside)"
+      "zh-HK": "West corner (inside)",
+      "zh-TW": "西角內"
     },
     "texts": {
       "bg": "западният ъгъл (отвътре) на {0}",
@@ -5726,14 +6507,17 @@
       "et": "{0} läänepoolne sisenurk",
       "fi": "{0}, länsikulma (sisäpuolella)",
       "fr": "{0}, angle Ouest (intérieur)",
+      "hu": "{0} NY-i sarkán belül",
       "it": "{0}, angolo ovest interno",
       "ja": "{0}の西の角(内側)",
       "nb-NO": "V hjørne innside {0}",
       "nn-NO": "V hjørne innside {0}",
       "pl": "zachodni róg wewnątrz {0}",
+      "pt-BR": "{0}, canto (interno) Oeste",
       "ro": "{0} colț vest interior",
-      "sv": "{0}, Västra hörnet (insidan)",
-      "zh-HK": "{0}西內角"
+      "sv": "{0}, V hörnet (insidan)",
+      "zh-HK": "{0}西內角",
+      "zh-TW": "{0}的西角內"
     }
   },
   "11.4NW": {
@@ -5750,14 +6534,17 @@
       "et": "Loodepoolne sisenurk",
       "fi": "Luoteiskulma (sisäpuolella)",
       "fr": "Angle NO (intérieur)",
+      "hu": "Észak-nyugati sarkán belül",
       "it": "Angolo nord-ovest interno",
       "ja": "北西の角(内側)",
       "nb-NO": "Nordvestre hjørne (innside)",
       "nn-NO": "Nordvestre hjørne (innside)",
       "pl": "North-west corner (inside)",
+      "pt-BR": "Canto (interno) Noroeste",
       "ro": "Colț nord-vest interior",
       "sv": "Nordvästra hörnet (insidan)",
-      "zh-HK": "North-west corner (inside)"
+      "zh-HK": "North-west corner (inside)",
+      "zh-TW": "西北角內"
     },
     "texts": {
       "bg": "СЗ ъгъл (отвътре) на {0}",
@@ -5771,14 +6558,17 @@
       "et": "{0} loodepoolne sisenurk",
       "fi": "{0}, luoteiskulma (sisäpuolella)",
       "fr": "{0}, angle NO (intérieur)",
+      "hu": "{0} ÉNY-i sarkán belül",
       "it": "{0}, angolo nord-ovest interno",
       "ja": "{0}の北西の角(内側)",
       "nb-NO": "NV hjørne innside {0}",
       "nn-NO": "NV hjørne innside {0}",
       "pl": "północno-zachodni róg wewnątrz {0}",
+      "pt-BR": "{0}, canto (interno) NO",
       "ro": "{0} colț nord-vest interior",
-      "sv": "{0}, Nordvästra hörnet (insidan)",
-      "zh-HK": "{0}西北內角"
+      "sv": "{0}, NV hörnet (insidan)",
+      "zh-HK": "{0}西北內角",
+      "zh-TW": "{0}的西北角內"
     }
   },
   "11.5N": {
@@ -5795,14 +6585,17 @@
       "et": "Põhjapoolne välisnurk",
       "fi": "Pohjoiskulma (ulkopuolella)",
       "fr": "Angle Nord (extérieur)",
+      "hu": "Északi sarkán kívül",
       "it": "Angolo nord esterno",
       "ja": "北の角(外側)",
       "nb-NO": "Nordre hjørne (utside)",
       "nn-NO": "Nordre hjørne (utside)",
       "pl": "North corner (outside)",
+      "pt-BR": "canto (externo) Norte",
       "ro": "Colț exterior nordic",
       "sv": "Norra hörnet (utsidan)",
-      "zh-HK": "North corner (outside)"
+      "zh-HK": "North corner (outside)",
+      "zh-TW": "北角外"
     },
     "texts": {
       "bg": "северният ъгъл (отвън) на {0}",
@@ -5816,14 +6609,17 @@
       "et": "{0} põhjapoolne välisnurk",
       "fi": "{0}, pohjoiskulma (ulkopuolella)",
       "fr": "{0}, angle Nord (extérieur)",
+      "hu": "{0} É-i sarkán kívül",
       "it": "{0}, angolo nord esterno",
       "ja": "{0}の北の角(外側)",
       "nb-NO": "N hjørne utside {0}",
       "nn-NO": "N hjørne utside {0}",
       "pl": "północny zewnętrzny róg {0}",
+      "pt-BR": "{0}, canto (externo) Norte",
       "ro": "{0} colț exterior nordic",
-      "sv": "{0}, Norra hörnet (utsidan)",
-      "zh-HK": "{0}北外角"
+      "sv": "{0}, N hörnet (utsidan)",
+      "zh-HK": "{0}北外角",
+      "zh-TW": "{0}的北角外"
     }
   },
   "11.5NE": {
@@ -5840,14 +6636,17 @@
       "et": "Kirdepoolne välisnurk",
       "fi": "Koilliskulma (ulkopuolella)",
       "fr": "Angle NE (extérieur)",
+      "hu": "Észak-keleti sarkán kívül",
       "it": "Angolo nord-est esterno",
       "ja": "北東の角(外側)",
       "nb-NO": "Nordøstre hjørne (utside)",
       "nn-NO": "Nordaust hjørne (utside)",
       "pl": "North-east corner (outside)",
+      "pt-BR": "canto (externo) Nordeste",
       "ro": "Colț exterior nord-estic",
       "sv": "Nordöstra hörnet (utsidan)",
-      "zh-HK": "North-east corner (outside)"
+      "zh-HK": "North-east corner (outside)",
+      "zh-TW": "東北角外"
     },
     "texts": {
       "bg": "СИ ъгъл (отвън) на {0}",
@@ -5861,14 +6660,17 @@
       "et": "{0} kirdepoolne välisnurk",
       "fi": "{0}, koilliskulma (ulkopuolella)",
       "fr": "{0}, angle NE (extérieur)",
+      "hu": "{0} ÉK-i sarkán kívül",
       "it": "{0}, angolo nord-est esterno",
       "ja": "{0}の北東の角(外側)",
       "nb-NO": "NØ hjørne utside {0}",
       "nn-NO": "NA hjørne utside {0}",
       "pl": "północno-wschodni zewnętrzny róg {0}",
+      "pt-BR": "{0}, canto (externo) NE",
       "ro": "{0} colț exterior nord-estic",
-      "sv": "{0}, Nordöstra hörnet (utsidan)",
-      "zh-HK": "{0}東北外角"
+      "sv": "{0}, NÖ hörnet (utsidan)",
+      "zh-HK": "{0}東北外角",
+      "zh-TW": "{0}的東北角外"
     }
   },
   "11.5E": {
@@ -5885,14 +6687,17 @@
       "et": "Idapoolne välisnurk",
       "fi": "Itäkulma (ulkopuolella)",
       "fr": "Angle Est (extérieur)",
+      "hu": "Keleti sarkán kívül",
       "it": "Angolo est esterno",
       "ja": "東の角(外側)",
       "nb-NO": "Østre hjørne (utside)",
       "nn-NO": "AUstre hjørne (utside)",
       "pl": "East corner (outside)",
+      "pt-BR": "canto (externo) Leste",
       "ro": "Colț exterior estic",
       "sv": "Östra hörnet (utsidan)",
-      "zh-HK": "East corner (outside)"
+      "zh-HK": "East corner (outside)",
+      "zh-TW": "東角外"
     },
     "texts": {
       "bg": "източният ъгъл (отвън) на {0}",
@@ -5906,14 +6711,17 @@
       "et": "{0} idapoolne välisnurk",
       "fi": "{0}, itäkulma (ulkopuolella)",
       "fr": "{0}, angle Est (extérieur)",
+      "hu": "{0} K-i sarkán kívül",
       "it": "{0}, angolo est esterno",
       "ja": "{0}の東の角(外側)",
       "nb-NO": "Ø hjørne utside {0}",
       "nn-NO": "A hjørne utside {0}",
       "pl": "wschodni zewnętrzny róg {0}",
+      "pt-BR": "{0}, canto (externo) Leste",
       "ro": "{0} colț exterior estic",
-      "sv": "{0}, Östra hörnet (utsidan)",
-      "zh-HK": "{0}東外角"
+      "sv": "{0}, Ö hörnet (utsidan)",
+      "zh-HK": "{0}東外角",
+      "zh-TW": "{0}的東角外"
     }
   },
   "11.5SE": {
@@ -5930,14 +6738,17 @@
       "et": "Kagupoolne välisnurk",
       "fi": "Kaakkoiskulma (ulkopuolella)",
       "fr": "Angle SE (extérieur)",
+      "hu": "Dél-keleti sarkán kívül",
       "it": "Angolo sud-est esterno",
       "ja": "南東の角(外側)",
       "nb-NO": "Sørøstre hjørne (utside)",
       "nn-NO": "Søraust hjørne (utside)",
       "pl": "South-east corner (outside)",
+      "pt-BR": "canto (externo) Sudeste",
       "ro": "Colț exterior sud-estic",
       "sv": "Sydöstra hörnet (utsidan)",
-      "zh-HK": "South-east corner (outside)"
+      "zh-HK": "South-east corner (outside)",
+      "zh-TW": "東南角外"
     },
     "texts": {
       "bg": "ЮИ ъгъл (отвън) на {0}",
@@ -5951,14 +6762,17 @@
       "et": "{0} kagupoolne välisnurk",
       "fi": "{0}, kaakkoiskulma (ulkopuolella)",
       "fr": "{0}, angle SE (extérieur)",
+      "hu": "{0} DK-i sarkán kívül",
       "it": "{0}, angolo sud-est esterno",
       "ja": "{0}の南東の角(外側)",
       "nb-NO": "SØ hjørne utside {0}",
       "nn-NO": "SA hjørne utside {0}",
       "pl": "południowo-wschodni zewnętrzny róg {0}",
+      "pt-BR": "{0}, canto (externo) SE",
       "ro": "{0} colț exterior sud-estic",
-      "sv": "{0}, Sydöstra hörnet (utsidan)",
-      "zh-HK": "{0}東南外角"
+      "sv": "{0}, SÖ hörnet (utsidan)",
+      "zh-HK": "{0}東南外角",
+      "zh-TW": "{0}的東南角外"
     }
   },
   "11.5S": {
@@ -5975,14 +6789,17 @@
       "et": "Lõunapoolne välisnurk",
       "fi": "Eteläkulma (ulkopuolella)",
       "fr": "Angle Sud (extérieur)",
+      "hu": "Déli sarkán kívül",
       "it": "Angolo sud esterno",
       "ja": "南の角(外側)",
       "nb-NO": "Søndre hjørne (utside)",
       "nn-NO": "Søndre hjørne (utside)",
       "pl": "South corner (outside)",
+      "pt-BR": "canto (externo) Sul",
       "ro": "Colț exterior sudic",
       "sv": "Södra hörnet (utsidan)",
-      "zh-HK": "South corner (outside)"
+      "zh-HK": "South corner (outside)",
+      "zh-TW": "南角外"
     },
     "texts": {
       "bg": "южният ъгъл (отвън) на {0}",
@@ -5996,14 +6813,17 @@
       "et": "{0} lõunapoolne välisnurk",
       "fi": "{0}, eteläkulma (ulkopuolella)",
       "fr": "{0}, angle Sud (extérieur)",
+      "hu": "{0} D-i sarkán kívül",
       "it": "{0}, angolo sud esterno",
       "ja": "{0}の南の角(外側)",
       "nb-NO": "S hjørne utside {0}",
       "nn-NO": "S hjørne utside {0}",
       "pl": "południowy zewnętrzny róg {0}",
+      "pt-BR": "{0}, canto (externo) Sul",
       "ro": "{0} colț exterior sudic",
-      "sv": "{0}, Södra hörnet (utsidan)",
-      "zh-HK": "{0}南外角"
+      "sv": "{0}, S hörnet (utsidan)",
+      "zh-HK": "{0}南外角",
+      "zh-TW": "{0}的南角外"
     }
   },
   "11.5SW": {
@@ -6020,14 +6840,17 @@
       "et": "Edelapoolne välisnurk",
       "fi": "Lounaiskulma (ulkopuolella)",
       "fr": "Angle SO (extérieur)",
+      "hu": "Dél-nyugati sarkán kívül",
       "it": "Angolo sud-ovest esterno",
       "ja": "南西の角(外側)",
       "nb-NO": "Sørvestre hjørne (utside)",
       "nn-NO": "Sørvestre hjørne (utside)",
       "pl": "South-west corner (outside)",
+      "pt-BR": "canto (externo) Sudoeste",
       "ro": "Colț exterior sud-vestic",
       "sv": "Sydvästra hörnet (utsidan)",
-      "zh-HK": "South-west corner (outside)"
+      "zh-HK": "South-west corner (outside)",
+      "zh-TW": "西南角外"
     },
     "texts": {
       "bg": "ЮЗ ъгъл (отвън) на {0}",
@@ -6041,14 +6864,17 @@
       "et": "{0} edelapoolne välisnurk",
       "fi": "{0}, lounaiskulma (ulkopuolella)",
       "fr": "{0}, angle SO (extérieur)",
+      "hu": "{0} DNY-i sarkán kívül",
       "it": "{0}, angolo sud-ovest esterno",
       "ja": "{0}の南西の角(外側)",
       "nb-NO": "SV hjørne utside {0}",
       "nn-NO": "SV hjørne utside {0}",
       "pl": "południowo-zachodni zewnętrzny róg {0}",
+      "pt-BR": "{0}, canto (externo) SO",
       "ro": "{0} colț exterior sud-vestic",
-      "sv": "{0}, Sydvästra hörnet (utsidan)",
-      "zh-HK": "{0}西南外角"
+      "sv": "{0}, SV hörnet (utsidan)",
+      "zh-HK": "{0}西南外角",
+      "zh-TW": "{0}的西南角外"
     }
   },
   "11.5W": {
@@ -6065,14 +6891,17 @@
       "et": "Läänepoolne välisnurk",
       "fi": "Länsikulma (ulkopuolella)",
       "fr": "Angle Ouest (extérieur)",
+      "hu": "Nyugati sarkán kívül",
       "it": "Angolo ovest esterno",
       "ja": "西の角(外側)",
       "nb-NO": "Vestre hjørne (utside)",
       "nn-NO": "Vestre hjørner (utside)",
       "pl": "West corner (outside)",
+      "pt-BR": "canto (externo) Oeste",
       "ro": "Colț exterior vestic",
       "sv": "Västra hörnet (utsidan) ",
-      "zh-HK": "West corner (outside)"
+      "zh-HK": "West corner (outside)",
+      "zh-TW": "西角外"
     },
     "texts": {
       "bg": "западният ъгъл (отвън) на {0}",
@@ -6086,14 +6915,17 @@
       "et": "{0} läänepoolne välisnurk",
       "fi": "{0}, länsikulma (ulkopuolella)",
       "fr": "{0}, angle Ouest (extérieur)",
+      "hu": "{0} NY-i sarkán kívül",
       "it": "{0}, angolo ovest esterno",
       "ja": "{0}の西の角(外側)",
       "nb-NO": "V hjørne utside {0}",
       "nn-NO": "V hjørne utside {0}",
       "pl": "zachodni zewnętrzny róg {0}",
+      "pt-BR": "{0}, canto (externo) Oeste",
       "ro": "{0} colț exterior vestic",
-      "sv": "{0}, Västra hörnet (utsidan)",
-      "zh-HK": "{0}西外角"
+      "sv": "{0}, V hörnet (utsidan)",
+      "zh-HK": "{0}西外角",
+      "zh-TW": "{0}的西角外"
     }
   },
   "11.5NW": {
@@ -6110,14 +6942,17 @@
       "et": "Loodepoolne välisnurk",
       "fi": "Luoteiskulma (ulkopuolella)",
       "fr": "Angle NO(extérieur)",
+      "hu": "Észak-nyugati sarkán kívül",
       "it": "Angolo nord-ovest esterno",
       "ja": "北西の角(外側)",
       "nb-NO": "Nordvestre hjørne (utside)",
       "nn-NO": "Nordvestre hjørne (utside)",
       "pl": "North-west corner (outside)",
+      "pt-BR": "canto (externo) Noroeste",
       "ro": "Colț exterior nord-vestic",
       "sv": "Nordvästra hörnet (utsidan) ",
-      "zh-HK": "North-west corner (outside)"
+      "zh-HK": "North-west corner (outside)",
+      "zh-TW": "西北角外"
     },
     "texts": {
       "bg": "СЗ ъгъл (отвън) на {0}",
@@ -6131,14 +6966,17 @@
       "et": "{0} loodepoolne välisnurk",
       "fi": "{0}, luoteiskulma (ulkopuolella)",
       "fr": "{0}, angle NO (extérieur)",
+      "hu": "{0} ÉNY-i sarkán kívül",
       "it": "{0}, angolo nord-ovest esterno",
       "ja": "{0}の北西の角(外側)",
       "nb-NO": "NV hjørne utside {0}",
       "nn-NO": "NW hjørne utside {0}",
       "pl": "północno-zachodni zewnętrzny róg {0}",
+      "pt-BR": "{0}, canto (externo) NO",
       "ro": "{0} colț exterior nord-vestic",
-      "sv": "{0}, Nordvästra hörnet (utsidan) ",
-      "zh-HK": "{0}西北外角"
+      "sv": "{0}, NV hörnet (utsidan)",
+      "zh-HK": "{0}西北外角",
+      "zh-TW": "{0}的西北角外"
     }
   },
   "11.6N": {
@@ -6155,14 +6993,17 @@
       "et": "Põhjatipp",
       "fi": "Pohjoiskärki",
       "fr": "Pointe Nord",
+      "hu": "Északi csücske",
       "it": "Punta nord",
       "ja": "北の突端",
       "nb-NO": "Nordre tupp",
       "nn-NO": "Nordre tupp",
       "pl": "North tip",
+      "pt-BR": "ponta Norte",
       "ro": "Vârf nordic",
       "sv": "Norra spetsen",
-      "zh-HK": "North tip"
+      "zh-HK": "North tip",
+      "zh-TW": "北端"
     },
     "texts": {
       "bg": "северният връх на {0}",
@@ -6176,14 +7017,17 @@
       "et": "{0} põhjatipus",
       "fi": "{0}, pohjoiskärki",
       "fr": "{0}, pointe Nord",
+      "hu": "{0} É-i csücske",
       "it": "{0}, punta nord",
       "ja": "{0}の北の突端",
       "nb-NO": "N tupp {0}",
       "nn-NO": "N tupp {0}",
       "pl": "północny szpic {0}",
+      "pt-BR": "{0}, ponta Norte",
       "ro": "{0} vârf nordic",
-      "sv": "{0}, Norra spetsen",
-      "zh-HK": "{0}北端"
+      "sv": "{0}, N spetsen",
+      "zh-HK": "{0}北端",
+      "zh-TW": "{0}的北端"
     }
   },
   "11.6NE": {
@@ -6200,14 +7044,17 @@
       "et": "Kirdetipus",
       "fi": "Koilliskärki",
       "fr": "Pointe NE",
+      "hu": "Észak-keleti csücske",
       "it": "Punta nord-est",
       "ja": "北東の突端",
       "nb-NO": "Nordøstre tupp",
       "nn-NO": "Nordaustre tupp",
       "pl": "North-east tip",
+      "pt-BR": "ponta Nordeste",
       "ro": "Vârf nord-estic",
       "sv": "Nordöstra spetsen",
-      "zh-HK": "North-east tip"
+      "zh-HK": "North-east tip",
+      "zh-TW": "東北端"
     },
     "texts": {
       "bg": "СИ връх на {0}",
@@ -6221,14 +7068,17 @@
       "et": "{0} kirdetipus",
       "fi": "{0}, koilliskärki",
       "fr": "{0}, pointe NE",
+      "hu": "{0} ÉK-i csücske",
       "it": "{0}, punta nord-est",
       "ja": "{0}の北東の突端",
       "nb-NO": "NØ tupp {0}",
       "nn-NO": "NA tupp {0}",
       "pl": "północno-wschodni szpic {0}",
+      "pt-BR": "{0}, ponta NE",
       "ro": "{0} vârf nord-estic",
-      "sv": "{0}, Nordöstra spetsen",
-      "zh-HK": "{0}東北端"
+      "sv": "{0}, NÖ spetsen",
+      "zh-HK": "{0}東北端",
+      "zh-TW": "{0}的東北端"
     }
   },
   "11.6E": {
@@ -6245,14 +7095,17 @@
       "et": "Idatipp",
       "fi": "Itäkärki",
       "fr": "Pointe Est",
+      "hu": "Keleti csücske",
       "it": "Punta est",
       "ja": "東の突端",
       "nb-NO": "Østre tupp",
       "nn-NO": "Austre tupp",
       "pl": "East tip",
+      "pt-BR": "ponta Leste",
       "ro": "Vârf estic",
       "sv": "Östra spetsen",
-      "zh-HK": "East tip"
+      "zh-HK": "East tip",
+      "zh-TW": "東端"
     },
     "texts": {
       "bg": "източният връх на {0}",
@@ -6266,14 +7119,17 @@
       "et": "{0} idatipus",
       "fi": "{0}, itäkärki",
       "fr": "{0}, pointe Est",
+      "hu": "{0} K-i csücske",
       "it": "{0}, punta est",
       "ja": "{0}の東の突端",
       "nb-NO": "Ø tupp {0}",
       "nn-NO": "A tupp {0}",
       "pl": "wschodni szpic {0}",
+      "pt-BR": "{0}, ponta Leste",
       "ro": "{0} vârf estic",
-      "sv": "{0}, Östra spetsen",
-      "zh-HK": "{0}東端"
+      "sv": "{0}, Ö spetsen",
+      "zh-HK": "{0}東端",
+      "zh-TW": "{0}的東端"
     }
   },
   "11.6SE": {
@@ -6290,14 +7146,17 @@
       "et": "Kagutipus",
       "fi": "Kaakkoiskärki",
       "fr": "Pointe SE",
+      "hu": "Dél-keleti csücske",
       "it": "Punta sud-est",
       "ja": "南東の突端",
       "nb-NO": "Sørøstre tupp",
       "nn-NO": "Søraustre tupp",
       "pl": "South-east tip",
+      "pt-BR": "ponta Sudeste",
       "ro": "Vârf sud-estic",
       "sv": "Sydöstra spetsen",
-      "zh-HK": "South-east tip"
+      "zh-HK": "South-east tip",
+      "zh-TW": "東南端"
     },
     "texts": {
       "bg": "ЮИ връх на {0}",
@@ -6311,14 +7170,17 @@
       "et": "{0} kagutipus",
       "fi": "{0}, kaakkoiskärki",
       "fr": "{0}, pointe SE",
+      "hu": "{0} DK-i csücske",
       "it": "{0}, punta sud-est",
       "ja": "{0}の南東の突端",
       "nb-NO": "SØ tupp {0}",
       "nn-NO": "SA tupp {0}",
       "pl": "południowo-wschodni szpic {0}",
+      "pt-BR": "{0}, ponta SE",
       "ro": "{0} vârf sud-estic",
-      "sv": "{0}, Sydöstra spetsen",
-      "zh-HK": "{0}東南端"
+      "sv": "{0}, SÖ spetsen",
+      "zh-HK": "{0}東南端",
+      "zh-TW": "{0}的東南端"
     }
   },
   "11.6S": {
@@ -6335,14 +7197,17 @@
       "et": "Lõunatipp",
       "fi": "Eteläkärki",
       "fr": "Pointe Sud",
+      "hu": "Déli csücske",
       "it": "Punta sud",
       "ja": "南の突端",
       "nb-NO": "Søndre tupp",
       "nn-NO": "Søndre tupp",
       "pl": "South tip",
+      "pt-BR": "ponta Sul",
       "ro": "Vârf sudic",
       "sv": "Södra spetsen",
-      "zh-HK": "South tip"
+      "zh-HK": "South tip",
+      "zh-TW": "南端"
     },
     "texts": {
       "bg": "южният връх на {0}",
@@ -6356,14 +7221,17 @@
       "et": "{0} lõunatipus",
       "fi": "{0}, eteläkärki",
       "fr": "{0}, pointe Sud",
+      "hu": "{0} D-i csücske",
       "it": "{0}, punta sud",
       "ja": "{0}の南の突端",
       "nb-NO": "S tupp {0}",
       "nn-NO": "S tupp {0}",
       "pl": "południowy szpic {0}",
+      "pt-BR": "{0}, ponta Sul",
       "ro": "{0} vârf sudic",
-      "sv": "{0}, Södra spetsen",
-      "zh-HK": "{0}南端"
+      "sv": "{0}, S spetsen",
+      "zh-HK": "{0}南端",
+      "zh-TW": "{0}的南端"
     }
   },
   "11.6SW": {
@@ -6380,14 +7248,17 @@
       "et": "Edelatipp",
       "fi": "Lounaiskärki",
       "fr": "Pointe SO",
+      "hu": "Dél-nyugati csücske",
       "it": "Punta sud-ovest",
       "ja": "南西の突端",
       "nb-NO": "Sørvestre tupp",
       "nn-NO": "Sørvestre tupp",
       "pl": "South-west tip",
+      "pt-BR": "ponta Sudoeste",
       "ro": "Vârf sud-vestic",
       "sv": "Sydvästra spetsen",
-      "zh-HK": "South-west tip"
+      "zh-HK": "South-west tip",
+      "zh-TW": "西南端"
     },
     "texts": {
       "bg": "ЮЗ връх на {0}",
@@ -6401,14 +7272,17 @@
       "et": "{0} edelatipus",
       "fi": "{0}, lounaiskärki",
       "fr": "{0}, pointe SO",
+      "hu": "{0} DNY-i csücske",
       "it": "{0}, punta sud-ovest",
       "ja": "{0}の南西の突端",
       "nb-NO": "SV tupp {0}",
       "nn-NO": "SW tip of {0}",
       "pl": "południowo-zachodni szpic {0}",
+      "pt-BR": "{0}, ponta Sul",
       "ro": "{0} vârf sud-vestic",
-      "sv": "{0}, Sydvästra spetsen",
-      "zh-HK": "{0}西南端"
+      "sv": "{0}, SV spetsen",
+      "zh-HK": "{0}西南端",
+      "zh-TW": "{0}的西南端"
     }
   },
   "11.6W": {
@@ -6425,14 +7299,17 @@
       "et": "Läänetipp",
       "fi": "Länsikärki",
       "fr": "Pointe Ouest",
+      "hu": "Nyugati csücske",
       "it": "Punta ovest",
       "ja": "西の突端",
       "nb-NO": "Vestre tupp",
       "nn-NO": "Vestre tupp",
       "pl": "West tip",
+      "pt-BR": "ponta Oeste",
       "ro": "Vârf vestic",
       "sv": "Västra spetsen",
-      "zh-HK": "West tip"
+      "zh-HK": "West tip",
+      "zh-TW": "西端"
     },
     "texts": {
       "bg": "западният връх на {0}",
@@ -6446,14 +7323,17 @@
       "et": "{0} läänetipus",
       "fi": "{0}, länsikärki",
       "fr": "{0}, pointe Ouest",
+      "hu": "{0} NY-i csücske",
       "it": "{0}, punta ovest",
       "ja": "{0}の西の突端",
       "nb-NO": "V tupp {0}",
       "nn-NO": "V tupp {0}",
       "pl": "zachodni szpic {0}",
+      "pt-BR": "{0}, ponta Oeste",
       "ro": "{0} vârf vestic",
-      "sv": "{0}, Västra spetsen",
-      "zh-HK": "{0}西端"
+      "sv": "{0}, V spetsen",
+      "zh-HK": "{0}西端",
+      "zh-TW": "{0}的西端"
     }
   },
   "11.6NW": {
@@ -6470,14 +7350,17 @@
       "et": "Loodetipp",
       "fi": "Luoteiskärki",
       "fr": "Pointe NO",
+      "hu": "Észak-nyugati csücske",
       "it": "Punta nord-ovest",
       "ja": "北西の突端",
       "nb-NO": "Nordvestre tupp",
       "nn-NO": "Nordvestre tupp",
       "pl": "North-west tip",
+      "pt-BR": "ponta Noroeste",
       "ro": "Vârf nord-vestic",
       "sv": "Nordvästra spetsen",
-      "zh-HK": "North-west tip"
+      "zh-HK": "North-west tip",
+      "zh-TW": "西北端"
     },
     "texts": {
       "bg": "СЗ връх на {0}",
@@ -6491,14 +7374,17 @@
       "et": "{0} loodetipus",
       "fi": "{0}, luoteiskärki",
       "fr": "{0}, pointe NO",
+      "hu": "{0} ÉNY-i csücske",
       "it": "{0}, punta nord-ovest",
       "ja": "{0}の北西の突端",
       "nb-NO": "NV tupp {0}",
       "nn-NO": "NV tupp {0}",
       "pl": "północno-zachodni szpic {0}",
+      "pt-BR": "{0}, ponta NO",
       "ro": "{0} vârf nord-vestic",
-      "sv": "{0}, Nordvästra spetsen",
-      "zh-HK": "{0}西北端"
+      "sv": "{0}, NV spetsen",
+      "zh-HK": "{0}西北端",
+      "zh-TW": "{0}的西北端"
     }
   },
   "11.8N": {
@@ -6515,14 +7401,17 @@
       "et": "Põhja otsa",
       "fi": "Pohjoispää",
       "fr": "Extrémité Nord",
+      "hu": "Északi vége",
       "it": "Termine nord",
       "ja": "北の終わり",
       "nb-NO": "Nordre ende",
       "nn-NO": "Nordre ende",
       "pl": "North end",
+      "pt-BR": "extremidade Norte",
       "ro": "Capăt nordic",
       "sv": "Norra slutet",
-      "zh-HK": "North end"
+      "zh-HK": "North end",
+      "zh-TW": "北盡頭"
     },
     "texts": {
       "bg": "северният край на {0}",
@@ -6536,14 +7425,17 @@
       "et": "{0} põhja ots",
       "fi": "{0}, pohjoispää",
       "fr": "{0}, extrémité Nord",
+      "hu": "{0} É-i vége",
       "it": "{0}, termine nord",
       "ja": "{0}の北の終わり",
       "nb-NO": "N ende {0}",
       "nn-NO": "N ende {0}",
       "pl": "północny koniec {0}",
+      "pt-BR": "{0}, extremidade Norte",
       "ro": "{0} capăt nordic",
-      "sv": "{0}, Norra slutet",
-      "zh-HK": "{0}北盡頭"
+      "sv": "{0}, N slutet",
+      "zh-HK": "{0}北盡頭",
+      "zh-TW": "{0}的北盡頭"
     }
   },
   "11.8NE": {
@@ -6560,14 +7452,17 @@
       "et": "Kirdeots",
       "fi": "Koillispää",
       "fr": "Extrémité NE",
+      "hu": "Észak-keleti vége",
       "it": "Termine nord-est",
       "ja": "北東の終わり",
       "nb-NO": "Nordøstre ende",
       "nn-NO": "Nordaustre ende",
       "pl": "North-east end",
+      "pt-BR": "extremidade Nordeste",
       "ro": "Capăt nord-estic",
       "sv": "Nordöstra slutet",
-      "zh-HK": "North-east end"
+      "zh-HK": "North-east end",
+      "zh-TW": "東北盡頭"
     },
     "texts": {
       "bg": "СИ край на {0}",
@@ -6581,14 +7476,17 @@
       "et": "{0} kirde ots",
       "fi": "{0}, koillispää",
       "fr": "{0}, extrémité NE",
+      "hu": "{0} ÉK-i vége",
       "it": "{0}, termine nord-est",
       "ja": "{0}の北東の終わり",
       "nb-NO": "NØ ende {0}",
       "nn-NO": "NA ende {0}",
       "pl": "północno-wschodni koniec {0}",
+      "pt-BR": "{0}, extremidade NE",
       "ro": "{0} capăt nord-estic",
-      "sv": "{0}, Nordöstra slutet",
-      "zh-HK": "{0}東北盡頭"
+      "sv": "{0}, NÖ slutet",
+      "zh-HK": "{0}東北盡頭",
+      "zh-TW": "{0}的東北盡頭"
     }
   },
   "11.8E": {
@@ -6605,14 +7503,17 @@
       "et": "Idaots",
       "fi": "Itäpää",
       "fr": "Extrémité Est",
+      "hu": "Keleti vége",
       "it": "Termine est",
       "ja": "東の終わり",
       "nb-NO": "Østre ende",
       "nn-NO": "Østre ende",
       "pl": "East end",
+      "pt-BR": "extremidade Leste",
       "ro": "Capăt estic",
       "sv": "Östra slutet",
-      "zh-HK": "East end"
+      "zh-HK": "East end",
+      "zh-TW": "東盡頭"
     },
     "texts": {
       "bg": "източният край на {0}",
@@ -6626,14 +7527,17 @@
       "et": "{0} ida ots",
       "fi": "{0}, itäpää",
       "fr": "{0}, extrémité Est",
+      "hu": "{0} K-i vége",
       "it": "{0}, termine est",
       "ja": "{0}の東の終わり",
       "nb-NO": "Ø ende {0}",
       "nn-NO": "A ende {0}",
       "pl": "wschodni koniec {0}",
+      "pt-BR": "{0}, extremidade Leste",
       "ro": "{0} capăt estic",
-      "sv": "{0}, Östra slutet",
-      "zh-HK": "{0}東盡頭"
+      "sv": "{0}, Ö slutet",
+      "zh-HK": "{0}東盡頭",
+      "zh-TW": "{0}的東盡頭"
     }
   },
   "11.8SE": {
@@ -6650,14 +7554,17 @@
       "et": "Kaguots",
       "fi": "Kaakkoispää",
       "fr": "Extrémité SE",
+      "hu": "Dél-keleti vége",
       "it": "Termine sud-est",
       "ja": "南東の終わり",
       "nb-NO": "Sørøstre ende",
       "nn-NO": "Søraustre ende",
       "pl": "South-east end",
+      "pt-BR": "extremidade Sudeste",
       "ro": "Capăt sud-estic",
       "sv": "Sydöstra slutet",
-      "zh-HK": "South-east end"
+      "zh-HK": "South-east end",
+      "zh-TW": "東南盡頭"
     },
     "texts": {
       "bg": "ЮИ край на {0}",
@@ -6671,14 +7578,17 @@
       "et": "{0} kagu ots",
       "fi": "{0}, kaakkoispää",
       "fr": "{0}, extrémité SE",
+      "hu": "{0} DK-i vége",
       "it": "{0}, termine sud-est",
       "ja": "{0}の南東の終わり",
       "nb-NO": "SØ ende {0}",
       "nn-NO": "SA ende {0}",
       "pl": "południowo-wschodni koniec {0}",
+      "pt-BR": "{0}, extremidade SE",
       "ro": "{0} capăt sud-estic",
-      "sv": "{0}, Sydöstra slutet",
-      "zh-HK": "{0}東南盡頭"
+      "sv": "{0}, SÖ slutet",
+      "zh-HK": "{0}東南盡頭",
+      "zh-TW": "{0}的東南盡頭"
     }
   },
   "11.8S": {
@@ -6695,14 +7605,17 @@
       "et": "Lõunaots",
       "fi": "Eteläpää",
       "fr": "Extrémité Sud",
+      "hu": "Déli vége",
       "it": "Termine sud",
       "ja": "南の終わり",
       "nb-NO": "Søndre ende",
       "nn-NO": "Søndre ende",
       "pl": "South end",
+      "pt-BR": "extremidade Sul",
       "ro": "Capăt sudic",
       "sv": "Södra slutet",
-      "zh-HK": "South end"
+      "zh-HK": "South end",
+      "zh-TW": "南盡頭"
     },
     "texts": {
       "bg": "южният край на {0}",
@@ -6716,14 +7629,17 @@
       "et": "{0} lõuna ots",
       "fi": "{0}, eteläpää",
       "fr": "{0}, extrémité Sud",
+      "hu": "{0} D-i vége",
       "it": "{0}, termine sud",
       "ja": "{0}の南の終わり",
       "nb-NO": "S ende {0}",
       "nn-NO": "S ende {0}",
       "pl": "południowy koniec {0}",
+      "pt-BR": "{0}, extremidade Sul",
       "ro": "{0} capăt sudic",
-      "sv": "{0}, Södra slutet",
-      "zh-HK": "{0}南盡頭"
+      "sv": "{0}, S slutet",
+      "zh-HK": "{0}南盡頭",
+      "zh-TW": "{0}的南盡頭"
     }
   },
   "11.8SW": {
@@ -6740,14 +7656,17 @@
       "et": "Edelaots",
       "fi": "Lounaispää",
       "fr": "Extrémité SO",
+      "hu": "Dél-nyugati vége",
       "it": "Termine sud-ovest",
       "ja": "南西の終わり",
       "nb-NO": "Sørvestre ende",
       "nn-NO": "Sørvestre ende",
       "pl": "South-west end",
+      "pt-BR": "extremidade Sudoeste",
       "ro": "Capăt sud-vestic",
       "sv": "Sydvästra slutet",
-      "zh-HK": "South-west end"
+      "zh-HK": "South-west end",
+      "zh-TW": "西南盡頭"
     },
     "texts": {
       "bg": "ЮЗ край на {0}",
@@ -6761,14 +7680,17 @@
       "et": "{0} edela ots",
       "fi": "{0}, lounaispää",
       "fr": "{0}, extrémité SO",
+      "hu": "{0} DNY-i vége",
       "it": "{0}, termine sud-ovest",
       "ja": "{0}の南西の終わり",
       "nb-NO": "SV ende {0}",
       "nn-NO": "SV ende {0}",
       "pl": "południowo-zachodni koniec {0}",
+      "pt-BR": "{0}, extremidade SO",
       "ro": "{0} capăt sud-vestic",
-      "sv": "{0}, Sydvästra slutet",
-      "zh-HK": "{0}西南盡頭"
+      "sv": "{0}, SV slutet",
+      "zh-HK": "{0}西南盡頭",
+      "zh-TW": "{0}的西南盡頭"
     }
   },
   "11.8W": {
@@ -6785,14 +7707,17 @@
       "et": "Lääneots",
       "fi": "Länsipää",
       "fr": "Extrémité Ouest",
+      "hu": "Nyugati vége",
       "it": "Termine ovest",
       "ja": "西の終わり",
       "nb-NO": "Vestre ende",
       "nn-NO": "Vestre ende",
       "pl": "West end",
+      "pt-BR": "extremidade Oeste",
       "ro": "Capăt vestic",
       "sv": "Västra slutet",
-      "zh-HK": "West end"
+      "zh-HK": "West end",
+      "zh-TW": "西盡頭"
     },
     "texts": {
       "bg": "западният край на {0}",
@@ -6806,14 +7731,17 @@
       "et": "{0} lääne ots",
       "fi": "{0}, länsipää",
       "fr": "{0}, extrémité Ouest",
+      "hu": "{0} NY-i vége",
       "it": "{0}, termine ovest",
       "ja": "{0}の西の終わり",
       "nb-NO": "V ende {0}",
       "nn-NO": "V ende {0}",
       "pl": "zachodni koniec {0}",
+      "pt-BR": "{0}, extremidade Oeste",
       "ro": "{0} capăt vestic",
-      "sv": "{0}, Västra slutet",
-      "zh-HK": "{0}西盡頭"
+      "sv": "{0}, V slutet",
+      "zh-HK": "{0}西盡頭",
+      "zh-TW": "{0}的西盡頭"
     }
   },
   "11.8NW": {
@@ -6830,14 +7758,17 @@
       "et": "Loodeots",
       "fi": "Luoteispää",
       "fr": "Extrémité NO",
+      "hu": "Észak-nyugati vége",
       "it": "Termine nord-ovest",
       "ja": "北西の終わり",
       "nb-NO": "Nordvestre ende",
       "nn-NO": "Nordvestre ende",
       "pl": "North-west end",
+      "pt-BR": "extremidade Noroeste",
       "ro": "Capăt nord-vestic",
       "sv": "Nordvästra slutet",
-      "zh-HK": "North-west end"
+      "zh-HK": "North-west end",
+      "zh-TW": "西北盡頭"
     },
     "texts": {
       "bg": "СЗ край на {0}",
@@ -6851,14 +7782,17 @@
       "et": "{0} loode ots",
       "fi": "{0}, luoteispää",
       "fr": "{0}, extrémité NO",
+      "hu": "{0} ÉNY-i vége",
       "it": "{0}, termine nord-ovest",
       "ja": "{0}の北西の終わり",
       "nb-NO": "NV ende {0}",
       "nn-NO": "NV ende {0}",
       "pl": "północno-zachodni koniec {0}",
+      "pt-BR": "{0}, extremidade NO",
       "ro": "{0} capăt nord-vestic",
-      "sv": "{0}, Nordvästra slutet",
-      "zh-HK": "{0}西北盡頭"
+      "sv": "{0}, NV slutet",
+      "zh-HK": "{0}西北盡頭",
+      "zh-TW": "{0}的西北盡頭"
     }
   },
   "11.14N": {
@@ -6875,14 +7809,17 @@
       "et": "Põhjajalam",
       "fi": "Pohjoisjuuri",
       "fr": "Pied Nord",
+      "hu": "Északi lába",
       "it": "Piede nord",
       "ja": "北の根元",
       "nb-NO": "Nordre fot",
       "nn-NO": "Nordre fot",
       "pl": "North foot",
+      "pt-BR": "Base Norte",
       "ro": "Piciorul nordic",
       "sv": "Norra foten",
-      "zh-HK": "North foot"
+      "zh-HK": "North foot",
+      "zh-TW": "北面腳下"
     },
     "texts": {
       "bg": "северната основа на {0}",
@@ -6896,14 +7833,17 @@
       "et": "{0} põhjajalamil",
       "fi": "{0}, pohjoisjuuri",
       "fr": "{0}, pied Nord",
+      "hu": "{0} É-i lába",
       "it": "{0}, piede nord",
       "ja": "{0}の北の根元",
       "nb-NO": "N fot {0}",
       "nn-NO": "N fot {0}",
       "pl": "północna strona u podstawy {0}",
+      "pt-BR": "{0}, base Norte",
       "ro": "{0} piciorul nordic",
-      "sv": "{0}, Norra foten",
-      "zh-HK": "{0}北面腳下"
+      "sv": "{0}, N foten",
+      "zh-HK": "{0}北面腳下",
+      "zh-TW": "{0}的北面腳下"
     }
   },
   "11.14NE": {
@@ -6920,14 +7860,17 @@
       "et": "Kirdejalam",
       "fi": "Koillisjuuri",
       "fr": "Pied NE",
+      "hu": "Észak-keleti lába",
       "it": "Piede nord-est",
       "ja": "北東の根元",
       "nb-NO": "Nordøstre fot",
       "nn-NO": "Nortaustre fot",
       "pl": "North-east foot",
+      "pt-BR": "Base Nordeste",
       "ro": "Piciorul nord-estic",
       "sv": "Nordöstra foten",
-      "zh-HK": "North-east foot"
+      "zh-HK": "North-east foot",
+      "zh-TW": "東北面腳下"
     },
     "texts": {
       "bg": "СИ основа на {0}",
@@ -6941,14 +7884,17 @@
       "et": "{0} kirdejalamil",
       "fi": "{0}, koillisjuuri",
       "fr": "{0}, pied NE",
+      "hu": "{0} ÉK-i lába",
       "it": "{0}, piede nord-est",
       "ja": "{0}の北東の根元",
       "nb-NO": "NØ fot {0}",
       "nn-NO": "NE foot of {0}",
       "pl": "północno-wschodnia strona u podstawy {0}",
+      "pt-BR": "{0}, base NE",
       "ro": "{0} piciorul nord-estic",
-      "sv": "{0}, Nordöstra foten",
-      "zh-HK": "{0}東北面腳下"
+      "sv": "{0}, NÖ foten",
+      "zh-HK": "{0}東北面腳下",
+      "zh-TW": "{0}的東北面腳下"
     }
   },
   "11.14E": {
@@ -6965,14 +7911,17 @@
       "et": "Idajalam",
       "fi": "Itäjuuri",
       "fr": "Pied Est",
+      "hu": "Keleti lába",
       "it": "Piede est",
       "ja": "東の根元",
       "nb-NO": "Østre fot",
       "nn-NO": "AUstre fot",
       "pl": "East foot",
+      "pt-BR": "Base Leste",
       "ro": "Piciorul estic",
       "sv": "Östra foten",
-      "zh-HK": "East foot"
+      "zh-HK": "East foot",
+      "zh-TW": "東面腳下"
     },
     "texts": {
       "bg": "източната основа на {0}",
@@ -6986,14 +7935,17 @@
       "et": "{0} idajalamil",
       "fi": "{0}, itäjuuri",
       "fr": "{0}, pied Est",
+      "hu": "{0} K-i lába",
       "it": "{0}, piede est",
       "ja": "{0}の東の根元",
       "nb-NO": "Ø fot {0}",
       "nn-NO": "A fot {0}",
       "pl": "wschodnia strona u podstawy {0}",
+      "pt-BR": "{0}, base Leste",
       "ro": "{0} piciorul estic",
-      "sv": "{0}, Östra foten",
-      "zh-HK": "{0}東面腳下"
+      "sv": "{0}, Ö foten",
+      "zh-HK": "{0}東面腳下",
+      "zh-TW": "{0}的東面腳下"
     }
   },
   "11.14SE": {
@@ -7010,14 +7962,17 @@
       "et": "Kagujalam",
       "fi": "Kaakkoisjuuri",
       "fr": "Pied SE",
+      "hu": "Dél-keleti lába",
       "it": "Piede sud-est",
       "ja": "南東の根元",
       "nb-NO": "Sørøstre fot",
       "nn-NO": "Søraustre fot",
       "pl": "South-east foot",
+      "pt-BR": "Base Sudeste",
       "ro": "Piciorul sud-estic",
       "sv": "Sydöstra foten",
-      "zh-HK": "South-east foot"
+      "zh-HK": "South-east foot",
+      "zh-TW": "東南面腳下"
     },
     "texts": {
       "bg": "ЮИ основа на {0}",
@@ -7031,14 +7986,17 @@
       "et": "{0} kagujalamil",
       "fi": "{0}, kaakkoisjuuri",
       "fr": "{0}, pied SE",
+      "hu": "{0} DK-i lába",
       "it": "{0}, piede sud-est",
       "ja": "{0}の南東の根元",
       "nb-NO": "SØ fot {0}",
       "nn-NO": "SA fot {0}",
       "pl": "południowo-wschodnia strona u podstawy {0}",
+      "pt-BR": "{0}, base SE",
       "ro": "{0} piciorul sud-estic",
-      "sv": "{0}, Sydöstra foten",
-      "zh-HK": "{0}東南面腳下"
+      "sv": "{0}, SÖ foten",
+      "zh-HK": "{0}東南面腳下",
+      "zh-TW": "{0}的東南面腳下"
     }
   },
   "11.14S": {
@@ -7055,14 +8013,17 @@
       "et": "Lõunajalam",
       "fi": "Eteläjuuri",
       "fr": "Pied Sud",
+      "hu": "Déli lába",
       "it": "Piede sud",
       "ja": "南の根元",
       "nb-NO": "Søndre fot",
       "nn-NO": "Søndre fot",
       "pl": "South foot",
+      "pt-BR": "Base Sul",
       "ro": "Piciorul sudic",
       "sv": "Södra foten",
-      "zh-HK": "South foot"
+      "zh-HK": "South foot",
+      "zh-TW": "南面腳下"
     },
     "texts": {
       "bg": "южната основа на {0}",
@@ -7076,14 +8037,17 @@
       "et": "{0} lõunajalamil",
       "fi": "{0}, eteläjuuri",
       "fr": "{0}, pied Sud",
+      "hu": "{0} D-i lába",
       "it": "{0}, piede sud",
       "ja": "{0}の南の根元",
       "nb-NO": "S fot {0}",
       "nn-NO": "S fot {0}",
       "pl": "południowa strona u podstawy {0}",
+      "pt-BR": "{0}, base Sul",
       "ro": "{0} piciorul sudic",
-      "sv": "{0}, Södra foten",
-      "zh-HK": "{0}南面腳下"
+      "sv": "{0}, S foten",
+      "zh-HK": "{0}南面腳下",
+      "zh-TW": "{0}的南面腳下"
     }
   },
   "11.14SW": {
@@ -7100,14 +8064,17 @@
       "et": "Edelajalam",
       "fi": "Lounaisjuuri",
       "fr": "Pied SO",
+      "hu": "Dél-nyugati lába",
       "it": "Piede sud-ovest",
       "ja": "南西の根元",
       "nb-NO": "Sørvestre fot",
       "nn-NO": "Sørvestre fot",
       "pl": "South-west foot",
+      "pt-BR": "Base Sudoeste",
       "ro": "Piciorul sud-vestic",
       "sv": "Sydvästra foten",
-      "zh-HK": "South-west foot"
+      "zh-HK": "South-west foot",
+      "zh-TW": "西南面腳下"
     },
     "texts": {
       "bg": "ЮЗ основа на {0}",
@@ -7121,14 +8088,17 @@
       "et": "{0} edelajalamil",
       "fi": "{0}, lounaisjuuri",
       "fr": "{0}, pied SO",
+      "hu": "{0} DNY-i lába",
       "it": "{0}, piede sud-ovest",
       "ja": "{0}の南西の根元",
       "nb-NO": "SV fot {0}",
       "nn-NO": "SV fot {0}",
       "pl": "południowo-zachodnia strona u podstawy {0}",
+      "pt-BR": "{0}, base SO",
       "ro": "{0} piciorul sud-vestic",
-      "sv": "{0}, Sydvästra foten",
-      "zh-HK": "{0}西南面腳下"
+      "sv": "{0}, SV foten",
+      "zh-HK": "{0}西南面腳下",
+      "zh-TW": "{0}的西南面腳下"
     }
   },
   "11.14W": {
@@ -7145,14 +8115,17 @@
       "et": "Läänejalam",
       "fi": "Länsijuuri",
       "fr": "Pied Ouest",
+      "hu": "Nyugati lába",
       "it": "Piede ovest",
       "ja": "西の根元",
       "nb-NO": "Vestre fot",
       "nn-NO": "Vestre fot",
       "pl": "West foot",
+      "pt-BR": "Base Oeste",
       "ro": "Piciorul vestic",
       "sv": "Västra foten",
-      "zh-HK": "West foot"
+      "zh-HK": "West foot",
+      "zh-TW": "西面腳下"
     },
     "texts": {
       "bg": "западната основа на {0}",
@@ -7166,14 +8139,17 @@
       "et": "{0} läänejalamil",
       "fi": "{0}, länsijuuri",
       "fr": "{0}, pied Ouest",
+      "hu": "{0} NY-i lába",
       "it": "{0}, piede ovest",
       "ja": "{0}の西の根元",
       "nb-NO": "V fot {0}",
       "nn-NO": "V fot {0}",
       "pl": "zachodnia strona u podstawy {0}",
+      "pt-BR": "{0}, base Oeste",
       "ro": "{0} piciorul vestic",
-      "sv": "{0}, Västra foten",
-      "zh-HK": "{0}西面腳下"
+      "sv": "{0}, V foten",
+      "zh-HK": "{0}西面腳下",
+      "zh-TW": "{0}的西面腳下"
     }
   },
   "11.14NW": {
@@ -7190,14 +8166,17 @@
       "et": "Loodejalam",
       "fi": "Luoteisjuuri",
       "fr": "Pied NO",
+      "hu": "Észak-nyugati lába",
       "it": "Piede nord-ovest",
       "ja": "北西の根元",
       "nb-NO": "Nordvestre fot",
       "nn-NO": "Nordvestre fot",
       "pl": "North-west foot",
+      "pt-BR": "Base Noroeste",
       "ro": "Piciorul nord-vestic",
       "sv": "Nordvästra foten",
-      "zh-HK": "North-west foot"
+      "zh-HK": "North-west foot",
+      "zh-TW": "西北面腳下"
     },
     "texts": {
       "bg": "СЗ основа на {0}",
@@ -7211,14 +8190,17 @@
       "et": "{0} loodejalamil",
       "fi": "{0}, luoteisjuuri",
       "fr": "{0}, pied NO",
+      "hu": "{0} ÉNY-i lába",
       "it": "{0}, piede nord-ovest",
       "ja": "{0}の北西の根元",
       "nb-NO": "NV fot {0}",
       "nn-NO": "NV fot {0}",
       "pl": "północno-zachodnia strona u podstawy {0}",
+      "pt-BR": "{0}, base NO",
       "ro": "{0} piciorul nord-vestic",
-      "sv": "{0}, Nordvästra foten",
-      "zh-HK": "{0}西北面腳下"
+      "sv": "{0}, NV foten",
+      "zh-HK": "{0}西北面腳下",
+      "zh-TW": "{0}的西北面腳下"
     }
   },
   "11.9": {
@@ -7235,14 +8217,17 @@
       "et": "Ülaosas",
       "fi": "Yläosa (ylhäällä)",
       "fr": "Partie amont",
+      "hu": "Felső részén",
       "it": "Parte alta",
       "ja": "上の部分",
       "nb-NO": "Øvre del",
       "nn-NO": "Øvre del",
       "pl": "Upper part",
+      "pt-BR": "Parte Superior",
       "ro": "Partea superioară",
       "sv": "Övre delen",
-      "zh-HK": "Upper part"
+      "zh-HK": "Upper part",
+      "zh-TW": "較高處"
     },
     "texts": {
       "bg": "горната част на {0}",
@@ -7256,14 +8241,17 @@
       "et": "{0} ülaosas",
       "fi": "{0}, yläosa",
       "fr": "{0}, partie amont",
+      "hu": "{0} felső részén",
       "it": "{0}, parte alta",
       "ja": "{0}の上の部分",
       "nb-NO": "øvre del {0}",
       "nn-NO": "øvre del {0}",
       "pl": "górna część {0}",
+      "pt-BR": "{0}, parte superior",
       "ro": "partea superioară {0}",
       "sv": "{0}, övre delen",
-      "zh-HK": "{0}上部"
+      "zh-HK": "{0}上部",
+      "zh-TW": "{0}的較高處"
     }
   },
   "11.10": {
@@ -7280,14 +8268,17 @@
       "et": "Lower part",
       "fi": "Alaosa (alhaalla)",
       "fr": "Partie aval",
+      "hu": "Alsó részén",
       "it": "Parte bassa",
       "ja": "下の部分",
       "nb-NO": "Nedre del",
       "nn-NO": "Nedre del",
       "pl": "Lower part",
+      "pt-BR": "Parte Inferior",
       "ro": "Partea inferioară",
       "sv": "Nedre delen",
-      "zh-HK": "Lower part"
+      "zh-HK": "Lower part",
+      "zh-TW": "較低處"
     },
     "texts": {
       "bg": "долната част на {0}",
@@ -7301,14 +8292,17 @@
       "et": "{0} alumises osas",
       "fi": "{0}, alaosa",
       "fr": "{0}, partie aval",
+      "hu": "{0} alsó részén",
       "it": "{0}, parte bassa",
       "ja": "{0}の下の部分",
       "nb-NO": "nedre del {0}",
       "nn-NO": "nedre del {0}",
       "pl": "dolna część {0}",
+      "pt-BR": "{0}, parte inferior",
       "ro": "partea inferioară {0}",
-      "sv": "{0}, Nedre delen",
-      "zh-HK": "{0}下部"
+      "sv": "{0}, nedre delen",
+      "zh-HK": "{0}下部",
+      "zh-TW": "{0}的較低處"
     }
   },
   "11.11": {
@@ -7325,14 +8319,17 @@
       "et": "Peal",
       "fi": "Päällä",
       "fr": "Sur",
+      "hu": "Tetején",
       "it": "In cima",
       "ja": "上",
       "nb-NO": "Oppå",
       "nn-NO": "Oppå",
       "pl": "Top",
+      "pt-BR": "Topo",
       "ro": "În vârful",
       "sv": "Uppe på",
-      "zh-HK": "Top"
+      "zh-HK": "Top",
+      "zh-TW": "頂部"
     },
     "texts": {
       "bg": "отгоре/върху {0}",
@@ -7346,14 +8343,17 @@
       "et": "{0} peal",
       "fi": "{0}, päällä",
       "fr": "sur {0}",
+      "hu": "{0} tetején",
       "it": "{0}, in cima",
       "ja": "{0}の上",
       "nb-NO": "oppå {0}",
       "nn-NO": "oppå {0}",
       "pl": "na górze {0}",
+      "pt-BR": "topo de {0}",
       "ro": "în vârful {0}",
       "sv": "{0}, uppe på",
-      "zh-HK": "{0}頂部"
+      "zh-HK": "{0}頂部",
+      "zh-TW": "{0}的頂部"
     }
   },
   "11.12": {
@@ -7370,14 +8370,17 @@
       "et": "All",
       "fi": "Alla",
       "fr": "Sous",
+      "hu": "Alatt",
       "it": "Sotto",
       "ja": "下",
       "nb-NO": "nedenfor",
       "nn-NO": "Nedanfor",
       "pl": "Beneath",
+      "pt-BR": "Debaixo",
       "ro": "Sub",
       "sv": "Under",
-      "zh-HK": "Beneath"
+      "zh-HK": "Beneath",
+      "zh-TW": "底下"
     },
     "texts": {
       "bg": "отдолу/под {0}",
@@ -7391,14 +8394,17 @@
       "et": "{0} all",
       "fi": "{0}, alla",
       "fr": "sous {0}",
+      "hu": "{0} alatt",
       "it": "{0}, sotto",
       "ja": "{0}の下",
       "nb-NO": "nedenfor {0}",
       "nn-NO": "nedanfor {0}",
       "pl": "pod {0}",
+      "pt-BR": "Debaixo do {0}",
       "ro": "sub {0}",
       "sv": "{0}, under",
-      "zh-HK": "{0}底下"
+      "zh-HK": "{0}底下",
+      "zh-TW": "{0}的底下"
     }
   },
   "11.13": {
@@ -7415,14 +8421,17 @@
       "et": "Jalamil",
       "fi": "Juuri (ei suuntaa)",
       "fr": "Au pied",
+      "hu": "Lába",
       "it": "Piede",
       "ja": "根元",
       "nb-NO": "Ved foten av",
       "nn-NO": "Ved foten av",
       "pl": "Foot",
+      "pt-BR": "Ao pé",
       "ro": "La piciorul",
       "sv": "Foten",
-      "zh-HK": "Foot"
+      "zh-HK": "Foot",
+      "zh-TW": "腳下（無指示方位）"
     },
     "texts": {
       "bg": "в основата на {0}",
@@ -7436,14 +8445,17 @@
       "et": "{0} jalamil",
       "fi": "{0}, juurella",
       "fr": "{0}, au pied",
+      "hu": "{0} lába",
       "it": "{0}, piede",
       "ja": "{0}の根元",
       "nb-NO": "ved foten av {0}",
       "nn-NO": "ved foten av {0}",
       "pl": "u podstawy {0}",
+      "pt-BR": "ao pé do {0}",
       "ro": "La piciorul {0}",
       "sv": "{0}, foten",
-      "zh-HK": "{0}腳下"
+      "zh-HK": "{0}腳下",
+      "zh-TW": " {0}的腳下"
     }
   },
   "11.15": {
@@ -7460,14 +8472,17 @@
       "et": "Vahel",
       "fi": "Välissä",
       "fr": "Entre",
+      "hu": "Között",
       "it": "Tra",
       "ja": "間",
       "nb-NO": "Mellom",
       "nn-NO": "Mellom",
       "pl": "Between",
+      "pt-BR": "Entre",
       "ro": "Între",
       "sv": "Mellan",
-      "zh-HK": "Between"
+      "zh-HK": "Between",
+      "zh-TW": "兩者之間"
     },
     "texts": {
       "bg": "между {0} и {1}",
@@ -7481,14 +8496,17 @@
       "et": "{0} ja {1} vahel",
       "fi": "{0} ja {1}, välissä",
       "fr": "entre {0} et {1}",
+      "hu": "{0} és {1} között",
       "it": "tra {0} e {1}",
       "ja": "{0}と{1}の間",
       "nb-NO": "mellom {0} og {1}",
       "nn-NO": "mellom {0} og {1}",
       "pl": "pomiędzy {0} oraz {1}",
+      "pt-BR": "Entre {0} e {1}",
       "ro": "Între {0} și {1}",
       "sv": "mellan {0} och {1}",
-      "zh-HK": "{0}及{1}之間"
+      "zh-HK": "{0}及{1}之間",
+      "zh-TW": "在 {0} 與 {1}之間"
     }
   },
   "12.1": {
@@ -7505,14 +8523,17 @@
       "et": "Esmaabi",
       "fi": "Ensiapu",
       "fr": "Secours",
+      "hu": "Elsősegély hely",
       "it": "Assistenza medica",
       "ja": "救護所が併設されたコントロール",
       "nb-NO": "Førstehjelp",
       "nn-NO": "Førstehjelp",
       "pl": "First aid post",
+      "pt-BR": "Posto de Primeiros Socorros",
       "ro": "Punct de prim ajutor",
       "sv": "Sjukvård",
-      "zh-HK": "First aid post"
+      "zh-HK": "First aid post",
+      "zh-TW": "急救站"
     },
     "texts": {
       "bg": "медицински пункт",
@@ -7526,14 +8547,17 @@
       "et": "esmaabi",
       "fi": "ensiapu",
       "fr": "secours",
+      "hu": "elsősegély hely",
       "it": "assistenza medica",
       "ja": "救護",
       "nb-NO": "førstehjelp",
       "nn-NO": "first aid",
       "pl": "punkt pierwszej pomocy",
+      "pt-BR": "Primeiros Socorros",
       "ro": "punct de prim ajutor",
-      "sv": "Sjukvård",
-      "zh-HK": "急救站"
+      "sv": "sjukvård",
+      "zh-HK": "急救站",
+      "zh-TW": "急救站"
     }
   },
   "12.2": {
@@ -7550,14 +8574,17 @@
       "et": "Joogi koht",
       "fi": "Juoma",
       "fr": "Ravitaillement",
+      "hu": "Frissítő pont",
       "it": "Ristoro",
       "ja": "給水所が併設されたコントロール",
       "nb-NO": "Væskepost",
       "nn-NO": "Væskepost",
       "pl": "Refreshment point",
+      "pt-BR": "Posto d'água",
       "ro": "Punct de reînvigorare",
       "sv": "Vätska",
-      "zh-HK": "Refreshment point"
+      "zh-HK": "Refreshment point",
+      "zh-TW": "補給點"
     },
     "texts": {
       "bg": "подкрепителен пункт",
@@ -7571,14 +8598,17 @@
       "et": "jook",
       "fi": "juoma",
       "fr": "ravitaillement",
+      "hu": "frissítő pont",
       "it": "ristoro",
       "ja": "給水",
       "nb-NO": "væskepost",
       "nn-NO": "water",
       "pl": "punkt odżywczy",
+      "pt-BR": "Posto d'água",
       "ro": "apă",
-      "sv": "Vätska",
-      "zh-HK": "水站"
+      "sv": "vätska",
+      "zh-HK": "水站",
+      "zh-TW": "補給點"
     }
   },
   "12.3": {
@@ -7595,14 +8625,17 @@
       "et": "Raadio või TV kontrollpunkt",
       "fi": "Radio- tai tv-rasti",
       "fr": "Radio ou TV (transmission)",
+      "hu": "Rádiós vagy TV-s pont",
       "it": "Controllo radio",
       "ja": "無線またはTVのあるコントロール",
       "nb-NO": "Radio- eller TV-post",
       "nn-NO": "Radio- eller TV-post",
       "pl": "Radio or TV control",
+      "pt-BR": "Radio ou TV",
       "ro": "Punct radio sau TV",
-      "sv": "Radio eller TV kontroll",
-      "zh-HK": "Radio or TV control"
+      "sv": "Radio- eller TV-kontroll",
+      "zh-HK": "Radio or TV control",
+      "zh-TW": "無線電或電視檢查點"
     },
     "texts": {
       "bg": "радио или ТВ контрола",
@@ -7616,14 +8649,17 @@
       "et": "raadio",
       "fi": "radio",
       "fr": "radio ou TV",
+      "hu": "rádiós vagy TV-s pont",
       "it": "controllo radio",
       "ja": "無線またはTV",
       "nb-NO": "radio",
       "nn-NO": "radio",
       "pl": "punkt z radiokontrolą lub TV",
+      "pt-BR": "Radio ou TV",
       "ro": "radio-tv",
       "sv": "radio",
-      "zh-HK": "無線電控制點"
+      "zh-HK": "無線電控制點",
+      "zh-TW": "無線電"
     }
   },
   "12.4": {
@@ -7640,14 +8676,17 @@
       "et": "Kohtunikuga punkt",
       "fi": "Miehitetty rasti",
       "fr": "Contrôleur",
+      "hu": "Karton ellenőrzés",
       "it": "Presidio",
       "ja": "コントロールチェック",
       "nb-NO": "Bemannet post",
       "nn-NO": "Bemannet post",
       "pl": "Control check",
+      "pt-BR": "Controlador",
       "ro": "Punct de control",
       "sv": "Bemannad kontroll",
-      "zh-HK": "Control check"
+      "zh-HK": "Control check",
+      "zh-TW": "人員駐守的檢查點"
     },
     "texts": {
       "bg": "място за проверка на състезателен картон",
@@ -7661,14 +8700,17 @@
       "et": "kohtunik",
       "fi": "miehitetty",
       "fr": "contrôleur",
+      "hu": "karton ellenőrzés",
       "it": "presidio",
       "ja": "有人",
       "nb-NO": "bemannet post",
       "nn-NO": "manned",
       "pl": "sędzia na punkcie",
+      "pt-BR": "Controlador",
       "ro": "cu arbitru",
       "sv": "bemannad",
-      "zh-HK": "有工作人員檢查"
+      "zh-HK": "有工作人員檢查",
+      "zh-TW": "人員駐守"
     }
   },
   "13.1": {
@@ -7685,14 +8727,17 @@
       "et": "Tähistus KPst väljumisel",
       "fi": "Seuraa viitoitusta rastilta eteenpäin",
       "fr": "Parcours balisé après le poste",
+      "hu": "Szalagozás ellenörzőponttól",
       "it": "Percorso fettucciato in uscita dal punto",
       "ja": "コントロールから誘導",
       "nb-NO": "Merket løype fra post",
       "nn-NO": "Merket løype frå post",
       "pl": "Taped route away from control",
+      "pt-BR": "Balizamento depois do controle",
       "ro": "Urmează ruta cu banda departe de control",
       "sv": "Snitsel bort från kontroll",
-      "zh-HK": "Taped route away from control"
+      "zh-HK": "Taped route away from control",
+      "zh-TW": "離開檢查點後，有指定路線"
     },
     "texts": {
       "bg": "Следвай маркиран път {0}след/от КТ.",
@@ -7706,14 +8751,17 @@
       "et": "järgi tähistust {0} KPst väljumisel",
       "fi": "seuraa viitoitusta rastilta eteenpäin {0}",
       "fr": "suivre le parcours balisé sur {0}après le poste",
+      "hu": "kövesd a szalagozást az ellenőrző ponttól, hossza {0}",
       "it": "{0}fettucciati in uscita dal punto",
       "ja": "コントロールから誘導 {0}",
       "nb-NO": "merket løype {0} fra post",
       "nn-NO": "merket løype {0} frå post",
       "pl": "oszarfowane {0} odbiegu od PK",
+      "pt-BR": "seguir balizamento {0} depois do ponto",
       "ro": "urmează ruta cu banda {0} departe de control",
-      "sv": "följ snitsel {0}bort från kontrollen",
-      "zh-HK": "隨 {0} 索帶離開控制點"
+      "sv": "följ snitsel, {0}bort från kontrollen",
+      "zh-HK": "隨 {0} 索帶離開控制點",
+      "zh-TW": "離開檢查點後，有 {0} (公尺) 長的指定路線"
     }
   },
   "13.2": {
@@ -7730,14 +8778,17 @@
       "et": "Tähistus KPde vahel",
       "fi": "Seuraa viitoitusta seuraavalle rastille",
       "fr": "Parcours balisé entre deux postes",
+      "hu": "Szalagozás két ellenőrző pont között",
       "it": "Percorso fettucciato tra i punti",
       "ja": "コントロール間の誘導",
       "nb-NO": "Merket løype mellom poster",
       "nn-NO": "Merket løype mellom poster",
       "pl": "Taped route between controls",
+      "pt-BR": "Balizamento entre controles",
       "ro": "Bandă între punctele de control",
       "sv": "Snitsel mellan kontroller",
-      "zh-HK": "Taped route between controls"
+      "zh-HK": "Taped route between controls",
+      "zh-TW": "兩檢查點之間，有指定路線"
     },
     "texts": {
       "bg": "Следвай маркиран път {0}между КТ.",
@@ -7751,14 +8802,17 @@
       "et": "järgi tähistust {0} KPde vahel",
       "fi": "seuraa viitoitusta seuraavalle rastille {0}",
       "fr": "suivre le parcours balisé sur {0}entre les 2 postes",
+      "hu": "kövesd a szalagozást a két ellenőrző pont között, hossza {0}",
       "it": "{0}fettucciati tra i punti",
       "ja": "コントロール間の誘導 {0}",
       "nb-NO": "merket løype {0}mellom poster",
       "nn-NO": "merket løype {0}mellom poster",
       "pl": "oszarfowane {0} pomiędzy PK",
+      "pt-BR": "seguir balizamento {0} entre controles",
       "ro": "urmează banda {0} între punctele de control",
-      "sv": "följ snitsel {0}mellan kontrollerna",
-      "zh-HK": "隨 {0} 索帶前往下一個控制點"
+      "sv": "följ snitsel, {0}mellan kontrollerna",
+      "zh-HK": "隨 {0} 索帶前往下一個控制點",
+      "zh-TW": "兩檢查點之間，有 {0} (公尺) 長的指定路線"
     }
   },
   "13.3": {
@@ -7775,14 +8829,17 @@
       "et": "Kohustuslik ristumine",
       "fi": "Pakollinen ylitys/alituspaikka tai pakolliset ylitys/alituspaikat",
       "fr": "Point de passage obligatoire",
+      "hu": "Kötelező átkelőhely",
       "it": "Passaggio obbligato",
       "ja": "横断地点",
       "nb-NO": "Krysningspunkt",
       "nn-NO": "Krysningspunkt",
       "pl": "Mandatory crossing point or points",
+      "pt-BR": "Ponto de passagem obrigatória",
       "ro": "Punct(e) de trecere obligatoriu(ii)",
       "sv": "Obligatorisk passerpunkt",
-      "zh-HK": "Mandatory crossing point or points"
+      "zh-HK": "Mandatory crossing point or points",
+      "zh-TW": "強制選手必須通越的點"
     },
     "texts": {
       "bg": "задължително място/точка за преминаване",
@@ -7796,14 +8853,17 @@
       "et": "kohustuslik ristumine",
       "fi": "pakollinen ylitys/alituspaikka tai pakolliset ylitys/alituspaikat",
       "fr": "point de passage obligatoire",
+      "hu": "kötelező átkelőhely",
       "it": "passaggio obbligato",
       "ja": "横断地点",
       "nb-NO": "krysningspunkt",
       "nn-NO": "krysningspunkt",
       "pl": "obowiązkowe miejsce przejścia",
+      "pt-BR": "Ponto de passagem obrigatória",
       "ro": "punct de trecere obligatoriu",
       "sv": "obligatorisk passerpunkt",
-      "zh-HK": "強制橫越點"
+      "zh-HK": "強制橫越點",
+      "zh-TW": "強制通越的點"
     }
   },
   "13.4": {
@@ -7820,14 +8880,17 @@
       "et": "Kohustuslik läbipääs",
       "fi": "Pakollinen reitti läpi kielletyn alueen",
       "fr": "Passage obligatoire dans une zone interdite",
+      "hu": "Kötelező útvonal",
       "it": "Tratto obbligato in zona vietata",
       "ja": "立入禁止区域の中の横断部分",
       "nb-NO": "Passasje",
       "nn-NO": "Passage",
       "pl": "Mandatory passage",
+      "pt-BR": "Passagem Obrigatória",
       "ro": "Pasaj obligatoriu",
       "sv": "Obligatorisk passage",
-      "zh-HK": "Mandatory passage"
+      "zh-HK": "Mandatory passage",
+      "zh-TW": "強制選手必須通越的通道"
     },
     "texts": {
       "bg": "задължителен път/отсечка за преминаване през забранена зона",
@@ -7841,14 +8904,17 @@
       "et": "kohustuslik läbipääs",
       "fi": "pakollinen reitti läpi kielletyn alueen",
       "fr": "passage obligatoire à travers une zone interdite",
+      "hu": "kötelező útvonal zárt területen keresztül",
       "it": "tratto obbligato in zona vietata",
       "ja": "立入禁止区域の中の横断部分",
       "nb-NO": "passasje",
       "nn-NO": "passage",
       "pl": "obowiązkowe przejście przez teren zakazany",
+      "pt-BR": "Passagem Obrigatória",
       "ro": "pasaj obligatoriu",
       "sv": "obligatorisk passage",
-      "zh-HK": "強制通道"
+      "zh-HK": "強制通道",
+      "zh-TW": "強制通越的通道"
     }
   },
   "13.5": {
@@ -7865,14 +8931,17 @@
       "et": "Kaardivahetus",
       "fi": "Seuraa viitoitusta kartanvaihtopaikalle",
       "fr": "Parcours balisé jusqu'au changement de carte",
+      "hu": "Térképcsere",
       "it": "Percorso fettucciato fino al cambio carta",
       "ja": "地図交換所まで誘導",
       "nb-NO": "Kartbytte",
       "nn-NO": "Kartbytte",
       "pl": "Map exchange",
+      "pt-BR": "Troca de Mapa",
       "ro": "Schimb de hartă",
       "sv": "Kartbyte",
-      "zh-HK": "Map exchange"
+      "zh-HK": "Map exchange",
+      "zh-TW": "換圖區"
     },
     "texts": {
       "bg": "Следвай маркиран път {0}до място за смяна на картата.",
@@ -7886,50 +8955,78 @@
       "et": "järgi tähistust {0} kaardivahetuseni",
       "fi": "seuraa viitoitusta {0} kartanvaihtopaikalle",
       "fr": "suivre le parcours balisé sur {0}jusqu'au changement de carte",
+      "hu": "kövesd a szalagozást a térképcseréig, hossza {0}",
       "it": "{0}fettucciati fino al cambio carta",
       "ja": "地図交換所まで誘導 {0}",
       "nb-NO": "merket løype {0}til kartbytte",
       "nn-NO": "merket løype {0}til kartbytte",
       "pl": "oszarfowane {0} przebiegu do punktu zmiany mapy",
+      "pt-BR": "seguir balizado {0} para troca de mapa",
       "ro": "urmează banda {0} pentru schimb de hartă",
-      "sv": "följ snitsel {0}till kartbyte",
-      "zh-HK": "隨 {0} 索帶前往換圖處"
+      "sv": "följ snitsel, {0}till kartbyte",
+      "zh-HK": "隨 {0} 索帶前往換圖處",
+      "zh-TW": "沿著 {0} (公尺) 長的指定路線至換圖區"
     }
   },
   "13.5control": {
-    "kind": "W",
+    "kind": "Y",
     "names": {
       "ca": "Canvi de mapa en un control",
       "cs": "Výměna mapy na kontrole",
+      "de": "Kartenwechsel bei Posten",
       "en": "Map exchange at a control",
       "en-AU": "Map exchange at a control",
       "en-GB": "Map exchange at a control",
       "it": "Cambio carta al punto",
       "ja": "コントロールで地図交換",
       "pl": "Map exchange at a control",
-      "zh-HK": "Map exchange at a control"
+      "pt-BR": "Troca de Mapa no controle",
+      "sv": "Kartbyte vid kontroll",
+      "zh-HK": "Map exchange at a control",
+      "zh-TW": "換圖區在檢查點"
     },
     "texts": {
       "ca": "canvi de mapa al control",
       "cs": "výměna mapy na kontrole",
+      "de": "Kartenwechsel beim Posten",
       "en": "map exchange at the control",
       "en-AU": "map exchange at the control",
       "en-GB": "Map exchange at the control",
       "it": "cambio carta al punto",
       "ja": "コントロールで地図交換",
       "pl": "zmiana mapy na PK",
-      "zh-HK": "在控制點換圖"
+      "pt-BR": "Troca de mapa no controle",
+      "sv": "kartbyte vid kontrollen",
+      "zh-HK": "在控制點換圖",
+      "zh-TW": "換圖區在檢查點"
+    }
+  },
+  "15.6": {
+    "kind": "Y",
+    "names": {
+      "en": "Map flip"
+    },
+    "texts": {
+      "en": "Flip map over"
     }
   },
   "13.6": {
     "kind": "V",
     "names": {
+      "de": "Kartenabgabepunkt",
       "en": "Map issue point",
-      "it": "Partenza “svedese”"
+      "it": "Partenza ???svedese???",
+      "pt-BR": "Ponto de entrega de mapa",
+      "sv": "Kartutdelningsplats",
+      "zh-TW": "取圖點"
     },
     "texts": {
+      "de": "{0}zum Start",
       "en": "{0}to start",
-      "it": "{0}fettucciati fino alla partenza"
+      "it": "{0}fettucciati fino alla partenza",
+      "pt-BR": "{0} para Partida",
+      "sv": "{0}till startpunkt",
+      "zh-TW": "{0} (公尺) 至地圖起點"
     }
   },
   "14.1": {
@@ -7946,14 +9043,17 @@
       "et": "Tähistus Finišisse",
       "fi": "Seuraa rastilta lähtevää viitoitusta maaliin",
       "fr": "Parcours entièrement balisé",
+      "hu": "Szalagozás a célig",
       "it": "Arrivo fettucciato",
       "ja": "フィニッシュまで誘導",
       "nb-NO": "Merket løype til mål",
       "nn-NO": "Snitsel til mål",
       "pl": "Taped route to finish",
+      "pt-BR": "Balizamento para chegada",
       "ro": "Bandă până la sosire",
       "sv": "Snitsel till mål",
-      "zh-HK": "Taped route to finish"
+      "zh-HK": "Taped route to finish",
+      "zh-TW": "至終點為指定路線。"
     },
     "texts": {
       "bg": "Следвай маркиран път {0}от последна КТ до финала.",
@@ -7967,14 +9067,17 @@
       "et": "tähistus {0} finišisse",
       "fi": "seuraa rastilta lähtevää viitoitusta {0} maaliin ",
       "fr": "suivre le parcours balisé sur {0}jusqu'à l'arrivée",
+      "hu": "{0} az utolsó ponttól a célig, végig kötelező szalagozással",
       "it": "{0}fettucciati fino all'arrivo",
       "ja": "フィニッシュまで誘導 {0}",
       "nb-NO": "merket løype {0}til mål",
       "nn-NO": "merket løype {0}til mål",
       "pl": "oszarfowane {0}do mety",
+      "pt-BR": "seguir balizamento {0} para chegada",
       "ro": "urmează banda {0} până la sosire",
-      "sv": "följ snitsel {0}till mål",
-      "zh-HK": "隨 {0} 索帶前往終點"
+      "sv": "följ snitsel, {0}från sista kontrollen till mål",
+      "zh-HK": "隨 {0} 索帶前往終點",
+      "zh-TW": "至終點，為{0} (公尺) 長的指定路線。"
     }
   },
   "14.2": {
@@ -7991,14 +9094,17 @@
       "et": "Suundu finišikoridori",
       "fi": "Suunnista kokoavalle viitoitukselle, seuraa viitoitusta maaliin",
       "fr": "Balisage convergent",
+      "hu": "Célfolyosó",
       "it": "Arrivo con corridoio finale fettucciato",
       "ja": "フィニッシュまで漏斗状誘導",
       "nb-NO": "oppfangende merking til mål",
       "nn-NO": "Oppfangende merking til mål",
       "pl": "Navigate to finish funnel",
+      "pt-BR": "Navegar para funil de chegada",
       "ro": "Parcurgere până la pâlnia de sosire",
-      "sv": "uppfångande snitsel till mål",
-      "zh-HK": "Navigate to finish funnel"
+      "sv": "Uppfångande snitsel till mål",
+      "zh-HK": "Navigate to finish funnel",
+      "zh-TW": "依指示匯集進入終點賽道"
     },
     "texts": {
       "bg": "Ориентирайте се до финалния коридор/фуния, после следвайте {0}маркировка до финала.",
@@ -8012,14 +9118,17 @@
       "et": "suundu {0} finišikoridori",
       "fi": "suunnista {0} maaliin, kokoava viitoitus",
       "fr": "{0}jusqu'à l'arrivée (balisage convergent)",
+      "hu": "{0} az utolsó ponttól a célig, a befutó elejét meg kell keresni, innentől kötelező útvonal",
       "it": "{0}con corridoio finale fettucciato fino all'arrivo",
       "ja": "フィニッシュまで漏斗状誘導 {0}",
       "nb-NO": "oppfangende merking {0}før mål",
       "nn-NO": "oppfangende merking {0}før mål",
       "pl": "nawiguj {0}do tunelu dobiegowego przed metą",
+      "pt-BR": "Navegar para funil de chegada e seguir {0} balizados",
       "ro": "parcurgere {0} până la pâlnia de sosire",
-      "sv": "uppfångande snitsel, {0} från sista kontrollen till mål",
-      "zh-HK": "往終點索帶 {0}"
+      "sv": "uppfångande snitsel, {0}från sista kontrollen till mål",
+      "zh-HK": "往終點索帶 {0}",
+      "zh-TW": "還有 {0} (公尺) 進入終點賽道"
     }
   },
   "14.3": {
@@ -8036,14 +9145,17 @@
       "et": "Suundu finišisse (tähistus puudub)",
       "fi": "Suunnista maaliin (ei viitoitusta)",
       "fr": "Trajet non balisé",
+      "hu": "Célkeresés (nincs szalag)",
       "it": "Arrivo non fettucciato",
       "ja": "フィニッシュまで誘導なし",
       "nb-NO": "Ingen merking til mål",
       "nn-NO": "Ingen merking til mål",
       "pl": "Navigate to finish (no tapes)",
+      "pt-BR": "Navegar para chegada (sem balizamento)",
       "ro": "Parcurgere până la sosire (fără bandă)",
       "sv": "Ingen snitsel till mål",
-      "zh-HK": "Navigate to finish (no tapes)"
+      "zh-HK": "Navigate to finish (no tapes)",
+      "zh-TW": "依前進方向指示進入終點 (無指定路線)。"
     },
     "texts": {
       "bg": "Ориентирайте се {0}от последна КТ до финала, няма маркировка.",
@@ -8057,14 +9169,17 @@
       "et": "suundu {0} finišisse",
       "fi": "suunnista {0} maaliin (ei viitoitusta)",
       "fr": "s'orienter sur {0}jusqu'à l'arrivée (trajet non balisé)",
+      "hu": "{0} az utolsó ponttól a célig, nincs szalagozás, a cél tájékozódási feladat",
       "it": "{0}non fettucciati fino all'arrivo",
       "ja": "フィニッシュまで誘導なし {0}",
       "nb-NO": "ingen merking {0}til mål",
       "nn-NO": "ingen merking {0}til mål",
       "pl": "nawiguj {0}do mety",
+      "pt-BR": "Navegar {0} até a chegada (sem balizamento)",
       "ro": "parcurgere {0} până la sosire",
-      "sv": "ingen snitsel {0}till mål",
-      "zh-HK": "往終點 {0}"
+      "sv": "ingen snitsel, {0}från sista kontrollen till mål",
+      "zh-HK": "往終點 {0}",
+      "zh-TW": "還有 {0} (公尺) 到終點"
     }
   }
 }
