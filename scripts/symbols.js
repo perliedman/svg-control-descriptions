@@ -1,6 +1,10 @@
 const fs = require("fs");
 const path = require("path");
-const { DOMParser, XMLSerializer, DOMImplementation } = require("@xmldom/xmldom");
+const {
+  DOMParser,
+  XMLSerializer,
+  DOMImplementation,
+} = require("@xmldom/xmldom");
 
 const getSvg = (symbol, width, height) => {
   var viewBox = `${-width / 2} ${-height / 2} ${width} ${height}`;
@@ -172,8 +176,8 @@ const svgCoord = (p) =>
 
 const [symbolsPath, outputPath] = process.argv.slice(2);
 
-const symbolXml = fs.readFileSync(symbolsPath, "utf8");
-const doc = new DOMParser().parseFromString(symbolXml);
+const symbolXml = new TextDecoder().decode(fs.readFileSync(symbolsPath));
+const doc = new DOMParser().parseFromString(symbolXml, "text/xml");
 const domImpl = new DOMImplementation();
 
 const lang = {};
