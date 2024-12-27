@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/perliedman/svg-control-descriptions#readme",
   "devDependencies": {
-    "xmldom": "^0.1.27"
+    "@xmldom/xmldom": "^0.9.6"
   }
 }
