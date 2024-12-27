@@ -2,15 +2,8 @@ const fs = require("fs");
 const path = require("path");
 const { DOMParser, XMLSerializer, DOMImplementation } = require("xmldom");
 
-const getSvg = (symbol) => {
-  const bounds = getBounds(symbol);
-  var width = 200;
-  const height = 200;
-  var viewBox = `-100 -100 200 200`;
-  if (bounds[2] - bounds[0] > 1000) {
-    viewBox =  `-800 -100 1600 200`;
-    width = 1600;
-  }
+const getSvg = (symbol, width, height) => {
+  var viewBox = `${-width / 2} ${-height / 2} ${width} ${height}`;
 
   return {
     type: "svg",
@@ -186,7 +179,12 @@ const domImpl = new DOMImplementation();
 const lang = {};
 
 Array.from(doc.getElementsByTagName("symbol")).forEach((s) => {
-  const svg = getSvg(s);
+  const id = s.getAttribute("id");
+  const match = /(\d+)\.\d+/.exec(id);
+  const group = match?.[1];
+  const isRowSymbol = group === "13" || group === "14";
+
+  const svg = getSvg(s, isRowSymbol ? 1600 : 200, 200);
 
   if (svg.children.length > 0) {
     const doc = domImpl.createDocument();
@@ -194,7 +192,6 @@ Array.from(doc.getElementsByTagName("symbol")).forEach((s) => {
       doc.createProcessingInstruction("xml", 'version="1.0"', 'charset="utf-8"')
     );
     doc.appendChild(createSvgNode(doc, svg));
-    const id = s.getAttribute("id");
     const svgPath = path.join(outputPath, `${id}.svg`);
     fs.writeFileSync(
       svgPath,
