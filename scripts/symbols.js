@@ -28,6 +28,7 @@ const getSvg = (symbol, width, height) => {
 };
 
 const getLang = (symbol) => ({
+  standard: symbol.getAttribute("standard"),
   kind: symbol.getAttribute("kind"),
   names: buildDict(symbol, "name", "lang"),
   texts: buildDict(symbol, "text", "lang"),
@@ -174,7 +175,7 @@ const flatten = (xs) => Array.prototype.concat.apply([], xs);
 const svgCoord = (p) =>
   `${Number(p.getAttribute("x"))} ${-Number(p.getAttribute("y"))}`;
 
-const [symbolsPath, outputPath] = process.argv.slice(2);
+const [symbolsPath, outputPath, standard = "2018"] = process.argv.slice(2);
 
 const symbolXml = new TextDecoder().decode(fs.readFileSync(symbolsPath));
 const doc = new DOMParser().parseFromString(symbolXml, "text/xml");
@@ -191,6 +192,9 @@ Array.from(doc.getElementsByTagName("symbol")).forEach((s) => {
   const svg = getSvg(s, isRowSymbol ? 1600 : 200, 200);
 
   if (svg.children.length > 0) {
+    const l = getLang(s);
+    if (l.standard && l.standard !== standard) return;
+
     const doc = domImpl.createDocument();
     doc.appendChild(
       doc.createProcessingInstruction("xml", 'version="1.0"', 'charset="utf-8"')
@@ -202,7 +206,7 @@ Array.from(doc.getElementsByTagName("symbol")).forEach((s) => {
       new XMLSerializer().serializeToString(doc),
       "utf8"
     );
-    lang[id] = getLang(s);
+    lang[id] = l;
   }
 });
 
