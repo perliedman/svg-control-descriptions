@@ -1,5 +1,6 @@
 {
   "start": {
+    "standard": null,
     "kind": "A",
     "names": {
       "bg": "Старт",
@@ -51,6 +52,7 @@
     }
   },
   "0.1N": {
+    "standard": null,
     "kind": "C",
     "names": {
       "bg": "Северният",
@@ -102,6 +104,7 @@
     }
   },
   "0.2NE": {
+    "standard": null,
     "kind": "C",
     "names": {
       "bg": "Североизточният",
@@ -153,6 +156,7 @@
     }
   },
   "0.1E": {
+    "standard": null,
     "kind": "C",
     "names": {
       "bg": "Източният",
@@ -204,6 +208,7 @@
     }
   },
   "0.2SE": {
+    "standard": null,
     "kind": "C",
     "names": {
       "bg": "Югоизточният",
@@ -255,6 +260,7 @@
     }
   },
   "0.1S": {
+    "standard": null,
     "kind": "C",
     "names": {
       "bg": "Южният",
@@ -306,6 +312,7 @@
     }
   },
   "0.2SW": {
+    "standard": null,
     "kind": "C",
     "names": {
       "bg": "Югозападният",
@@ -357,6 +364,7 @@
     }
   },
   "0.1W": {
+    "standard": null,
     "kind": "C",
     "names": {
       "bg": "Западният",
@@ -408,6 +416,7 @@
     }
   },
   "0.2NW": {
+    "standard": null,
     "kind": "C",
     "names": {
       "bg": "Северозападният",
@@ -459,6 +468,7 @@
     }
   },
   "0.3": {
+    "standard": null,
     "kind": "C",
     "names": {
       "bg": "Горният",
@@ -510,6 +520,7 @@
     }
   },
   "0.4": {
+    "standard": null,
     "kind": "C",
     "names": {
       "bg": "Долният",
@@ -561,6 +572,7 @@
     }
   },
   "0.5": {
+    "standard": null,
     "kind": "C",
     "names": {
       "bg": "Средният",
@@ -612,6 +624,7 @@
     }
   },
   "1.1": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Тераса",
@@ -663,6 +676,7 @@
     }
   },
   "1.2": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Нос, късо било",
@@ -714,6 +728,7 @@
     }
   },
   "1.3": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Дере",
@@ -765,6 +780,7 @@
     }
   },
   "1.4": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Земен откос",
@@ -816,6 +832,7 @@
     }
   },
   "1.5": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Кариера",
@@ -867,6 +884,7 @@
     }
   },
   "1.6": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Земна дига",
@@ -918,6 +936,7 @@
     }
   },
   "1.7": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Овраг",
@@ -969,6 +988,7 @@
     }
   },
   "1.8": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Канавка",
@@ -1020,6 +1040,7 @@
     }
   },
   "1.9": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Връх",
@@ -1071,6 +1092,7 @@
     }
   },
   "1.10": {
+    "standard": "2018",
     "kind": "D",
     "names": {
       "bg": "Могилка, малко връхче",
@@ -1122,6 +1144,7 @@
     }
   },
   "1.11": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Седло",
@@ -1173,6 +1196,7 @@
     }
   },
   "1.12": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Понор",
@@ -1224,6 +1248,7 @@
     }
   },
   "1.13": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Малка яма (плитка дупка)",
@@ -1275,6 +1300,7 @@
     }
   },
   "1.14": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Дупка",
@@ -1326,6 +1352,7 @@
     }
   },
   "1.15": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Неравен терен / лисичи дупки",
@@ -1377,6 +1404,7 @@
     }
   },
   "1.16": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Мравуняк",
@@ -1428,6 +1456,7 @@
     }
   },
   "2.1": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Скала, скална стена",
@@ -1479,6 +1508,7 @@
     }
   },
   "2.2": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Канара",
@@ -1530,6 +1560,7 @@
     }
   },
   "2.3": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Пещера",
@@ -1581,6 +1612,7 @@
     }
   },
   "2.4": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Камък",
@@ -1632,6 +1664,7 @@
     }
   },
   "2.5": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Каменно поле",
@@ -1683,6 +1716,7 @@
     }
   },
   "2.6": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Група камъни",
@@ -1734,6 +1768,7 @@
     }
   },
   "2.7": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Камениста област",
@@ -1785,6 +1820,7 @@
     }
   },
   "2.8": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Открита скала",
@@ -1836,6 +1872,7 @@
     }
   },
   "2.9": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Проход",
@@ -1887,6 +1924,7 @@
     }
   },
   "2.10": {
+    "standard": "2018",
     "kind": "D",
     "names": {
       "de": "Steiniger Graben",
@@ -1904,6 +1942,7 @@
     }
   },
   "3.1": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Езеро",
@@ -1955,6 +1994,7 @@
     }
   },
   "3.2": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Езерце",
@@ -2006,6 +2046,7 @@
     }
   },
   "3.3": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Водна дупка",
@@ -2057,6 +2098,7 @@
     }
   },
   "3.4": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Река, поток",
@@ -2108,6 +2150,7 @@
     }
   },
   "3.5": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Малък воден канал/канавка",
@@ -2159,6 +2202,7 @@
     }
   },
   "3.6": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Заблатена ивица",
@@ -2210,6 +2254,7 @@
     }
   },
   "3.7": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Блато",
@@ -2261,6 +2306,7 @@
     }
   },
   "3.8": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Твърда почва в блато",
@@ -2312,6 +2358,7 @@
     }
   },
   "3.9": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Кладенец",
@@ -2363,6 +2410,7 @@
     }
   },
   "3.10": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Извор",
@@ -2414,6 +2462,7 @@
     }
   },
   "3.11": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Каптаж, воден резервоар",
@@ -2465,6 +2514,7 @@
     }
   },
   "4.1": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Открита площ",
@@ -2516,6 +2566,7 @@
     }
   },
   "4.2": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Полуоткрита площ",
@@ -2567,6 +2618,7 @@
     }
   },
   "4.3": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Ъгъл на гора",
@@ -2618,6 +2670,7 @@
     }
   },
   "4.4": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Просветление",
@@ -2669,6 +2722,7 @@
     }
   },
   "4.5": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Гъсталак",
@@ -2720,6 +2774,7 @@
     }
   },
   "4.6": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Линеен растителен пояс",
@@ -2771,6 +2826,7 @@
     }
   },
   "4.7": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Растителна граница",
@@ -2822,6 +2878,7 @@
     }
   },
   "4.8": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Група дървета",
@@ -2873,6 +2930,7 @@
     }
   },
   "4.9": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Характерно дърво",
@@ -2924,6 +2982,7 @@
     }
   },
   "4.10": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Коренище, дънер",
@@ -2975,6 +3034,7 @@
     }
   },
   "5.1": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Шосе",
@@ -3026,6 +3086,7 @@
     }
   },
   "5.2": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Път, пътека",
@@ -3077,6 +3138,7 @@
     }
   },
   "5.3": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Просека",
@@ -3128,6 +3190,7 @@
     }
   },
   "5.4": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Мост",
@@ -3179,6 +3242,7 @@
     }
   },
   "5.5": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Далекопровод",
@@ -3230,6 +3294,7 @@
     }
   },
   "5.6": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Стълб на далекопровод",
@@ -3281,6 +3346,7 @@
     }
   },
   "5.7": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Тунел",
@@ -3332,6 +3398,7 @@
     }
   },
   "5.8": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Стена/зид",
@@ -3383,6 +3450,7 @@
     }
   },
   "5.9": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Ограда",
@@ -3434,6 +3502,7 @@
     }
   },
   "5.10": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Място за преминаване",
@@ -3485,6 +3554,7 @@
     }
   },
   "5.11": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Постройка",
@@ -3536,6 +3606,7 @@
     }
   },
   "5.12": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Павирана площ",
@@ -3587,6 +3658,7 @@
     }
   },
   "5.13": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Развалина",
@@ -3638,6 +3710,7 @@
     }
   },
   "5.14": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Тръбопровод",
@@ -3689,6 +3762,7 @@
     }
   },
   "5.15": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Кула",
@@ -3740,6 +3814,7 @@
     }
   },
   "5.16": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Вишка",
@@ -3791,6 +3866,7 @@
     }
   },
   "5.17": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Граничен камък",
@@ -3842,6 +3918,7 @@
     }
   },
   "5.18": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Хранилка",
@@ -3893,6 +3970,7 @@
     }
   },
   "5.19": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Останки от огнище",
@@ -3944,6 +4022,7 @@
     }
   },
   "5.20": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Паметник",
@@ -3995,6 +4074,7 @@
     }
   },
   "5.23": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Вътрешен тунел",
@@ -4046,6 +4126,7 @@
     }
   },
   "5.24": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Стълбище",
@@ -4097,6 +4178,7 @@
     }
   },
   "5.25": {
+    "standard": "2018",
     "kind": "D",
     "names": {
       "de": "Blumenbeet / Verbotenes Gebiet",
@@ -4114,6 +4196,7 @@
     }
   },
   "5.26": {
+    "standard": "2018",
     "kind": "D",
     "names": {
       "en": "Railway"
@@ -4125,6 +4208,7 @@
     }
   },
   "6.1": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Специфичен обект",
@@ -4176,6 +4260,7 @@
     }
   },
   "6.2": {
+    "standard": null,
     "kind": "D",
     "names": {
       "bg": "Специфичен обект",
@@ -4227,6 +4312,7 @@
     }
   },
   "8.1": {
+    "standard": null,
     "kind": "E",
     "names": {
       "bg": "Нисък",
@@ -4278,6 +4364,7 @@
     }
   },
   "8.2": {
+    "standard": null,
     "kind": "E",
     "names": {
       "bg": "Плитък, разлят",
@@ -4329,6 +4416,7 @@
     }
   },
   "8.3": {
+    "standard": null,
     "kind": "E",
     "names": {
       "bg": "Дълбок",
@@ -4380,6 +4468,7 @@
     }
   },
   "8.4": {
+    "standard": null,
     "kind": "E",
     "names": {
       "bg": "Обрасъл",
@@ -4431,6 +4520,7 @@
     }
   },
   "8.5": {
+    "standard": null,
     "kind": "E",
     "names": {
       "bg": "Открит",
@@ -4482,6 +4572,7 @@
     }
   },
   "8.6": {
+    "standard": null,
     "kind": "E",
     "names": {
       "bg": "Каменист",
@@ -4533,6 +4624,7 @@
     }
   },
   "8.7": {
+    "standard": null,
     "kind": "E",
     "names": {
       "bg": "Заблатено",
@@ -4584,6 +4676,7 @@
     }
   },
   "8.8": {
+    "standard": null,
     "kind": "E",
     "names": {
       "bg": "Песъчлив",
@@ -4635,6 +4728,7 @@
     }
   },
   "8.9": {
+    "standard": null,
     "kind": "E",
     "names": {
       "bg": "Иглолистно дърво",
@@ -4686,6 +4780,7 @@
     }
   },
   "8.10": {
+    "standard": null,
     "kind": "E",
     "names": {
       "bg": "Широколистно дърво",
@@ -4737,6 +4832,7 @@
     }
   },
   "8.11": {
+    "standard": null,
     "kind": "E",
     "names": {
       "bg": "Разрушен",
@@ -4788,6 +4884,7 @@
     }
   },
   "10.1": {
+    "standard": null,
     "kind": "F",
     "names": {
       "bg": "Пресичане",
@@ -4839,6 +4936,7 @@
     }
   },
   "10.2": {
+    "standard": null,
     "kind": "F",
     "names": {
       "bg": "Събиране/сливане",
@@ -4890,7 +4988,8 @@
     }
   },
   "11.7": {
-    "kind": "G",
+    "standard": "2018",
+    "kind": "F",
     "names": {
       "bg": "Завой",
       "ca": "Corba",
@@ -4909,7 +5008,7 @@
       "nb-NO": "Kne",
       "nn-NO": "Kne",
       "pl": "Bend",
-      "pt-BR": "Curva",
+      "pt-BR": "na Curva",
       "ro": "Cotitură",
       "sv": "Kröken",
       "zh-HK": "Bend",
@@ -4933,7 +5032,7 @@
       "nb-NO": "kne {0}",
       "nn-NO": "kne {0}",
       "pl": "zakręt {0}",
-      "pt-BR": "Curva de {0}",
+      "pt-BR": "{0}, na curva",
       "ro": "cotitură de {0}",
       "sv": "{0}, kröken",
       "zh-HK": "{0}彎位",
@@ -4941,6 +5040,7 @@
     }
   },
   "11.1N": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северна страна",
@@ -4992,6 +5092,7 @@
     }
   },
   "11.1NE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Североизточна страна",
@@ -5043,6 +5144,7 @@
     }
   },
   "11.1E": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Източна страна",
@@ -5094,6 +5196,7 @@
     }
   },
   "11.1SE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югоизточна страна",
@@ -5145,6 +5248,7 @@
     }
   },
   "11.1S": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Южна страна",
@@ -5196,6 +5300,7 @@
     }
   },
   "11.1SW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югозападна страна",
@@ -5247,6 +5352,7 @@
     }
   },
   "11.1W": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Западна страна",
@@ -5298,6 +5404,7 @@
     }
   },
   "11.1NW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северозападна страна",
@@ -5348,6 +5455,7 @@
     }
   },
   "11.2N": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северен край",
@@ -5399,6 +5507,7 @@
     }
   },
   "11.2NE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Североизточен край",
@@ -5450,6 +5559,7 @@
     }
   },
   "11.2E": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Източен край",
@@ -5501,6 +5611,7 @@
     }
   },
   "11.2SE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югоизточен край",
@@ -5552,6 +5663,7 @@
     }
   },
   "11.2S": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Южен край",
@@ -5603,6 +5715,7 @@
     }
   },
   "11.2SW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югозападен край",
@@ -5654,6 +5767,7 @@
     }
   },
   "11.2W": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Западен край",
@@ -5705,6 +5819,7 @@
     }
   },
   "11.2NW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северозападен край",
@@ -5756,6 +5871,7 @@
     }
   },
   "11.3N": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северна част",
@@ -5807,6 +5923,7 @@
     }
   },
   "11.3NE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Североизточна част",
@@ -5858,6 +5975,7 @@
     }
   },
   "11.3E": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Източна част",
@@ -5909,6 +6027,7 @@
     }
   },
   "11.3SE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югоизточна част",
@@ -5960,6 +6079,7 @@
     }
   },
   "11.3S": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Южна част",
@@ -6011,6 +6131,7 @@
     }
   },
   "11.3SW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югозападна част",
@@ -6062,6 +6183,7 @@
     }
   },
   "11.3W": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Западна част",
@@ -6113,6 +6235,7 @@
     }
   },
   "11.3NW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северозападна част",
@@ -6164,6 +6287,7 @@
     }
   },
   "11.4N": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северен ъгъл (отвътре)",
@@ -6215,6 +6339,7 @@
     }
   },
   "11.4NE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Североизточен ъгъл (отвътре)",
@@ -6266,6 +6391,7 @@
     }
   },
   "11.4E": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Източен ъгъл (отвътре)",
@@ -6317,6 +6443,7 @@
     }
   },
   "11.4SE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югоизточен ъгъл (отвътре)",
@@ -6368,6 +6495,7 @@
     }
   },
   "11.4S": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Южен ъгъл (отвътре)",
@@ -6419,6 +6547,7 @@
     }
   },
   "11.4SW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югозападен ъгъл (отвътре)",
@@ -6470,6 +6599,7 @@
     }
   },
   "11.4W": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Западен ъгъл (отвътре)",
@@ -6521,6 +6651,7 @@
     }
   },
   "11.4NW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северозападен ъгъл (отвътре)",
@@ -6572,6 +6703,7 @@
     }
   },
   "11.5N": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северен ъгъл (отвън)",
@@ -6623,6 +6755,7 @@
     }
   },
   "11.5NE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Североизточен ъгъл (отвън)",
@@ -6674,6 +6807,7 @@
     }
   },
   "11.5E": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Източен ъгъл (отвън)",
@@ -6725,6 +6859,7 @@
     }
   },
   "11.5SE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югоизточен ъгъл (отвън)",
@@ -6776,6 +6911,7 @@
     }
   },
   "11.5S": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Южен ъгъл (отвън)",
@@ -6827,6 +6963,7 @@
     }
   },
   "11.5SW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югозападен ъгъл (отвън)",
@@ -6878,6 +7015,7 @@
     }
   },
   "11.5W": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Западен ъгъл (отвън)",
@@ -6929,6 +7067,7 @@
     }
   },
   "11.5NW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северозападен ъгъл (отвън)",
@@ -6980,6 +7119,7 @@
     }
   },
   "11.6N": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северен връх",
@@ -7031,6 +7171,7 @@
     }
   },
   "11.6NE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Североизточен връх",
@@ -7082,6 +7223,7 @@
     }
   },
   "11.6E": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Източен връх",
@@ -7133,6 +7275,7 @@
     }
   },
   "11.6SE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югоизточен връх",
@@ -7184,6 +7327,7 @@
     }
   },
   "11.6S": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Южен връх",
@@ -7235,6 +7379,7 @@
     }
   },
   "11.6SW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югозападен връх",
@@ -7286,6 +7431,7 @@
     }
   },
   "11.6W": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Западен връх",
@@ -7337,6 +7483,7 @@
     }
   },
   "11.6NW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северозападен връх",
@@ -7388,6 +7535,7 @@
     }
   },
   "11.8N": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северен край",
@@ -7439,6 +7587,7 @@
     }
   },
   "11.8NE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Североизточен край",
@@ -7490,6 +7639,7 @@
     }
   },
   "11.8E": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Източен край",
@@ -7541,6 +7691,7 @@
     }
   },
   "11.8SE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югоизточен край",
@@ -7592,6 +7743,7 @@
     }
   },
   "11.8S": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Южен край",
@@ -7643,6 +7795,7 @@
     }
   },
   "11.8SW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югозападен край",
@@ -7694,6 +7847,7 @@
     }
   },
   "11.8W": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Западен край",
@@ -7745,6 +7899,7 @@
     }
   },
   "11.8NW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северозападен край",
@@ -7796,6 +7951,7 @@
     }
   },
   "11.14N": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северна основа",
@@ -7847,6 +8003,7 @@
     }
   },
   "11.14NE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Североизточна основа",
@@ -7898,6 +8055,7 @@
     }
   },
   "11.14E": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Източна основа",
@@ -7949,6 +8107,7 @@
     }
   },
   "11.14SE": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югоизточна основа",
@@ -8000,6 +8159,7 @@
     }
   },
   "11.14S": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Южна основа",
@@ -8051,6 +8211,7 @@
     }
   },
   "11.14SW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Югозападна основа",
@@ -8102,6 +8263,7 @@
     }
   },
   "11.14W": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Западна основа",
@@ -8153,6 +8315,7 @@
     }
   },
   "11.14NW": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Северозападна основа",
@@ -8204,6 +8367,7 @@
     }
   },
   "11.9": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Горната част",
@@ -8255,6 +8419,7 @@
     }
   },
   "11.10": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Долната част",
@@ -8306,6 +8471,7 @@
     }
   },
   "11.11": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Отгоре/върху",
@@ -8357,6 +8523,7 @@
     }
   },
   "11.12": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Отдолу/под",
@@ -8408,6 +8575,7 @@
     }
   },
   "11.13": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "В основата (без указване на местоположението)",
@@ -8459,6 +8627,7 @@
     }
   },
   "11.15": {
+    "standard": null,
     "kind": "G",
     "names": {
       "bg": "Между",
@@ -8510,6 +8679,7 @@
     }
   },
   "12.1": {
+    "standard": null,
     "kind": "H",
     "names": {
       "bg": "Медицински пункт",
@@ -8561,6 +8731,7 @@
     }
   },
   "12.2": {
+    "standard": null,
     "kind": "H",
     "names": {
       "bg": "Подкрепителен пункт",
@@ -8611,58 +8782,8 @@
       "zh-TW": "補給點"
     }
   },
-  "12.3": {
-    "kind": "H",
-    "names": {
-      "bg": "Радио или ТВ контрола",
-      "ca": "Lloc de transmissió",
-      "cs": "Radiokontrola",
-      "de": "Funkposten",
-      "en": "Radio or TV control",
-      "en-AU": "Radio or TV control",
-      "en-GB": "Radio or TV control",
-      "es": "Puesto de radio",
-      "et": "Raadio või TV kontrollpunkt",
-      "fi": "Radio- tai tv-rasti",
-      "fr": "Radio ou TV (transmission)",
-      "hu": "Rádiós vagy TV-s pont",
-      "it": "Controllo radio",
-      "ja": "無線またはTVのあるコントロール",
-      "nb-NO": "Radio- eller TV-post",
-      "nn-NO": "Radio- eller TV-post",
-      "pl": "Radio or TV control",
-      "pt-BR": "Radio ou TV",
-      "ro": "Punct radio sau TV",
-      "sv": "Radio- eller TV-kontroll",
-      "zh-HK": "Radio or TV control",
-      "zh-TW": "無線電或電視檢查點"
-    },
-    "texts": {
-      "bg": "радио или ТВ контрола",
-      "ca": "lloc de transmissió",
-      "cs": "radio",
-      "de": "Funkposten",
-      "en": "radio",
-      "en-AU": "radio",
-      "en-GB": "radio",
-      "es": "radio",
-      "et": "raadio",
-      "fi": "radio",
-      "fr": "radio ou TV",
-      "hu": "rádiós vagy TV-s pont",
-      "it": "controllo radio",
-      "ja": "無線またはTV",
-      "nb-NO": "radio",
-      "nn-NO": "radio",
-      "pl": "punkt z radiokontrolą lub TV",
-      "pt-BR": "Radio ou TV",
-      "ro": "radio-tv",
-      "sv": "radio",
-      "zh-HK": "無線電控制點",
-      "zh-TW": "無線電"
-    }
-  },
   "12.4": {
+    "standard": null,
     "kind": "H",
     "names": {
       "bg": "Проверка на състезателен картон",
@@ -8714,6 +8835,7 @@
     }
   },
   "13.1": {
+    "standard": null,
     "kind": "W",
     "names": {
       "bg": "Следвай маркиран път след/от КТ",
@@ -8765,6 +8887,7 @@
     }
   },
   "13.2": {
+    "standard": null,
     "kind": "W",
     "names": {
       "bg": "Следвай маркиран път между КТ",
@@ -8816,6 +8939,7 @@
     }
   },
   "13.3": {
+    "standard": null,
     "kind": "X",
     "names": {
       "bg": "Задължително място/точка или места/точки за преминаване",
@@ -8867,6 +8991,7 @@
     }
   },
   "13.4": {
+    "standard": null,
     "kind": "X",
     "names": {
       "bg": "Задължителен път/отсечка за преминаване през забранена зона",
@@ -8918,6 +9043,7 @@
     }
   },
   "13.5": {
+    "standard": null,
     "kind": "W",
     "names": {
       "bg": "Следвай маркиран път до място за смяна на картата",
@@ -8969,6 +9095,7 @@
     }
   },
   "13.5control": {
+    "standard": null,
     "kind": "Y",
     "names": {
       "ca": "Canvi de mapa en un control",
@@ -9002,6 +9129,7 @@
     }
   },
   "15.6": {
+    "standard": "2018",
     "kind": "Y",
     "names": {
       "en": "Map flip"
@@ -9011,6 +9139,7 @@
     }
   },
   "13.6": {
+    "standard": null,
     "kind": "V",
     "names": {
       "de": "Kartenabgabepunkt",
@@ -9030,6 +9159,7 @@
     }
   },
   "14.1": {
+    "standard": null,
     "kind": "Z",
     "names": {
       "bg": "Следвай маркиран път от последна КТ до финала.",
@@ -9081,6 +9211,7 @@
     }
   },
   "14.2": {
+    "standard": null,
     "kind": "Z",
     "names": {
       "bg": "Ориентирайте се до финалния коридор/фуния, после следвайте маркировка до финала.",
@@ -9132,6 +9263,7 @@
     }
   },
   "14.3": {
+    "standard": null,
     "kind": "Z",
     "names": {
       "bg": "Ориентирайте се от последна КТ до финала, няма маркировка.",
